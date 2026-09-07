@@ -188,49 +188,50 @@ does instead is extractive. "What happened" is assembled from sentences the publ
 actually wrote, taken from the article text the program fetches for the stories that make
 the brief. Nothing there is generated, which means nothing there can be invented.
 
-"Simply explained" is a glossary lookup. I have hand written definitions for 68 recurring
-terms (inference, foundation model, zero-day, Series A, export controls, and so on) and
-if any appear in the story the brief explains them. When none appear it says so instead
-of padding.
+The other two fields are placeholders. They are deliberate placeholders, but I want to be
+clear that is what they are.
 
-"Why it matters" comes from ten weighted rules that spot the category of event in the
-text: a court case, an acquisition, a funding round, a security incident, a chip supply
-story, and so on. Each has a short explanation of why that kind of event generally has
-consequences.
+"Simply explained" is currently a glossary lookup against 68 definitions I wrote by hand
+(inference, foundation model, zero-day, Series A, export controls, and so on). If one of
+those terms turns up in a story, the brief explains it. There is an obvious problem with
+that, which is that I can only write a definition for a term I already understand well
+enough to define. So the glossary explains things I already know and stays quiet about
+the ones I don't, which is precisely backwards from what I actually wanted. It proves the
+slot works. It does not do the job.
 
-That last one is the weakest part and I would rather flag it than dress it up. It tells
-you why acquisitions matter in general, not why this acquisition matters. It is a
-category label with a sentence attached, and occasionally it picks the wrong category.
+"Why it matters" has the same shape of problem. Ten weighted rules spot the category of
+event in the text (a court case, an acquisition, a funding round, a security incident, a
+chip supply story) and each category has a sentence explaining why that kind of event
+tends to have consequences. So it can tell you why acquisitions matter in general. It
+cannot tell you why this acquisition matters, because it has no idea what it is looking
+at. It also picks the wrong category from time to time.
 
-Genuine contextual rewriting needs a language model. There is no clever free workaround
-and I would rather have honest extraction than invented explanation. So the summariser is
-behind an interface with two implementations, and switching to a model is a config change
-rather than a rewrite. I measured what that would cost before deciding not to do it by
-default. Details are further down.
+Both of those become genuinely useful the moment a language model is connected, and for
+the same reason: a model works from the story actually in front of it rather than from a
+list I wrote in advance. It can explain a term I have never heard of, and it can say what
+this particular development means instead of what its category usually means.
+
+So the structure is the part I think is right, and two thirds of the implementation is
+scaffolding holding the shape open until something better goes in it. The summariser sits
+behind an interface with two implementations and switching is a config change rather than
+a rewrite. I built and tested the model path, measured what it would cost (roughly six
+pounds a month, details further down), and left it switched off so the default stays free.
+The extractive version is what runs today, and I would rather it be visibly limited than
+quietly invent the explanations it cannot produce.
 
 ## Why a startup funding section
 
-I wanted a lightweight way of noticing companies that have just raised money, with a
-bias towards the UK and Europe.
+I wanted a lightweight way of noticing companies that have just raised money, weighted
+towards the UK and Europe. The round itself is interesting, but the more useful part is
+discovery: a seed round is often the first time you hear a company's name at all, and a
+run of rounds in one area says something about where investors think things are going.
 
-The funding itself is interesting, but the more useful part is what it surfaces. A seed
-round is often the first time you hear a company's name at all, and a run of rounds in
-one area says something about where investors think things are going. It is a way of
-finding out what exists.
-
-Where possible the brief pulls out the company, what it does, the location, the amount,
-the stage, the investors and the source link.
-
-I am not claiming coverage of the funding market. Without something like Crunchbase this
-radar sees exactly one thing: funding announcements that happened to appear in the feeds
-I am reading. Plenty of rounds are announced somewhere I am not looking, or only in a
-paywalled outlet. Expect gaps, and expect them to be worst outside the UK, Europe and the
-US.
-
-Everything it does extract is taken word for word from the source text. When a source
-does not state the location or the investors, the brief says "not stated in source"
-rather than filling it in. I would rather have a field that admits it is empty than a
-field I cannot trust.
+The brief pulls out the company, what it does, the location, the amount, the stage, the
+investors and the link, taken word for word from the source. Anything the source does not
+state shows as "not stated in source" rather than being filled in. This is not coverage of
+the funding market, though. Without a paid database it only sees rounds that happened to
+be announced in the feeds I am reading, so expect gaps, worst outside the UK, Europe and
+the US.
 
 ## Why GitHub Actions
 
