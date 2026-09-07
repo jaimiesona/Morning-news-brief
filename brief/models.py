@@ -128,3 +128,4 @@ class Brief:
     extra_headlines: dict               # section key -> List[Article]
     stats: dict = field(default_factory=dict)
     summariser_name: str = "extractive"
+    history: object = None   # set by main; saved only after a successful send

@@ -72,6 +72,12 @@ class Config:
     google_news_language: str = _env("GOOGLE_NEWS_LANGUAGE", "en-GB")
     google_news_country: str = _env("GOOGLE_NEWS_COUNTRY", "GB")
 
+    # --- Story history (stops the same subject appearing every morning) ------
+    suppress_seen: bool = _env_bool("SUPPRESS_SEEN", True)
+    history_path: str = _env("HISTORY_PATH", "state/seen.json")
+    history_days: int = _env_int("HISTORY_DAYS", 7)
+    history_threshold: float = _env_float("HISTORY_THRESHOLD", 0.6)
+
     # --- Sections -----------------------------------------------------------
     enabled_sections: List[str] = field(
         default_factory=lambda: _env_list("SECTIONS", "ai,politics,technology,funding")

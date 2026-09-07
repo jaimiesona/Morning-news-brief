@@ -19,6 +19,7 @@ from brief.config import config
 from brief.feeds import SECTIONS, all_feeds
 from brief import (article_fetcher, classification, deduplication, email_sender,
                    formatter, funding, news_collector, ranking)
+from brief.history import History
 from brief.models import Brief
 from brief.summariser import get_summariser
 
@@ -45,11 +46,12 @@ def build_brief() -> Brief:
     funding_ids = {id(c) for c in funding_clusters}
 
     buckets = classification.classify(clusters, funding_ids)
+    history = History()
     summariser = get_summariser()
 
     selected, extras = {}, {}
     for key in config.enabled_sections:
-        ranked = ranking.rank(buckets.get(key, []), key)
+        ranked = history.filter_new(ranking.rank(buckets.get(key, []), key))
         limit = config.max_stories_for(key)
         selected[key] = ranked[:limit]
         extras[key] = [c.lead for c in ranked[limit:limit + config.max_extra_headlines]]
@@ -63,8 +65,9 @@ def build_brief() -> Brief:
         enriched = article_fetcher.enrich([c for clusters in selected.values() for c in clusters])
 
     sections = {key: summariser.summarise(clusters, key) for key, clusters in selected.items()}
+    brief_history = history
 
-    return Brief(
+    brief = Brief(
         generated_at=datetime.now(timezone.utc),
         sections=sections,
         extra_headlines=extras,
@@ -72,6 +75,11 @@ def build_brief() -> Brief:
                "enriched": enriched},
         summariser_name=summariser.name,
     )
+    # Only remember stories once they are actually going out.
+    for clusters in selected.values():
+        brief_history.record(clusters)
+    brief.history = brief_history
+    return brief
 
 
 def test_email() -> int:
@@ -149,6 +157,11 @@ def main() -> int:
         subject = "{} — {}".format(config.email_subject_prefix, started.strftime("%a %d %b"))
         if not email_sender.send(subject, html_body, text_body):
             return 1
+
+    # Saved last: a brief that never reached you should not count as seen.
+    history = getattr(brief, "history", None)
+    if history is not None:
+        history.save()
 
     return 0
 

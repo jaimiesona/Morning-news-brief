@@ -58,6 +58,14 @@ Score combines distinct-source count, best source weight, section keyword densit
 recency curve, then subtracts a penalty for gossip framing ("slams", "row over",
 "reportedly").
 
+**One brief, one story — across days as well.** Ranking rewards corroboration, and a
+big story keeps accumulating coverage, so without a memory the same subject wins every
+morning under a slightly different headline. `history.py` keeps a record of what has
+already been sent (`state/seen.json`, 7 days by default) and filters those out. On GitHub
+Actions the workflow commits that file back to the repository, because a runner's disk is
+wiped after every run. Set `SUPPRESS_SEEN=false` to turn it off, or `HISTORY_DAYS` to
+change the window.
+
 **One story, one section.** Funding announcements are claimed first by the funding
 radar; everything else is filed by keyword evidence into a single best-matching section.
 A story can't appear twice.
@@ -192,6 +200,8 @@ Everything is an environment variable — see `.env.example` for the full list.
 | `DEDUPE_THRESHOLD` | lower merges more aggressively (default 0.30) |
 | `MIN_SECTION_EVIDENCE` | how much keyword evidence a story needs to be filed at all |
 | `PREFERRED_REGIONS` | region boost, mainly for the funding radar |
+| `SUPPRESS_SEEN` | `false` to allow stories repeated from recent briefs |
+| `HISTORY_DAYS` | how long a story counts as already-sent (default 7) |
 | `FETCH_ARTICLES` | set `false` to skip page fetching (faster, much thinner summaries) |
 | `MAX_ARTICLE_FETCHES` | cap on pages fetched per run (default 30) |
 | `CORROBORATION_WEIGHT` | how much "many outlets covered it" counts |
@@ -282,6 +292,7 @@ morning-brief/
 │   ├── models.py            Article, Cluster, Story, FundingItem, Brief
 │   ├── news_collector.py    parallel fetching and normalisation
 │   ├── article_fetcher.py   fetches article text for stories that make the brief
+│   ├── history.py           remembers what previous briefs contained
 │   ├── deduplication.py     clustering same-event articles
 │   ├── classification.py    section assignment
 │   ├── ranking.py           importance scoring

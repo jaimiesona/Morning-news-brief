@@ -47,7 +47,7 @@ _BOILERPLATE = re.compile(
     r"take over \d|register now|watch on demand|download the app|comments?\)|"
     r"most popular|related stories|trending now|you might also|support our journalism|"
     r"thanks for liking|added it to a list|favou?rite stories|^close\b|"
-    r"max-image-preview|max-snippet|name=|content=)",
+    r"max-image-preview|max-snippet|name=|content=|appeared first on)",
     re.I,
 )
 _LINK_RE = re.compile(r'<a\b[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>', re.S | re.I)

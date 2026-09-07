@@ -5,3 +5,5 @@ __pycache__/
 .venv/
 venv/
 .DS_Store
+
+# state/ IS tracked on purpose: it carries the record of what was already sent.

@@ -25,6 +25,11 @@ from .models import Article
 log = logging.getLogger(__name__)
 
 _TAG_RE = re.compile(r"<[^>]+>")
+# "The post X appeared first on Y." — a syndication footer, not part of the story.
+_FEED_FOOTER_RE = re.compile(
+    r"\s*The (?:post|article|story)\b[^.]{0,160}?\bappeared first on\b[^.]{0,80}\.?\s*$",
+    re.I,
+)
 _WS_RE = re.compile(r"\s+")
 # Tracking parameters we strip so the same article from two feeds looks identical.
 _TRACKING_PREFIXES = ("utm_", "ito", "cmpid", "at_", "fbclid", "gclid", "ref", "s_")
@@ -150,6 +155,7 @@ def fetch_feed(feed: Feed, cutoff: datetime) -> List[Article]:
             summary = strip_html(entry.get("summary", "") or entry.get("description", ""))
             if not summary and entry.get("content"):
                 summary = strip_html(entry["content"][0].get("value", ""))
+            summary = _FEED_FOOTER_RE.sub("", summary).strip()
 
             articles.append(
                 Article(

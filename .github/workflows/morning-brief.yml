@@ -11,6 +11,9 @@ jobs:
   brief:
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    # Needed to commit the record of which stories have already been sent.
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
@@ -44,6 +47,21 @@ jobs:
           GOOGLE_NEWS_LANGUAGE: ${{ vars.GOOGLE_NEWS_LANGUAGE || 'en-GB' }}
           GOOGLE_NEWS_COUNTRY: ${{ vars.GOOGLE_NEWS_COUNTRY || 'GB' }}
         run: python main.py
+
+      - name: Remember which stories were sent
+        # A runner's disk is wiped after every run, so the record of what has
+        # already gone out has to live in the repository itself.
+        if: success()
+        run: |
+          if [ -n "$(git status --porcelain state/)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add state/
+            git commit -m "Record stories sent on $(date -u +%Y-%m-%d) [skip ci]"
+            git push
+          else
+            echo "No change to the story record."
+          fi
 
       - name: Keep a copy of the rendered brief
         if: always()
