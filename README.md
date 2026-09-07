@@ -407,7 +407,7 @@ EMAIL_TO=you@gmail.com
 1. Push the repository to GitHub.
 2. Settings, then Secrets and variables, then Actions. Add `SMTP_HOST`, `SMTP_PORT`,
    `SMTP_USER`, `SMTP_PASSWORD`, `EMAIL_FROM`, `EMAIL_TO`.
-3. Actions tab, Morning Brief, Run workflow, to test it immediately.
+3. Actions tab, Morning News Brief, Run workflow, to test it immediately.
 
 ```yaml
 - cron: "30 6 * * *"   # 06:30 UTC daily

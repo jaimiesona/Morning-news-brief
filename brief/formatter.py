@@ -146,7 +146,7 @@ def render_html(brief: Brief) -> str:
         '<div style="margin:0;padding:0;background:{bg};">'.format(bg=BG),
         '<div style="max-width:660px;margin:0 auto;padding:26px 16px 40px;">',
         '<div style="font:700 26px/1.25 -apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;'
-        'color:{ink};margin:0 0 2px;">Morning Intelligence Brief</div>'.format(ink=INK),
+        'color:{ink};margin:0 0 2px;">Morning News Brief</div>'.format(ink=INK),
         '<div style="font:400 14px/1.5 -apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;'
         'color:{muted};margin:0 0 6px;">{date} &middot; last {hours} hours</div>'.format(
             muted=MUTED, date=date_line, hours=config.lookback_hours),
@@ -185,7 +185,7 @@ def render_html(brief: Brief) -> str:
     return (
         '<!doctype html><html><head><meta charset="utf-8">'
         '<meta name="viewport" content="width=device-width,initial-scale=1">'
-        "<title>Morning Intelligence Brief &mdash; {date}</title></head>"
+        "<title>Morning News Brief &mdash; {date}</title></head>"
         '<body style="margin:0;padding:0;background:{bg};">{body}</body></html>'
     ).format(date=date_line, bg=BG, body="".join(body))
 

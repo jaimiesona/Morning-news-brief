@@ -129,7 +129,7 @@ class Config:
     smtp_password: str = _env("SMTP_PASSWORD", "")
     email_from: str = _env("EMAIL_FROM", "")
     email_to: List[str] = field(default_factory=lambda: _env_list("EMAIL_TO", ""))
-    email_subject_prefix: str = _env("EMAIL_SUBJECT_PREFIX", "Morning Brief")
+    email_subject_prefix: str = _env("EMAIL_SUBJECT_PREFIX", "Morning News Brief")
 
     # --- Output / behaviour -------------------------------------------------
     timezone: str = _env("TIMEZONE", "Europe/London")

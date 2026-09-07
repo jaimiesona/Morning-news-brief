@@ -34,7 +34,7 @@ def _ssl_context() -> ssl.SSLContext:
 def build_message(subject: str, html_body: str, text_body: str) -> EmailMessage:
     message = EmailMessage()
     message["Subject"] = subject
-    message["From"] = formataddr(("Morning Brief", config.email_from or config.smtp_user))
+    message["From"] = formataddr(("Morning News Brief", config.email_from or config.smtp_user))
     message["To"] = ", ".join(config.email_to)
     message["Date"] = formatdate(localtime=True)
     message.set_content(text_body)

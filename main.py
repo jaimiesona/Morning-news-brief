@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Morning Intelligence Brief — entry point.
+"""Morning News Brief — entry point.
 
   python main.py              collect, build, save, email (per config)
   python main.py --no-email   build and save the HTML only
@@ -94,12 +94,12 @@ def test_email() -> int:
              ", ".join(config.email_to), config.smtp_host, config.smtp_port, config.smtp_user)
     html = (
         "<div style=\"font:15px/1.6 -apple-system,Segoe UI,Roboto,sans-serif;color:#16181d\">"
-        "<h2>Morning Brief — test email</h2>"
+        "<h2>Morning News Brief — test email</h2>"
         "<p>If you are reading this, your email settings work and the real brief "
         "will arrive the same way.</p></div>"
     )
-    text = "Morning Brief test email. If you are reading this, your email settings work."
-    if email_sender.send("Morning Brief — test email", html, text):
+    text = "Morning News Brief test email. If you are reading this, your email settings work."
+    if email_sender.send("Morning News Brief — test email", html, text):
         log.info("Sent. Check your inbox (and the spam folder).")
         return 0
     return 1
