@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T10:51:38",
+ "updated": "2026-09-07T10:40:53",
  "stories": [
   {
    "date": "2026-09-07",
@@ -332,6 +332,334 @@
     "production",
     "raises",
     "satellite"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "Official One UI 9.0 rollout may clash with iPhone 18 launch next week",
+   "tokens": [
+    "clash",
+    "iphone",
+    "launch",
+    "next",
+    "official",
+    "rollout"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "Could NVIDIA's purchase of Hugging Face boost the EU's AI sovereignty?",
+   "tokens": [
+    "boost",
+    "eus",
+    "face",
+    "hugging",
+    "nvidias",
+    "purchase",
+    "sovereignty"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "AI Giants Flood Market With Updates as Nvidia Buys Hugging Face",
+   "tokens": [
+    "buys",
+    "face",
+    "flood",
+    "giants",
+    "hugging",
+    "market",
+    "nvidia",
+    "updates"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "KOSPI jumps 4.61 percent to just below 7,000 on semiconductor rally",
+   "tokens": [
+    "000",
+    "below",
+    "jumps",
+    "kospi",
+    "rally",
+    "semiconductor"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "OpenAI AI Agents Hijacked German Wiki, Shared Evasion Tactics",
+   "tokens": [
+    "agents",
+    "evasion",
+    "german",
+    "hijacked",
+    "openai",
+    "shared",
+    "tactics",
+    "wiki"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "Research acceleration: The view inside OpenAI",
+   "tokens": [
+    "acceleration",
+    "inside",
+    "openai",
+    "research",
+    "view"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "FIFA confirms Infantino to stand for re-election as president",
+   "tokens": [
+    "confirms",
+    "election",
+    "fifa",
+    "infantino",
+    "president",
+    "stand"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "Jaguar Land Rover confirms plan to cut 4,000 jobs over two years",
+   "tokens": [
+    "000",
+    "confirms",
+    "cut",
+    "jaguar",
+    "jobs",
+    "land",
+    "plan",
+    "rover"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "Russia and North Korea open first road bridge across their shared border",
+   "tokens": [
+    "across",
+    "border",
+    "bridge",
+    "korea",
+    "north",
+    "open",
+    "road",
+    "russia",
+    "shared"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "Iran Moves to Bar Sanctions-Imposing Parties From Strait of Hormuz",
+   "tokens": [
+    "bar",
+    "hormuz",
+    "imposing",
+    "iran",
+    "moves",
+    "parties",
+    "sanctions",
+    "strait"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+   "tokens": [
+    "attacks",
+    "faster",
+    "heavier",
+    "iran",
+    "painful",
+    "response",
+    "warns"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "German startup notches Europe's first successful private orbital launch",
+   "tokens": [
+    "europes",
+    "german",
+    "launch",
+    "notches",
+    "orbital",
+    "private",
+    "startup",
+    "successful"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "Will Tim Cook launch iPhone 18 Pro at Apple event on Sept 9? Yes and no",
+   "tokens": [
+    "apple",
+    "cook",
+    "event",
+    "iphone",
+    "launch",
+    "pro",
+    "sept",
+    "tim",
+    "yes"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "Belgium detains dual national over microchip tech espionage for China",
+   "tokens": [
+    "belgium",
+    "china",
+    "detains",
+    "dual",
+    "espionage",
+    "microchip",
+    "national",
+    "tech"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "FBI probes potential data breach of millions of drivers' licenses",
+   "tokens": [
+    "breach",
+    "data",
+    "drivers",
+    "fbi",
+    "licenses",
+    "millions",
+    "potential",
+    "probes"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "O2 Business launches satellite connectivity service for UK businesses",
+   "tokens": [
+    "business",
+    "businesses",
+    "connectivity",
+    "launches",
+    "satellite",
+    "service"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "China to pump $54bn into state banks and insurers to boost economy",
+   "tokens": [
+    "54bn",
+    "banks",
+    "boost",
+    "china",
+    "economy",
+    "insurers",
+    "pump",
+    "state"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "Leinao.ai raises $15M Series B to build out inference-scheduling tools",
+   "tokens": [
+    "15m",
+    "build",
+    "inference",
+    "leinao",
+    "raises",
+    "scheduling",
+    "series",
+    "tools"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "Ultrahuman raises $70 Mn from Qualcomm, Alpha Wave, Nexus and others | Startup Story",
+   "tokens": [
+    "alpha",
+    "nexus",
+    "others",
+    "qualcomm",
+    "raises",
+    "startup",
+    "story",
+    "ultrahuman",
+    "wave"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "Abwab.ai Raises $4M for Saudi Lending Infrastructure",
+   "tokens": [
+    "abwab",
+    "infrastructure",
+    "lending",
+    "raises",
+    "saudi"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "Nigerian fintech startup Nomba secures $3m debt facility to scale cross-border payments",
+   "tokens": [
+    "border",
+    "cross",
+    "debt",
+    "facility",
+    "fintech",
+    "nigerian",
+    "nomba",
+    "payments",
+    "scale",
+    "secures",
+    "startup"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "Emesent Secures $2 Million Grant to Develop Open AI Platform for Robotics",
+   "tokens": [
+    "develop",
+    "emesent",
+    "grant",
+    "million",
+    "open",
+    "platform",
+    "robotics",
+    "secures"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
+   "tokens": [
+    "40bn",
+    "china",
+    "fears",
+    "financial",
+    "growth",
+    "prepares",
+    "sector",
+    "sluggish",
+    "stimulus"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "title": "Trump’s tariffs caused Puerto Rico to pay close to $1 billion in 2025",
+   "tokens": [
+    "2025",
+    "billion",
+    "caused",
+    "close",
+    "pay",
+    "puerto",
+    "rico",
+    "tariffs",
+    "trumps"
    ]
   }
  ]
