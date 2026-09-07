@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import logging
 import smtplib
+import socket
 import ssl
 import sys
 from email.message import EmailMessage
@@ -49,6 +50,7 @@ def send(subject: str, html_body: str, text_body: str) -> bool:
 
     message = build_message(subject, html_body, text_body)
     context = _ssl_context()
+    log.info("Connecting to %s:%s", config.smtp_host, config.smtp_port)
 
     try:
         if config.smtp_port == 465:
@@ -65,6 +67,11 @@ def send(subject: str, html_body: str, text_body: str) -> bool:
     except smtplib.SMTPAuthenticationError:
         log.error("SMTP authentication failed. For Gmail you need an App Password, "
                   "not your normal account password.")
+        return False
+    except socket.gaierror as exc:
+        log.error("Could not find the mail server %r: %s", config.smtp_host, exc)
+        log.error("Check the SMTP_HOST setting — it should be exactly smtp.gmail.com "
+                  "with no extra spaces or line breaks.")
         return False
     except ssl.SSLCertVerificationError as exc:
         log.error("Could not verify the mail server's certificate: %s", exc)

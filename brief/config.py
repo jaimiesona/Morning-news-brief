@@ -15,7 +15,15 @@ except ImportError:  # dotenv is optional; GitHub Actions injects real env vars
 
 
 def _env(name: str, default: str) -> str:
+    """Read a setting, trimming surrounding whitespace.
+
+    Values pasted into a .env file or a GitHub secret routinely carry a trailing
+    newline or space. Untrimmed, a hostname like "smtp.gmail.com\n" fails DNS
+    lookup with an error that says nothing about whitespace.
+    """
     value = os.getenv(name)
+    if value is not None:
+        value = value.strip()
     return value if value not in (None, "") else default
 
 
