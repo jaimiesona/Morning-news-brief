@@ -1,0 +1,8 @@
+feedparser>=6.0.11
+requests>=2.31.0
+python-dotenv>=1.0.1
+# Certificate bundle: Python from python.org ships none, so TLS to Gmail fails without it.
+certifi>=2024.2.2
+
+# Optional — only needed if SUMMARISER=llm and LLM_PROVIDER=anthropic.
+# anthropic>=1.0.0

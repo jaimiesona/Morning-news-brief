@@ -1,0 +1,55 @@
+name: Morning Brief
+
+on:
+  schedule:
+    # Time is UTC. 06:30 UTC = 07:30 UK in winter, 07:30 BST in summer.
+    # Change this line to move the delivery time.
+    - cron: "30 6 * * *"
+  workflow_dispatch: {}       # lets you run it by hand from the Actions tab
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build and send brief
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          # Optional summariser settings — leave the secrets unset to stay free.
+          SUMMARISER: ${{ vars.SUMMARISER || 'extractive' }}
+          LLM_PROVIDER: ${{ vars.LLM_PROVIDER }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          # Tuning without touching code: set these as repository variables.
+          LOOKBACK_HOURS: ${{ vars.LOOKBACK_HOURS || '26' }}
+          SECTIONS: ${{ vars.SECTIONS || 'ai,politics,technology,funding' }}
+          GOOGLE_NEWS_LOCALE: ${{ vars.GOOGLE_NEWS_LOCALE || 'GB:en' }}
+          GOOGLE_NEWS_LANGUAGE: ${{ vars.GOOGLE_NEWS_LANGUAGE || 'en-GB' }}
+          GOOGLE_NEWS_COUNTRY: ${{ vars.GOOGLE_NEWS_COUNTRY || 'GB' }}
+        run: python main.py
+
+      - name: Keep a copy of the rendered brief
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: brief-html
+          path: output/*.html
+          if-no-files-found: ignore
+          retention-days: 14
