@@ -2,7 +2,8 @@ name: Morning News Brief
 
 on:
   schedule:
-    # Time is UTC. 06:30 UTC = 07:30 UK in winter, 07:30 BST in summer.
+    # Always UTC, and GitHub does not follow British Summer Time.
+    # 06:30 UTC = 07:30 in London during BST, 06:30 in winter (GMT).
     # Change this line to move the delivery time.
     - cron: "30 6 * * *"
   workflow_dispatch: {}       # lets you run it by hand from the Actions tab
