@@ -1,4 +1,4 @@
-# Morning Intelligence Brief
+# Morning News Brief
 
 A daily news briefing that collects from free RSS feeds, groups duplicate coverage of
 the same event, ranks stories by importance, writes them up in four sections and emails
