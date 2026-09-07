@@ -153,15 +153,20 @@ def main() -> int:
         log.warning("Brief is empty — not sending.")
         return 0
 
+    delivered = False
     if config.send_email and not args.no_email:
-        subject = "{} — {}".format(config.email_subject_prefix, started.strftime("%a %d %b"))
+        subject = "{} \u2014 {}".format(config.email_subject_prefix, started.strftime("%a %d %b"))
         if not email_sender.send(subject, html_body, text_body):
             return 1
+        delivered = True
 
-    # Saved last: a brief that never reached you should not count as seen.
+    # Only a brief that actually reached you counts as seen. A preview run must not
+    # consume today's news and leave tomorrow's brief with nothing to report.
     history = getattr(brief, "history", None)
-    if history is not None:
+    if history is not None and delivered:
         history.save()
+    elif history is not None:
+        log.info("Nothing sent, so the story history was left unchanged.")
 
     return 0
 
