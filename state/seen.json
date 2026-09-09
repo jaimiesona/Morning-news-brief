@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T06:45:19",
+ "updated": "2026-09-09T06:45:00",
  "stories": [
   {
    "date": "2026-09-07",
@@ -987,6 +987,335 @@
     "expansion",
     "octave",
     "raises"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’",
+   "tokens": [
+    "cracked",
+    "maths",
+    "millennium",
+    "openai",
+    "problems"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "Anthropic researcher quits, warns AI race is “gambling with our lives”",
+   "tokens": [
+    "anthropic",
+    "gambling",
+    "lives",
+    "quits",
+    "race",
+    "researcher",
+    "warns"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "Amazon ropes Qualcomm into something, something AI, networking chips",
+   "tokens": [
+    "amazon",
+    "chips",
+    "networking",
+    "qualcomm",
+    "ropes",
+    "something"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+   "tokens": [
+    "cracked",
+    "hours",
+    "maths",
+    "old",
+    "openai",
+    "problem"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel",
+   "tokens": [
+    "agent",
+    "book",
+    "emails",
+    "introduces",
+    "meta",
+    "muse",
+    "send",
+    "travel",
+    "your"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+   "tokens": [
+    "agent",
+    "consumers",
+    "debuts",
+    "meta",
+    "muse",
+    "trust"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "Bombardier Shares Down as Trump’s Trade War Targets Canadian Jet Maker",
+   "tokens": [
+    "bombardier",
+    "canadian",
+    "jet",
+    "maker",
+    "shares",
+    "targets",
+    "trade",
+    "trumps",
+    "war"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+   "tokens": [
+    "alcohol",
+    "ban",
+    "canadian",
+    "goods",
+    "import",
+    "motorbikes",
+    "other",
+    "slaps"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "Carney Says Retaliation Against U.S. Tariffs Was Unavoidable",
+   "tokens": [
+    "carney",
+    "retaliation",
+    "tariffs",
+    "unavoidable"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "AfD’s Far Right Win Puts New Pressure on Germany’s Leader Merz",
+   "tokens": [
+    "afds",
+    "far",
+    "germanys",
+    "leader",
+    "merz",
+    "pressure",
+    "puts",
+    "right",
+    "win"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "US Supreme Court rejects Missouri bid to reactivate GOP-backed voting map",
+   "tokens": [
+    "backed",
+    "bid",
+    "court",
+    "gop",
+    "map",
+    "missouri",
+    "reactivate",
+    "rejects",
+    "supreme",
+    "voting"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "Why this month's Microsoft patch release is a doozy",
+   "tokens": [
+    "doozy",
+    "microsoft",
+    "months",
+    "patch",
+    "release"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "Google complies with EU rules for travel searches, says the new results stink",
+   "tokens": [
+    "complies",
+    "google",
+    "results",
+    "rules",
+    "searches",
+    "stink",
+    "travel"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "Apple expected to unveil folding iPhone as new CEO takes center stage",
+   "tokens": [
+    "apple",
+    "center",
+    "ceo",
+    "expected",
+    "folding",
+    "iphone",
+    "stage",
+    "unveil"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "Boston Scientific left nursing its bottom line after cyberattack",
+   "tokens": [
+    "boston",
+    "bottom",
+    "cyberattack",
+    "left",
+    "line",
+    "nursing",
+    "scientific"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "Adobe fixes critical Magento zero-day exploited to backdoor servers",
+   "tokens": [
+    "adobe",
+    "backdoor",
+    "critical",
+    "exploited",
+    "fixes",
+    "magento",
+    "servers",
+    "zero"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "The Exploration Company raises $450M Series C to scale reusable space transport",
+   "tokens": [
+    "450m",
+    "company",
+    "exploration",
+    "raises",
+    "reusable",
+    "scale",
+    "series",
+    "space",
+    "transport"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
+   "tokens": [
+    "american",
+    "base",
+    "iranian",
+    "jordan",
+    "oil",
+    "strikes",
+    "tankers",
+    "targets",
+    "tehran"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "Circolife Raises $4.5 Million to Expand Cooling-as-a-Service Platform",
+   "tokens": [
+    "circolife",
+    "cooling",
+    "expand",
+    "million",
+    "platform",
+    "raises",
+    "service"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "French AgTech startup Tellia raises €4.3 million to scale voice-enabled data capture",
+   "tokens": [
+    "agtech",
+    "capture",
+    "data",
+    "enabled",
+    "french",
+    "million",
+    "raises",
+    "scale",
+    "startup",
+    "tellia",
+    "voice"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+   "tokens": [
+    "20m",
+    "automate",
+    "bottlenecks",
+    "cloudnc",
+    "manufacturings",
+    "most",
+    "pressing",
+    "raises"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+   "tokens": [
+    "50m",
+    "bluecore",
+    "energy",
+    "launch",
+    "months",
+    "nuclear",
+    "raises",
+    "round",
+    "seed",
+    "startup"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "Paris-based Actionable raises €8.6 million to scale its predictive customer experience platform",
+   "tokens": [
+    "actionable",
+    "based",
+    "customer",
+    "experience",
+    "million",
+    "paris",
+    "platform",
+    "predictive",
+    "raises",
+    "scale"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "Anemo Labs lands £700K to give AI a sense of smell",
+   "tokens": [
+    "700k",
+    "anemo",
+    "give",
+    "labs",
+    "lands",
+    "sense",
+    "smell"
    ]
   }
  ]
