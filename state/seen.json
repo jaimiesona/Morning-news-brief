@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T06:45:00",
+ "updated": "2026-09-10T06:45:09",
  "stories": [
   {
    "date": "2026-09-07",
@@ -1316,6 +1316,344 @@
     "lands",
     "sense",
     "smell"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+   "tokens": [
+    "anthropic",
+    "improving",
+    "kill",
+    "quits",
+    "researcher",
+    "self",
+    "warning"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Anthropic discloses 4th AI hacking incident as researcher quits over safety",
+   "tokens": [
+    "4th",
+    "anthropic",
+    "discloses",
+    "hacking",
+    "incident",
+    "quits",
+    "researcher",
+    "safety"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Paul Christiano joins OpenAI Foundation Board",
+   "tokens": [
+    "board",
+    "christiano",
+    "foundation",
+    "joins",
+    "openai",
+    "paul"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Microsoft has new AI privacy rules for schools",
+   "tokens": [
+    "microsoft",
+    "privacy",
+    "rules",
+    "schools"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Google picks Finland for its largest single investment in Europe",
+   "tokens": [
+    "europe",
+    "finland",
+    "google",
+    "investment",
+    "largest",
+    "picks",
+    "single"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Gov. Pritzker sounds alarm, calls for federal AI safety rules",
+   "tokens": [
+    "alarm",
+    "calls",
+    "federal",
+    "gov",
+    "pritzker",
+    "rules",
+    "safety",
+    "sounds"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Why Israel Reacted With Fury to U.K. Sanctions on West Bank Settlements",
+   "tokens": [
+    "bank",
+    "fury",
+    "israel",
+    "reacted",
+    "sanctions",
+    "settlements",
+    "west"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Georgian Prime Minister to attend international space summit in Paris",
+   "tokens": [
+    "attend",
+    "georgian",
+    "international",
+    "minister",
+    "paris",
+    "prime",
+    "space",
+    "summit"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+   "tokens": [
+    "100",
+    "barrel",
+    "hits",
+    "houthi",
+    "july",
+    "oil",
+    "since",
+    "strikes"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Iran war won't end until after crucial November elections, says Trump",
+   "tokens": [
+    "crucial",
+    "elections",
+    "end",
+    "iran",
+    "november",
+    "trump",
+    "until",
+    "war",
+    "wont"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Labor friends of Palestine criticise Australia’s decision not to join sanctions on Israeli settlements in West Bank",
+   "tokens": [
+    "australias",
+    "bank",
+    "criticise",
+    "decision",
+    "friends",
+    "israeli",
+    "join",
+    "labor",
+    "palestine",
+    "sanctions",
+    "settlements",
+    "west"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
+   "tokens": [
+    "000",
+    "apples",
+    "becomes",
+    "duo",
+    "foldable",
+    "iphone",
+    "long",
+    "reality",
+    "rumored"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Travelers Face More Flight Delays After Major Air Traffic Disruption at UK Airports",
+   "tokens": [
+    "air",
+    "airports",
+    "delays",
+    "disruption",
+    "face",
+    "flight",
+    "major",
+    "traffic",
+    "travelers"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Analog Devices agrees to buy Alif Semiconductor to expand edge AI push",
+   "tokens": [
+    "agrees",
+    "alif",
+    "analog",
+    "buy",
+    "devices",
+    "edge",
+    "expand",
+    "push",
+    "semiconductor"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Amazon Orders 6 More Ariane 6 Launches, Boosts Europe’s Rocket Program",
+   "tokens": [
+    "amazon",
+    "ariane",
+    "boosts",
+    "europes",
+    "launches",
+    "orders",
+    "program",
+    "rocket"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "New Eclipse Satellite Platforms Target D2D, Broadband, and Computing",
+   "tokens": [
+    "broadband",
+    "computing",
+    "d2d",
+    "eclipse",
+    "platforms",
+    "satellite",
+    "target"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "CloudNC lands $20M to expand its AI software for precision manufacturing",
+   "tokens": [
+    "20m",
+    "cloudnc",
+    "expand",
+    "lands",
+    "manufacturing",
+    "precision",
+    "software"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Alco-bev Startup Marmalade Raises Rs 6 Cr In Early-stage Funding Round",
+   "tokens": [
+    "alco",
+    "bev",
+    "early",
+    "funding",
+    "marmalade",
+    "raises",
+    "round",
+    "stage",
+    "startup"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Trump pledges $5,000 to every American - and other takeaways from Republican midterms convention",
+   "tokens": [
+    "000",
+    "american",
+    "convention",
+    "every",
+    "midterms",
+    "other",
+    "pledges",
+    "republican",
+    "takeaways",
+    "trump"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
+   "tokens": [
+    "999",
+    "apple",
+    "costs",
+    "duo",
+    "foldable",
+    "iphone",
+    "phone",
+    "unveils"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth",
+   "tokens": [
+    "andreessen",
+    "backed",
+    "defense",
+    "exits",
+    "factory",
+    "missile",
+    "opens",
+    "startup",
+    "stealth",
+    "thiel"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "HelmGuard raises $7.3M to move compliance beyond paperwork",
+   "tokens": [
+    "beyond",
+    "compliance",
+    "helmguard",
+    "move",
+    "paperwork",
+    "raises"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "SCI Semiconductor raises £5M to ramp up production of memory-safe chips",
+   "tokens": [
+    "chips",
+    "memory",
+    "production",
+    "raises",
+    "ramp",
+    "safe",
+    "sci",
+    "semiconductor"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Limetax lands €36 million to build an AI-powered group of German tax and accounting firms",
+   "tokens": [
+    "accounting",
+    "build",
+    "firms",
+    "german",
+    "group",
+    "lands",
+    "limetax",
+    "million",
+    "powered",
+    "tax"
    ]
   }
  ]
