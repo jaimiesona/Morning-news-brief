@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T06:45:09",
+ "updated": "2026-09-11T06:44:31",
  "stories": [
   {
    "date": "2026-09-07",
@@ -1654,6 +1654,353 @@
     "million",
     "powered",
     "tax"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "AI safety panic goes mainstream after Anthropic researcher's warnings land on CNN and Fox News",
+   "tokens": [
+    "anthropic",
+    "cnn",
+    "fox",
+    "goes",
+    "land",
+    "mainstream",
+    "news",
+    "panic",
+    "researchers",
+    "safety",
+    "warnings"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown",
+   "tokens": [
+    "anthropic",
+    "calls",
+    "extinction",
+    "join",
+    "openai",
+    "ramp",
+    "researchers",
+    "slowdown",
+    "warnings"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "OpenAI seeks national AI safety framework as agents grow more autonomous",
+   "tokens": [
+    "agents",
+    "autonomous",
+    "framework",
+    "grow",
+    "national",
+    "openai",
+    "safety",
+    "seeks"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+   "tokens": [
+    "anthropic",
+    "biological",
+    "blocked",
+    "build",
+    "efforts",
+    "possible",
+    "weapons"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+   "tokens": [
+    "alibaba",
+    "anthropic",
+    "campaigns",
+    "deepseek",
+    "details",
+    "distillation",
+    "moonshot"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "NASA and IBM open source lunar mapping tools",
+   "tokens": [
+    "ibm",
+    "lunar",
+    "mapping",
+    "nasa",
+    "open",
+    "source",
+    "tools"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
+   "tokens": [
+    "brics",
+    "india",
+    "iran",
+    "lands",
+    "putin",
+    "shadowed",
+    "summit",
+    "ukraine",
+    "wars"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "Coach crash kills several people in Swiss Alps",
+   "tokens": [
+    "alps",
+    "coach",
+    "crash",
+    "kills",
+    "people",
+    "several",
+    "swiss"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+   "tokens": [
+    "houthis",
+    "mokha",
+    "port",
+    "red",
+    "reportedly",
+    "sea",
+    "seize",
+    "strategic",
+    "yemens"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "Tusk warns of future attacks after ‘direct threat’ averted at Poland-Ukraine border",
+   "tokens": [
+    "attacks",
+    "averted",
+    "border",
+    "direct",
+    "future",
+    "poland",
+    "threat",
+    "tusk",
+    "ukraine",
+    "warns"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "Will Trump pay all US adults $5,000? Some Trump supporters are sceptical",
+   "tokens": [
+    "000",
+    "adults",
+    "pay",
+    "sceptical",
+    "supporters",
+    "trump"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
+   "tokens": [
+    "attacks",
+    "cisa",
+    "exploited",
+    "flaw",
+    "ransomware",
+    "rce",
+    "watchguard"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "ID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen",
+   "tokens": [
+    "150",
+    "breach",
+    "confirms",
+    "data",
+    "drivers",
+    "giant",
+    "idscan",
+    "licenses",
+    "million",
+    "stolen",
+    "verification"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "Swarmer to Acquire Ratel Robotics in Deal Valued Up to $224 Million",
+   "tokens": [
+    "224",
+    "acquire",
+    "deal",
+    "million",
+    "ratel",
+    "robotics",
+    "swarmer",
+    "valued"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "Swarmer to Acquire Ukrainian Ratel Robotics in Deal Worth Up to $224M.",
+   "tokens": [
+    "224m",
+    "acquire",
+    "deal",
+    "ratel",
+    "robotics",
+    "swarmer",
+    "ukrainian",
+    "worth"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "Xanadu and AMD Launch Open-Source Backline Extension for PennyLane",
+   "tokens": [
+    "amd",
+    "backline",
+    "extension",
+    "launch",
+    "open",
+    "pennylane",
+    "source",
+    "xanadu"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "Robutler raises $400K from ZAS Ventures to build the ‘YouTube of software’",
+   "tokens": [
+    "400k",
+    "build",
+    "raises",
+    "robutler",
+    "software",
+    "ventures",
+    "youtube",
+    "zas"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "Italy’s Biorsaf raises €5.2 million and acquires Cooki to build AI-powered food RegTech platform",
+   "tokens": [
+    "acquires",
+    "biorsaf",
+    "build",
+    "cooki",
+    "food",
+    "italys",
+    "million",
+    "platform",
+    "powered",
+    "raises",
+    "regtech"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "AI chip startup Positron’s valuation skyrockets in latest funding round",
+   "tokens": [
+    "chip",
+    "funding",
+    "latest",
+    "positrons",
+    "round",
+    "skyrockets",
+    "startup",
+    "valuation"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "The Boring Company raises $3B in round led by UAE",
+   "tokens": [
+    "boring",
+    "company",
+    "led",
+    "raises",
+    "round",
+    "uae"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "Maven Robotics wants to steal your robot deployment deal",
+   "tokens": [
+    "deal",
+    "deployment",
+    "maven",
+    "robot",
+    "robotics",
+    "steal",
+    "wants",
+    "your"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "New German AI research lab Grubel raises €3 million to build systems that adapt to individual legal cases",
+   "tokens": [
+    "adapt",
+    "build",
+    "cases",
+    "german",
+    "grubel",
+    "individual",
+    "lab",
+    "legal",
+    "million",
+    "raises",
+    "research",
+    "systems"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "Altera Prepares to File for IPO as Early as This Year, Targeting Over $2 Billion Raise",
+   "tokens": [
+    "altera",
+    "billion",
+    "early",
+    "file",
+    "ipo",
+    "prepares",
+    "raise",
+    "targeting"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "KU Leuven spin-out IVEX lands €5 million to accelerate AI-powered automotive safety testing",
+   "tokens": [
+    "accelerate",
+    "automotive",
+    "ivex",
+    "lands",
+    "leuven",
+    "million",
+    "powered",
+    "safety",
+    "spin",
+    "testing"
    ]
   }
  ]
