@@ -113,6 +113,10 @@ the source states them, UK and Europe first.
 
 A story appears in one section only, which is enforced rather than hoped for.
 
+## Example output
+
+[View a complete example of the personalised morning briefing generated and emailed by the workflow.](docs/morning-news-brief-sample.pdf)
+
 ## Built with
 
 Python · RSS · Google News RSS · GitHub Actions · HTML email
