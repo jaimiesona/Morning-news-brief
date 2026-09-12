@@ -4,6 +4,8 @@ A personalised morning news briefing that builds itself and arrives by email. It
 covers AI developments, global politics, world technology and startup funding, and runs
 every morning without me touching it. No paid news APIs or data subscriptions.
 
+**[View a complete example of the personalised morning briefing generated and emailed by the workflow.](docs/morning-news-brief-sample.pdf)**
+
 ## Why I built it
 
 There is no shortage of morning briefings. I did not build this because there was no way
@@ -112,10 +114,6 @@ cybersecurity, space, robotics, big tech regulation.
 the source states them, UK and Europe first.
 
 A story appears in one section only, which is enforced rather than hoped for.
-
-## Example output
-
-[View a complete example of the personalised morning briefing generated and emailed by the workflow.](docs/morning-news-brief-sample.pdf)
 
 ## Built with
 
