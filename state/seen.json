@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T06:43:08",
+ "updated": "2026-09-13T06:44:45",
  "stories": [
   {
    "date": "2026-09-07",
@@ -2356,6 +2356,343 @@
     "secures",
     "series",
     "stage"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+   "tokens": [
+    "amodei",
+    "anthropic",
+    "boss",
+    "calls",
+    "dario",
+    "development",
+    "slow"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "Nvidia wants to pour up to $10 billion into Anthropic's record-breaking IPO",
+   "tokens": [
+    "anthropics",
+    "billion",
+    "breaking",
+    "ipo",
+    "nvidia",
+    "pour",
+    "record",
+    "wants"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday",
+   "tokens": [
+    "companies",
+    "discussions",
+    "doomsday",
+    "inside",
+    "superintelligence"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "OpenAI agents hacked a software service before the Hugging Face incident",
+   "tokens": [
+    "agents",
+    "face",
+    "hacked",
+    "hugging",
+    "incident",
+    "openai",
+    "service",
+    "software"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "OpenAI’s rogue AI tried to hack another company in May",
+   "tokens": [
+    "another",
+    "company",
+    "hack",
+    "openais",
+    "rogue",
+    "tried"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "AI regulation could compromise American safety, Mike Belshe warns",
+   "tokens": [
+    "american",
+    "belshe",
+    "compromise",
+    "mike",
+    "regulation",
+    "safety",
+    "warns"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn’t: Iran at the Table",
+   "tokens": [
+    "brics",
+    "doesnt",
+    "iran",
+    "leaders",
+    "oil",
+    "prices",
+    "rise",
+    "table"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+   "tokens": [
+    "across",
+    "atlantic",
+    "audience",
+    "comments",
+    "ireland",
+    "targeted",
+    "trumps",
+    "united"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "Sweden’s extremely close election could see far right enter government",
+   "tokens": [
+    "close",
+    "election",
+    "enter",
+    "extremely",
+    "far",
+    "government",
+    "right",
+    "see",
+    "swedens"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "Trump says US-Canada trade deal could come 'fairly soon' amid tariff war",
+   "tokens": [
+    "canada",
+    "come",
+    "deal",
+    "fairly",
+    "soon",
+    "tariff",
+    "trade",
+    "trump",
+    "war"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
+   "tokens": [
+    "attack",
+    "base",
+    "claim",
+    "fighting",
+    "flares",
+    "forces",
+    "houthis",
+    "saudi",
+    "yemeni"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "Revolut confirms customer data breach through fake government requests",
+   "tokens": [
+    "breach",
+    "confirms",
+    "customer",
+    "data",
+    "fake",
+    "government",
+    "requests",
+    "revolut",
+    "through"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google",
+   "tokens": [
+    "000",
+    "agents",
+    "anyone",
+    "collect",
+    "cyberattack",
+    "data",
+    "google",
+    "launched",
+    "openai",
+    "package",
+    "rubygems"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "Chinese sources gave satelite imagery to Iran for strikes on US bases",
+   "tokens": [
+    "bases",
+    "chinese",
+    "gave",
+    "imagery",
+    "iran",
+    "satelite",
+    "sources",
+    "strikes"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "Rocket Lab Protests Blue Origin Mars Contract, X Report 12 Sep 2026",
+   "tokens": [
+    "2026",
+    "blue",
+    "contract",
+    "lab",
+    "mars",
+    "origin",
+    "protests",
+    "rocket",
+    "sep"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "Stc Group Orders Dedicated Astranis Satellite for Saudi Arabia",
+   "tokens": [
+    "arabia",
+    "astranis",
+    "dedicated",
+    "group",
+    "orders",
+    "satellite",
+    "saudi",
+    "stc"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "Vecna Robotics Raises $31M in Funding to Expand Warehouse Automation",
+   "tokens": [
+    "31m",
+    "automation",
+    "expand",
+    "funding",
+    "raises",
+    "robotics",
+    "vecna",
+    "warehouse"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "Shropshire father raises £75,000 with 39 marathons for baby loss charity",
+   "tokens": [
+    "000",
+    "baby",
+    "charity",
+    "father",
+    "loss",
+    "marathons",
+    "raises",
+    "shropshire"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "Lightfield Raises $47M, but 5,000 Signups Need Context",
+   "tokens": [
+    "000",
+    "47m",
+    "context",
+    "lightfield",
+    "need",
+    "raises",
+    "signups"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "Impossible Objects Raises $40M Series B to Scale Industrial 3D Printing",
+   "tokens": [
+    "40m",
+    "impossible",
+    "industrial",
+    "objects",
+    "printing",
+    "raises",
+    "scale",
+    "series"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "Fleet AI Platform Motive Raises $1.3B+, Withdraws IPO Filing",
+   "tokens": [
+    "filing",
+    "fleet",
+    "ipo",
+    "motive",
+    "platform",
+    "raises",
+    "withdraws"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "Enigmata Raises $6.5 Million Seed Round For AI Encryption Technology",
+   "tokens": [
+    "encryption",
+    "enigmata",
+    "million",
+    "raises",
+    "round",
+    "seed",
+    "technology"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "Beijan raises $180,000 pre-seed as college founders land Army deployments",
+   "tokens": [
+    "000",
+    "180",
+    "army",
+    "beijan",
+    "college",
+    "deployments",
+    "founders",
+    "land",
+    "pre",
+    "raises",
+    "seed"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "title": "Shanghai Yijing raises Series A for solid-oxide hydrogen tech",
+   "tokens": [
+    "hydrogen",
+    "oxide",
+    "raises",
+    "series",
+    "shanghai",
+    "solid",
+    "tech",
+    "yijing"
    ]
   }
  ]
