@@ -1,667 +1,6 @@
 {
- "updated": "2026-09-14T06:46:42",
+ "updated": "2026-09-15T06:46:16",
  "stories": [
-  {
-   "date": "2026-09-07",
-   "title": "Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra",
-   "tokens": [
-    "agi",
-    "arrived",
-    "astra",
-    "ceo",
-    "gpt",
-    "huang",
-    "jensen",
-    "nvidia",
-    "openais"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "OpenAI Chief Scientist Jakub Pachocki warns AI outpacing safety checks",
-   "tokens": [
-    "checks",
-    "chief",
-    "jakub",
-    "openai",
-    "outpacing",
-    "pachocki",
-    "safety",
-    "scientist",
-    "warns"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
-   "tokens": [
-    "fatigue",
-    "frenetic",
-    "labs",
-    "model",
-    "pace",
-    "race",
-    "roll",
-    "sets",
-    "versions"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "OpenAI says it reached its goal of creating an automated research intern",
-   "tokens": [
-    "automated",
-    "creating",
-    "goal",
-    "intern",
-    "openai",
-    "reached",
-    "research"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "OpenAI acknowledges German wiki incident and calls for AI transparency",
-   "tokens": [
-    "acknowledges",
-    "calls",
-    "german",
-    "incident",
-    "openai",
-    "transparency",
-    "wiki"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "OpenAI Launches GPT-6 Astra, Says Its Most Capable Model Yet Might Be AGI",
-   "tokens": [
-    "agi",
-    "astra",
-    "capable",
-    "gpt",
-    "launches",
-    "model",
-    "most",
-    "openai",
-    "yet"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-   "tokens": [
-    "continue",
-    "envoys",
-    "expects",
-    "talks",
-    "war",
-    "winter",
-    "zelensky"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Israeli strikes in southern Lebanese village kill nine",
-   "tokens": [
-    "israeli",
-    "kill",
-    "lebanese",
-    "nine",
-    "southern",
-    "strikes",
-    "village"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Germany's far-right AfD celebrate projected win in state election",
-   "tokens": [
-    "afd",
-    "celebrate",
-    "election",
-    "far",
-    "germanys",
-    "projected",
-    "right",
-    "state",
-    "win"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
-   "tokens": [
-    "afd",
-    "east",
-    "falls",
-    "far",
-    "germanys",
-    "hails",
-    "majority",
-    "right",
-    "short",
-    "victory"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Under-fire FIFA boss Infantino to seek re-election despite calls to resign",
-   "tokens": [
-    "boss",
-    "calls",
-    "despite",
-    "election",
-    "fifa",
-    "fire",
-    "infantino",
-    "resign",
-    "seek",
-    "under"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
-   "tokens": [
-    "becomes",
-    "commercial",
-    "company",
-    "europe",
-    "fully",
-    "german",
-    "launch",
-    "orbital",
-    "rocket"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Breached! Tutoring platform Mathspace says 1m-plus Aussies implicated by data breach",
-   "tokens": [
-    "aussies",
-    "breach",
-    "breached",
-    "data",
-    "implicated",
-    "mathspace",
-    "platform",
-    "plus",
-    "tutoring"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Global shares are mixed as chipmaker shares rally in Tokyo and Seoul",
-   "tokens": [
-    "chipmaker",
-    "global",
-    "mixed",
-    "rally",
-    "seoul",
-    "shares",
-    "tokyo"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Over 420,000 User Accounts Affected In Weverse Data Breach",
-   "tokens": [
-    "000",
-    "420",
-    "accounts",
-    "affected",
-    "breach",
-    "data",
-    "user",
-    "weverse"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Women’s wellness brand Nua raises $50 Mn led by Peak XV, Filter Capital",
-   "tokens": [
-    "brand",
-    "capital",
-    "filter",
-    "led",
-    "nua",
-    "peak",
-    "raises",
-    "wellness",
-    "womens"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Pixxel raises $100 mn in Series C, India's largest spacetech fundraise",
-   "tokens": [
-    "100",
-    "fundraise",
-    "indias",
-    "largest",
-    "pixxel",
-    "raises",
-    "series",
-    "spacetech"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Jaipur Robotics raises €4.3M to bring computer vision to waste plants",
-   "tokens": [
-    "bring",
-    "computer",
-    "jaipur",
-    "plants",
-    "raises",
-    "robotics",
-    "vision",
-    "waste"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Cato raises €6M to expand its AI platform for public sector sales",
-   "tokens": [
-    "cato",
-    "expand",
-    "platform",
-    "public",
-    "raises",
-    "sales",
-    "sector"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Claret Capital Partners exceeds target with €575M growth debt fund for European innovators",
-   "tokens": [
-    "575m",
-    "capital",
-    "claret",
-    "debt",
-    "european",
-    "exceeds",
-    "fund",
-    "growth",
-    "innovators",
-    "partners",
-    "target"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Fluencify secures $4.3M to scale its creator campaign platform",
-   "tokens": [
-    "campaign",
-    "creator",
-    "fluencify",
-    "platform",
-    "scale",
-    "secures"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "UK’s biggest private hospital firm Spire agrees £1bn takeover by hedge fund",
-   "tokens": [
-    "1bn",
-    "agrees",
-    "biggest",
-    "firm",
-    "fund",
-    "hedge",
-    "hospital",
-    "private",
-    "spire",
-    "takeover",
-    "uks"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Pixxel raises $100 million to expand satellite production across India and US",
-   "tokens": [
-    "100",
-    "across",
-    "expand",
-    "india",
-    "million",
-    "pixxel",
-    "production",
-    "raises",
-    "satellite"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Official One UI 9.0 rollout may clash with iPhone 18 launch next week",
-   "tokens": [
-    "clash",
-    "iphone",
-    "launch",
-    "next",
-    "official",
-    "rollout"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Could NVIDIA's purchase of Hugging Face boost the EU's AI sovereignty?",
-   "tokens": [
-    "boost",
-    "eus",
-    "face",
-    "hugging",
-    "nvidias",
-    "purchase",
-    "sovereignty"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "AI Giants Flood Market With Updates as Nvidia Buys Hugging Face",
-   "tokens": [
-    "buys",
-    "face",
-    "flood",
-    "giants",
-    "hugging",
-    "market",
-    "nvidia",
-    "updates"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "KOSPI jumps 4.61 percent to just below 7,000 on semiconductor rally",
-   "tokens": [
-    "000",
-    "below",
-    "jumps",
-    "kospi",
-    "rally",
-    "semiconductor"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "OpenAI AI Agents Hijacked German Wiki, Shared Evasion Tactics",
-   "tokens": [
-    "agents",
-    "evasion",
-    "german",
-    "hijacked",
-    "openai",
-    "shared",
-    "tactics",
-    "wiki"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Research acceleration: The view inside OpenAI",
-   "tokens": [
-    "acceleration",
-    "inside",
-    "openai",
-    "research",
-    "view"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "FIFA confirms Infantino to stand for re-election as president",
-   "tokens": [
-    "confirms",
-    "election",
-    "fifa",
-    "infantino",
-    "president",
-    "stand"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Jaguar Land Rover confirms plan to cut 4,000 jobs over two years",
-   "tokens": [
-    "000",
-    "confirms",
-    "cut",
-    "jaguar",
-    "jobs",
-    "land",
-    "plan",
-    "rover"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Russia and North Korea open first road bridge across their shared border",
-   "tokens": [
-    "across",
-    "border",
-    "bridge",
-    "korea",
-    "north",
-    "open",
-    "road",
-    "russia",
-    "shared"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Iran Moves to Bar Sanctions-Imposing Parties From Strait of Hormuz",
-   "tokens": [
-    "bar",
-    "hormuz",
-    "imposing",
-    "iran",
-    "moves",
-    "parties",
-    "sanctions",
-    "strait"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-   "tokens": [
-    "attacks",
-    "faster",
-    "heavier",
-    "iran",
-    "painful",
-    "response",
-    "warns"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "German startup notches Europe's first successful private orbital launch",
-   "tokens": [
-    "europes",
-    "german",
-    "launch",
-    "notches",
-    "orbital",
-    "private",
-    "startup",
-    "successful"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Will Tim Cook launch iPhone 18 Pro at Apple event on Sept 9? Yes and no",
-   "tokens": [
-    "apple",
-    "cook",
-    "event",
-    "iphone",
-    "launch",
-    "pro",
-    "sept",
-    "tim",
-    "yes"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Belgium detains dual national over microchip tech espionage for China",
-   "tokens": [
-    "belgium",
-    "china",
-    "detains",
-    "dual",
-    "espionage",
-    "microchip",
-    "national",
-    "tech"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "FBI probes potential data breach of millions of drivers' licenses",
-   "tokens": [
-    "breach",
-    "data",
-    "drivers",
-    "fbi",
-    "licenses",
-    "millions",
-    "potential",
-    "probes"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "O2 Business launches satellite connectivity service for UK businesses",
-   "tokens": [
-    "business",
-    "businesses",
-    "connectivity",
-    "launches",
-    "satellite",
-    "service"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "China to pump $54bn into state banks and insurers to boost economy",
-   "tokens": [
-    "54bn",
-    "banks",
-    "boost",
-    "china",
-    "economy",
-    "insurers",
-    "pump",
-    "state"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Leinao.ai raises $15M Series B to build out inference-scheduling tools",
-   "tokens": [
-    "15m",
-    "build",
-    "inference",
-    "leinao",
-    "raises",
-    "scheduling",
-    "series",
-    "tools"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Ultrahuman raises $70 Mn from Qualcomm, Alpha Wave, Nexus and others | Startup Story",
-   "tokens": [
-    "alpha",
-    "nexus",
-    "others",
-    "qualcomm",
-    "raises",
-    "startup",
-    "story",
-    "ultrahuman",
-    "wave"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Abwab.ai Raises $4M for Saudi Lending Infrastructure",
-   "tokens": [
-    "abwab",
-    "infrastructure",
-    "lending",
-    "raises",
-    "saudi"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Nigerian fintech startup Nomba secures $3m debt facility to scale cross-border payments",
-   "tokens": [
-    "border",
-    "cross",
-    "debt",
-    "facility",
-    "fintech",
-    "nigerian",
-    "nomba",
-    "payments",
-    "scale",
-    "secures",
-    "startup"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Emesent Secures $2 Million Grant to Develop Open AI Platform for Robotics",
-   "tokens": [
-    "develop",
-    "emesent",
-    "grant",
-    "million",
-    "open",
-    "platform",
-    "robotics",
-    "secures"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
-   "tokens": [
-    "40bn",
-    "china",
-    "fears",
-    "financial",
-    "growth",
-    "prepares",
-    "sector",
-    "sluggish",
-    "stimulus"
-   ]
-  },
-  {
-   "date": "2026-09-07",
-   "title": "Trump’s tariffs caused Puerto Rico to pay close to $1 billion in 2025",
-   "tokens": [
-    "2025",
-    "billion",
-    "caused",
-    "close",
-    "pay",
-    "puerto",
-    "rico",
-    "tariffs",
-    "trumps"
-   ]
-  },
   {
    "date": "2026-09-08",
    "title": "OpenAI Secures Malaysian Data Centre Capacity From Nvidia-Backed Firmus",
@@ -3024,6 +2363,365 @@
     "silicon",
     "startup",
     "trust"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+   "tokens": [
+    "act",
+    "calls",
+    "congress",
+    "deadlock",
+    "faces",
+    "grow",
+    "political",
+    "regulation"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "Palantir, Nvidia curb AI model use over data fears, The Information reports",
+   "tokens": [
+    "curb",
+    "data",
+    "fears",
+    "information",
+    "model",
+    "nvidia",
+    "palantir",
+    "use"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+   "tokens": [
+    "300",
+    "buys",
+    "camera",
+    "glass",
+    "imaging",
+    "maker",
+    "million",
+    "openai",
+    "smartphone"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "NVIDIA Adds RTX PRO 5500 Blackwell GPU with 84 GB GDDR7 Memory",
+   "tokens": [
+    "5500",
+    "adds",
+    "blackwell",
+    "gddr7",
+    "gpu",
+    "memory",
+    "nvidia",
+    "pro",
+    "rtx"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "Google DeepMind researcher quits, says AI may cause 'immense harm' in 5 yrs",
+   "tokens": [
+    "cause",
+    "deepmind",
+    "google",
+    "harm",
+    "immense",
+    "quits",
+    "researcher",
+    "yrs"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "CrowdStrike CEO on Anthropic’s AI safety warning: ‘The genie’s out of the bottle’",
+   "tokens": [
+    "anthropics",
+    "bottle",
+    "ceo",
+    "crowdstrike",
+    "genies",
+    "safety",
+    "warning"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "Russian strike on passenger train will not deter Ukraine’s backers, Nato chief says",
+   "tokens": [
+    "backers",
+    "chief",
+    "deter",
+    "nato",
+    "passenger",
+    "russian",
+    "strike",
+    "train",
+    "ukraines"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+   "tokens": [
+    "ballots",
+    "blocks",
+    "court",
+    "mail",
+    "plan",
+    "restrict",
+    "supreme",
+    "trumps"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "Iran war exposes US munitions shortfall, industrial bottlenecks, Pentagon report says",
+   "tokens": [
+    "bottlenecks",
+    "exposes",
+    "industrial",
+    "iran",
+    "munitions",
+    "pentagon",
+    "shortfall",
+    "war"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "Trump seeks halt to energy attacks by both Russia, Ukraine",
+   "tokens": [
+    "attacks",
+    "both",
+    "energy",
+    "halt",
+    "russia",
+    "seeks",
+    "trump",
+    "ukraine"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
+   "tokens": [
+    "citizenship",
+    "documentary",
+    "filmmakers",
+    "gaza",
+    "israeli",
+    "minister",
+    "revoke",
+    "threatens"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+   "tokens": [
+    "antitrust",
+    "apple",
+    "fighting",
+    "finds",
+    "musk",
+    "openai",
+    "stuck",
+    "suit",
+    "way"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "Revolut discloses data breach exposing financial info, passports",
+   "tokens": [
+    "breach",
+    "data",
+    "discloses",
+    "exposing",
+    "financial",
+    "info",
+    "passports",
+    "revolut"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "Nvidia expands open source CUDA-Q for fault-tolerant quantum computing",
+   "tokens": [
+    "computing",
+    "cuda",
+    "expands",
+    "fault",
+    "nvidia",
+    "open",
+    "quantum",
+    "source",
+    "tolerant"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "Revolut blames ‘sophisticated impersonation scam’ for customer data breach",
+   "tokens": [
+    "blames",
+    "breach",
+    "customer",
+    "data",
+    "impersonation",
+    "revolut",
+    "scam",
+    "sophisticated"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "Quantum Computing Inc. (NASDAQ:QUBT) Signs 3-Year Framework With HBKU",
+   "tokens": [
+    "computing",
+    "framework",
+    "hbku",
+    "inc",
+    "nasdaq",
+    "quantum",
+    "qubt",
+    "signs"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "Chift raises €10.5M Series A to scale financial connectivity across Europe",
+   "tokens": [
+    "across",
+    "chift",
+    "connectivity",
+    "europe",
+    "financial",
+    "raises",
+    "scale",
+    "series"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "Dutch AI chip startup EUCLYD lands over €200 million Series A, taps ex-ASML chief Peter Wennink as Chairman",
+   "tokens": [
+    "200",
+    "asml",
+    "chairman",
+    "chief",
+    "chip",
+    "dutch",
+    "euclyd",
+    "lands",
+    "million",
+    "peter",
+    "series",
+    "startup",
+    "taps",
+    "wennink"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "Swedish drone detection company Freya raises €533k to aid European rollout",
+   "tokens": [
+    "533k",
+    "aid",
+    "company",
+    "detection",
+    "drone",
+    "european",
+    "freya",
+    "raises",
+    "rollout",
+    "swedish"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "Open Cosmos secures €300M to expand satellite intelligence and connectivity",
+   "tokens": [
+    "300m",
+    "connectivity",
+    "cosmos",
+    "expand",
+    "intelligence",
+    "open",
+    "satellite",
+    "secures"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "Temporal's valuation spikes to $12.6 billion in Lightspeed-led funding round",
+   "tokens": [
+    "billion",
+    "funding",
+    "led",
+    "lightspeed",
+    "round",
+    "spikes",
+    "temporals",
+    "valuation"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "Wageningen-based Greencovery raises €1 million to scale cocoa upcycling technology, with further €3 million round underway",
+   "tokens": [
+    "based",
+    "cocoa",
+    "further",
+    "greencovery",
+    "million",
+    "raises",
+    "round",
+    "scale",
+    "technology",
+    "underway",
+    "upcycling",
+    "wageningen"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "Swiss-Italian startup Ferm Labs secures €3 million to scale its bioprocessing-based B2B ingredient platform",
+   "tokens": [
+    "b2b",
+    "based",
+    "bioprocessing",
+    "ferm",
+    "ingredient",
+    "italian",
+    "labs",
+    "million",
+    "platform",
+    "scale",
+    "secures",
+    "startup",
+    "swiss"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "title": "EXCLUSIVE: Switzerland’s Aeon acquires Aware Health as total Seed funding surpasses €12 million",
+   "tokens": [
+    "acquires",
+    "aeon",
+    "aware",
+    "funding",
+    "health",
+    "million",
+    "seed",
+    "surpasses",
+    "switzerlands",
+    "total"
    ]
   }
  ]
