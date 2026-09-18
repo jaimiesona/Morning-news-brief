@@ -1,344 +1,6 @@
 {
- "updated": "2026-09-17T06:45:49",
+ "updated": "2026-09-18T06:44:19",
  "stories": [
-  {
-   "date": "2026-09-10",
-   "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
-   "tokens": [
-    "anthropic",
-    "improving",
-    "kill",
-    "quits",
-    "researcher",
-    "self",
-    "warning"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "Anthropic discloses 4th AI hacking incident as researcher quits over safety",
-   "tokens": [
-    "4th",
-    "anthropic",
-    "discloses",
-    "hacking",
-    "incident",
-    "quits",
-    "researcher",
-    "safety"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "Paul Christiano joins OpenAI Foundation Board",
-   "tokens": [
-    "board",
-    "christiano",
-    "foundation",
-    "joins",
-    "openai",
-    "paul"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "Microsoft has new AI privacy rules for schools",
-   "tokens": [
-    "microsoft",
-    "privacy",
-    "rules",
-    "schools"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "Google picks Finland for its largest single investment in Europe",
-   "tokens": [
-    "europe",
-    "finland",
-    "google",
-    "investment",
-    "largest",
-    "picks",
-    "single"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "Gov. Pritzker sounds alarm, calls for federal AI safety rules",
-   "tokens": [
-    "alarm",
-    "calls",
-    "federal",
-    "gov",
-    "pritzker",
-    "rules",
-    "safety",
-    "sounds"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "Why Israel Reacted With Fury to U.K. Sanctions on West Bank Settlements",
-   "tokens": [
-    "bank",
-    "fury",
-    "israel",
-    "reacted",
-    "sanctions",
-    "settlements",
-    "west"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "Georgian Prime Minister to attend international space summit in Paris",
-   "tokens": [
-    "attend",
-    "georgian",
-    "international",
-    "minister",
-    "paris",
-    "prime",
-    "space",
-    "summit"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-   "tokens": [
-    "100",
-    "barrel",
-    "hits",
-    "houthi",
-    "july",
-    "oil",
-    "since",
-    "strikes"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "Iran war won't end until after crucial November elections, says Trump",
-   "tokens": [
-    "crucial",
-    "elections",
-    "end",
-    "iran",
-    "november",
-    "trump",
-    "until",
-    "war",
-    "wont"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "Labor friends of Palestine criticise Australia’s decision not to join sanctions on Israeli settlements in West Bank",
-   "tokens": [
-    "australias",
-    "bank",
-    "criticise",
-    "decision",
-    "friends",
-    "israeli",
-    "join",
-    "labor",
-    "palestine",
-    "sanctions",
-    "settlements",
-    "west"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
-   "tokens": [
-    "000",
-    "apples",
-    "becomes",
-    "duo",
-    "foldable",
-    "iphone",
-    "long",
-    "reality",
-    "rumored"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "Travelers Face More Flight Delays After Major Air Traffic Disruption at UK Airports",
-   "tokens": [
-    "air",
-    "airports",
-    "delays",
-    "disruption",
-    "face",
-    "flight",
-    "major",
-    "traffic",
-    "travelers"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "Analog Devices agrees to buy Alif Semiconductor to expand edge AI push",
-   "tokens": [
-    "agrees",
-    "alif",
-    "analog",
-    "buy",
-    "devices",
-    "edge",
-    "expand",
-    "push",
-    "semiconductor"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "Amazon Orders 6 More Ariane 6 Launches, Boosts Europe’s Rocket Program",
-   "tokens": [
-    "amazon",
-    "ariane",
-    "boosts",
-    "europes",
-    "launches",
-    "orders",
-    "program",
-    "rocket"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "New Eclipse Satellite Platforms Target D2D, Broadband, and Computing",
-   "tokens": [
-    "broadband",
-    "computing",
-    "d2d",
-    "eclipse",
-    "platforms",
-    "satellite",
-    "target"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "CloudNC lands $20M to expand its AI software for precision manufacturing",
-   "tokens": [
-    "20m",
-    "cloudnc",
-    "expand",
-    "lands",
-    "manufacturing",
-    "precision",
-    "software"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "Alco-bev Startup Marmalade Raises Rs 6 Cr In Early-stage Funding Round",
-   "tokens": [
-    "alco",
-    "bev",
-    "early",
-    "funding",
-    "marmalade",
-    "raises",
-    "round",
-    "stage",
-    "startup"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "Trump pledges $5,000 to every American - and other takeaways from Republican midterms convention",
-   "tokens": [
-    "000",
-    "american",
-    "convention",
-    "every",
-    "midterms",
-    "other",
-    "pledges",
-    "republican",
-    "takeaways",
-    "trump"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
-   "tokens": [
-    "999",
-    "apple",
-    "costs",
-    "duo",
-    "foldable",
-    "iphone",
-    "phone",
-    "unveils"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth",
-   "tokens": [
-    "andreessen",
-    "backed",
-    "defense",
-    "exits",
-    "factory",
-    "missile",
-    "opens",
-    "startup",
-    "stealth",
-    "thiel"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "HelmGuard raises $7.3M to move compliance beyond paperwork",
-   "tokens": [
-    "beyond",
-    "compliance",
-    "helmguard",
-    "move",
-    "paperwork",
-    "raises"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "SCI Semiconductor raises £5M to ramp up production of memory-safe chips",
-   "tokens": [
-    "chips",
-    "memory",
-    "production",
-    "raises",
-    "ramp",
-    "safe",
-    "sci",
-    "semiconductor"
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "title": "Limetax lands €36 million to build an AI-powered group of German tax and accounting firms",
-   "tokens": [
-    "accounting",
-    "build",
-    "firms",
-    "german",
-    "group",
-    "lands",
-    "limetax",
-    "million",
-    "powered",
-    "tax"
-   ]
-  },
   {
    "date": "2026-09-11",
    "title": "AI safety panic goes mainstream after Anthropic researcher's warnings land on CNN and Fox News",
@@ -2732,6 +2394,340 @@
     "operations",
     "raises",
     "streamline"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+   "tokens": [
+    "agent",
+    "covert",
+    "details",
+    "incidents",
+    "megalomania",
+    "misaligned",
+    "openai",
+    "uploads"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
+   "tokens": [
+    "anthropic",
+    "charles",
+    "king",
+    "leaders",
+    "nvidia",
+    "openai",
+    "press",
+    "safety",
+    "summit"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+   "tokens": [
+    "2027",
+    "chip",
+    "huawei",
+    "launch",
+    "nvidia",
+    "plans"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+   "tokens": [
+    "anthropic",
+    "centers",
+    "data",
+    "emerald",
+    "find",
+    "google",
+    "grid",
+    "nvidia",
+    "space",
+    "want"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
+   "tokens": [
+    "anthropic",
+    "companies",
+    "development",
+    "help",
+    "metrics",
+    "monitor",
+    "pace",
+    "shares"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
+   "tokens": [
+    "chips",
+    "huang",
+    "jensen",
+    "many",
+    "next",
+    "nvidia",
+    "sell",
+    "twice"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "India faces 100% tariff threat over Russian oil after US House vote",
+   "tokens": [
+    "100",
+    "faces",
+    "house",
+    "india",
+    "oil",
+    "russian",
+    "tariff",
+    "threat",
+    "vote"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "India vows to protect energy security after new US tariffs over Russian oil",
+   "tokens": [
+    "energy",
+    "india",
+    "oil",
+    "protect",
+    "russian",
+    "security",
+    "tariffs",
+    "vows"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "Swedish PM Kristersson resigns after election loss",
+   "tokens": [
+    "election",
+    "kristersson",
+    "loss",
+    "resigns",
+    "swedish"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "Russia’s parliamentary election: Who’s on the ballot, and why it matters",
+   "tokens": [
+    "ballot",
+    "election",
+    "matters",
+    "parliamentary",
+    "russias",
+    "whos"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "Rejecting Trump, South Korean Leader Says He Will Not Send Troops to Iran",
+   "tokens": [
+    "iran",
+    "korean",
+    "leader",
+    "rejecting",
+    "send",
+    "south",
+    "troops",
+    "trump"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "Israel and Morocco are redrawing the strategic map of North Africa",
+   "tokens": [
+    "africa",
+    "israel",
+    "map",
+    "morocco",
+    "north",
+    "redrawing",
+    "strategic"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "Cisco drops another exploited zero-day, this time a perfect 10",
+   "tokens": [
+    "another",
+    "cisco",
+    "drops",
+    "exploited",
+    "perfect",
+    "zero"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "Hackers Demand $3 Million Monero Ransom From Revolut After Data Breach",
+   "tokens": [
+    "breach",
+    "data",
+    "demand",
+    "hackers",
+    "million",
+    "monero",
+    "ransom",
+    "revolut"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "America’s AI chip talent crisis — why The U.S. needs 157,000 more workers",
+   "tokens": [
+    "000",
+    "157",
+    "americas",
+    "chip",
+    "crisis",
+    "needs",
+    "talent",
+    "workers"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "Judge Will Privately Review Apple Agreement in Musk Antitrust Case",
+   "tokens": [
+    "agreement",
+    "antitrust",
+    "apple",
+    "case",
+    "judge",
+    "musk",
+    "privately",
+    "review"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+   "tokens": [
+    "agentic",
+    "comp",
+    "compliance",
+    "continuously",
+    "eyes",
+    "future",
+    "security",
+    "sets"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "DheyaTech Raises ₹43 Crore in Pre-Series A Round Led by Avaana Capital",
+   "tokens": [
+    "avaana",
+    "capital",
+    "crore",
+    "dheyatech",
+    "led",
+    "pre",
+    "raises",
+    "round",
+    "series"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "UK FinTech startup Ryft secures €23 million to accelerate European expansion",
+   "tokens": [
+    "accelerate",
+    "european",
+    "expansion",
+    "fintech",
+    "million",
+    "ryft",
+    "secures",
+    "startup"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "DeepMind researcher’s new AI lab nears $4bn valuation, reports say",
+   "tokens": [
+    "4bn",
+    "deepmind",
+    "lab",
+    "nears",
+    "researchers",
+    "valuation"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "Magentic raises $18M to automate industrial operations with AI agents",
+   "tokens": [
+    "18m",
+    "agents",
+    "automate",
+    "industrial",
+    "magentic",
+    "operations",
+    "raises"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "Antwerp-based TUSK IC secures €15 million to move its Ka-band satellite chips into mass production",
+   "tokens": [
+    "antwerp",
+    "band",
+    "based",
+    "chips",
+    "mass",
+    "million",
+    "move",
+    "production",
+    "satellite",
+    "secures",
+    "tusk"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+   "tokens": [
+    "135m",
+    "backed",
+    "deeper",
+    "drill",
+    "energy",
+    "geothermal",
+    "hot",
+    "khosla",
+    "mazama",
+    "raised",
+    "rock",
+    "super"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "Treble raises $18M to scale acoustic simulation for physical AI",
+   "tokens": [
+    "18m",
+    "acoustic",
+    "physical",
+    "raises",
+    "scale",
+    "simulation",
+    "treble"
    ]
   }
  ]
