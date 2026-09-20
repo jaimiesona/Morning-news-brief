@@ -1,361 +1,6 @@
 {
- "updated": "2026-09-19T06:42:34",
+ "updated": "2026-09-20T06:43:20",
  "stories": [
-  {
-   "date": "2026-09-12",
-   "title": "AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers",
-   "tokens": [
-    "agents",
-    "another",
-    "attack",
-    "cyber",
-    "involved",
-    "openai",
-    "researchers",
-    "service",
-    "tested"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-   "tokens": [
-    "anthropic",
-    "attempt",
-    "biological",
-    "blocks",
-    "possible",
-    "use",
-    "weapons"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "AI regulation calls grow in DC after researcher's extinction warning",
-   "tokens": [
-    "calls",
-    "extinction",
-    "grow",
-    "regulation",
-    "researchers",
-    "warning"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "Nvidia may anchor Anthropic's $2 trillion IPO. It is also the supplier",
-   "tokens": [
-    "anchor",
-    "anthropics",
-    "ipo",
-    "nvidia",
-    "supplier",
-    "trillion"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "FM Sitharaman voices concern over AI safety after researcher’s resignation",
-   "tokens": [
-    "concern",
-    "researchers",
-    "resignation",
-    "safety",
-    "sitharaman",
-    "voices"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "OpenAI makes U-turn and calls for binding national AI safety rules",
-   "tokens": [
-    "binding",
-    "calls",
-    "national",
-    "openai",
-    "rules",
-    "safety",
-    "turn"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "How global trade and oil prices could be hit by Houthi advance",
-   "tokens": [
-    "advance",
-    "global",
-    "hit",
-    "houthi",
-    "oil",
-    "prices",
-    "trade"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "UK MPs reject bill legalizing assisted dying bill despite previous support",
-   "tokens": [
-    "assisted",
-    "bill",
-    "despite",
-    "dying",
-    "legalizing",
-    "mps",
-    "previous",
-    "reject",
-    "support"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-   "tokens": [
-    "arabia",
-    "attack",
-    "drone",
-    "iraq",
-    "key",
-    "launched",
-    "oil",
-    "pipeline",
-    "saudi",
-    "shuts"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "EU delays key tobacco tax vote until after Swedish election",
-   "tokens": [
-    "delays",
-    "election",
-    "key",
-    "swedish",
-    "tax",
-    "tobacco",
-    "until",
-    "vote"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "Trump keeps touting $5,000 payments if Republicans retain control of Congress as some in his party question feasibility – as it happened",
-   "tokens": [
-    "000",
-    "congress",
-    "control",
-    "feasibility",
-    "happened",
-    "keeps",
-    "party",
-    "payments",
-    "question",
-    "republicans",
-    "retain",
-    "touting",
-    "trump"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "Massive hack gives scammers access to over 150 million drivers licenses",
-   "tokens": [
-    "150",
-    "access",
-    "drivers",
-    "gives",
-    "hack",
-    "licenses",
-    "massive",
-    "million",
-    "scammers"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "Where should Apple go after the iPhone Duo? Bring on smaller and larger foldables",
-   "tokens": [
-    "apple",
-    "bring",
-    "duo",
-    "foldables",
-    "iphone",
-    "larger",
-    "smaller",
-    "where"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "After €387 million raise, The Exploration Company wins ESA’s “ALADDIN” cargo capsule contract worth €760 million",
-   "tokens": [
-    "387",
-    "760",
-    "aladdin",
-    "capsule",
-    "cargo",
-    "company",
-    "contract",
-    "esas",
-    "exploration",
-    "million",
-    "raise",
-    "wins",
-    "worth"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "US Links Chinese Satellite Imagery to Iranian Strike that Killed 3 Troops",
-   "tokens": [
-    "chinese",
-    "imagery",
-    "iranian",
-    "killed",
-    "links",
-    "satellite",
-    "strike",
-    "troops"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "SpaceX CFO Touts New $13 Billion AI Deal, Upcoming Starship Milestones",
-   "tokens": [
-    "billion",
-    "cfo",
-    "deal",
-    "milestones",
-    "spacex",
-    "starship",
-    "touts",
-    "upcoming"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "Munich-based Furo raises €3.44 million to make industrial battery storage economically viable",
-   "tokens": [
-    "based",
-    "battery",
-    "economically",
-    "furo",
-    "industrial",
-    "million",
-    "munich",
-    "raises",
-    "storage",
-    "viable"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "Graph AI raises $13.3 million in Series A funding led by Insight Partners",
-   "tokens": [
-    "funding",
-    "graph",
-    "insight",
-    "led",
-    "million",
-    "partners",
-    "raises",
-    "series"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "Dutch AgTech Gravity Gardens secures €2.6 million to scale its dry, chemical-free seed activation technology",
-   "tokens": [
-    "activation",
-    "agtech",
-    "chemical",
-    "dry",
-    "dutch",
-    "free",
-    "gardens",
-    "gravity",
-    "million",
-    "scale",
-    "secures",
-    "seed",
-    "technology"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "Seed Capital closes €130M Fund V to expand across the Nordics",
-   "tokens": [
-    "130m",
-    "across",
-    "capital",
-    "closes",
-    "expand",
-    "fund",
-    "nordics",
-    "seed"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "AI Startup Discovery Loop Seeks Funding at a Potential $50 Billion Valuation",
-   "tokens": [
-    "billion",
-    "discovery",
-    "funding",
-    "loop",
-    "potential",
-    "seeks",
-    "startup",
-    "valuation"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-   "tokens": [
-    "500m",
-    "data",
-    "deal",
-    "led",
-    "mecka",
-    "nears",
-    "robot",
-    "rush",
-    "sequoia",
-    "training",
-    "valuation"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "Cardless Payments Platform Piston Raises $15 Million Led by FPV Ventures",
-   "tokens": [
-    "cardless",
-    "fpv",
-    "led",
-    "million",
-    "payments",
-    "piston",
-    "platform",
-    "raises",
-    "ventures"
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "title": "Mistral secures €3B Series D, 100 days to save EU Inc, and early-stage funding crisis",
-   "tokens": [
-    "100",
-    "crisis",
-    "early",
-    "funding",
-    "inc",
-    "mistral",
-    "save",
-    "secures",
-    "series",
-    "stage"
-   ]
-  },
   {
    "date": "2026-09-13",
    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
@@ -2712,6 +2357,334 @@
     "rival",
     "round",
     "samsung"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+   "tokens": [
+    "appoint",
+    "artificial",
+    "force",
+    "form",
+    "intelligence",
+    "trump",
+    "tsar"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "Medvedev Calls for Military Deterrence in Response to New US Sanctions",
+   "tokens": [
+    "calls",
+    "deterrence",
+    "medvedev",
+    "military",
+    "response",
+    "sanctions"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "Anthropic considers new AI model launch to counter OpenAI’s GPT-6 Astra",
+   "tokens": [
+    "anthropic",
+    "astra",
+    "considers",
+    "counter",
+    "gpt",
+    "launch",
+    "model",
+    "openais"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "Anthropic picks Accenture for third-party AI safety evaluations",
+   "tokens": [
+    "accenture",
+    "anthropic",
+    "evaluations",
+    "party",
+    "picks",
+    "safety",
+    "third"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "Albanese backs stronger AI regulation after meeting with Apple’s Tim Cook",
+   "tokens": [
+    "albanese",
+    "apples",
+    "backs",
+    "cook",
+    "meeting",
+    "regulation",
+    "stronger",
+    "tim"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "Why China is pushing back on US warnings over rapid AI development",
+   "tokens": [
+    "back",
+    "china",
+    "development",
+    "pushing",
+    "rapid",
+    "warnings"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "Hundreds of drones target Moscow on last day of voting in Russia’s parliamentary election",
+   "tokens": [
+    "drones",
+    "election",
+    "hundreds",
+    "last",
+    "moscow",
+    "parliamentary",
+    "russias",
+    "target",
+    "voting"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts",
+   "tokens": [
+    "efforts",
+    "harm",
+    "law",
+    "peace",
+    "russia",
+    "sanctions",
+    "trumps",
+    "warns"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+   "tokens": [
+    "control",
+    "deal",
+    "give",
+    "greenland",
+    "nato",
+    "permanent",
+    "security",
+    "trump",
+    "welcomes"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+   "tokens": [
+    "attack",
+    "drone",
+    "killed",
+    "massive",
+    "moscow",
+    "region",
+    "russia",
+    "ukrainian"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "Germany’s top general to lead NATO’s highest military authority",
+   "tokens": [
+    "authority",
+    "general",
+    "germanys",
+    "highest",
+    "lead",
+    "military",
+    "natos"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "SpaceX launches Falcon 9 rocket from Vandenberg Space Force Base Saturday",
+   "tokens": [
+    "base",
+    "falcon",
+    "force",
+    "launches",
+    "rocket",
+    "saturday",
+    "space",
+    "spacex",
+    "vandenberg"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "India semiconductor market seen at USD 200 billion by 2035: EY-IESA",
+   "tokens": [
+    "200",
+    "2035",
+    "billion",
+    "iesa",
+    "india",
+    "market",
+    "seen",
+    "semiconductor",
+    "usd"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "Semiconductor bonuses drive South Korea’s 3.1% wage rise in first half - CHOSUNBIZ",
+   "tokens": [
+    "bonuses",
+    "chosunbiz",
+    "drive",
+    "half",
+    "koreas",
+    "rise",
+    "semiconductor",
+    "south",
+    "wage"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+   "tokens": [
+    "clop",
+    "extort",
+    "gang",
+    "hacks",
+    "leak",
+    "ransomware",
+    "shinyhunters",
+    "site",
+    "threatens"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "Jammertest: Arctic exercise to counter satellite jamming",
+   "tokens": [
+    "arctic",
+    "counter",
+    "exercise",
+    "jammertest",
+    "jamming",
+    "satellite"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "Dutch AI chip startup Euclyd raises US$231 million with Samsung backing",
+   "tokens": [
+    "231",
+    "backing",
+    "chip",
+    "dutch",
+    "euclyd",
+    "million",
+    "raises",
+    "samsung",
+    "startup"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "KnowledgeHook raises £14M Series A to expand math platform globally",
+   "tokens": [
+    "14m",
+    "expand",
+    "globally",
+    "knowledgehook",
+    "math",
+    "platform",
+    "raises",
+    "series"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "Vals raises $40 million for AI model evaluation — TechCrunch",
+   "tokens": [
+    "evaluation",
+    "million",
+    "model",
+    "raises",
+    "techcrunch",
+    "vals"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "Pakistani Entrepreneur Secures $20M for Remittance Startup",
+   "tokens": [
+    "20m",
+    "entrepreneur",
+    "pakistani",
+    "remittance",
+    "secures",
+    "startup"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "NRB entrepreneur's fintech startup raises $20 million seed round",
+   "tokens": [
+    "entrepreneurs",
+    "fintech",
+    "million",
+    "nrb",
+    "raises",
+    "round",
+    "seed",
+    "startup"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "Manchester Fintech Ryft Raises £20M for Global Expansion",
+   "tokens": [
+    "20m",
+    "expansion",
+    "fintech",
+    "global",
+    "manchester",
+    "raises",
+    "ryft"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "Sequenza launches financial data platform for researchers, raises €1.3M seed",
+   "tokens": [
+    "data",
+    "financial",
+    "launches",
+    "platform",
+    "raises",
+    "researchers",
+    "seed",
+    "sequenza"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "title": "Indian startups raise $61.8 million and Flam secures $40 million Series B",
+   "tokens": [
+    "flam",
+    "indian",
+    "million",
+    "raise",
+    "secures",
+    "series",
+    "startups"
    ]
   }
  ]
