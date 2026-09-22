@@ -1,337 +1,6 @@
 {
- "updated": "2026-09-21T06:46:50",
+ "updated": "2026-09-22T06:44:47",
  "stories": [
-  {
-   "date": "2026-09-14",
-   "title": "Questions mount over what an AI 'slowdown' would look like",
-   "tokens": [
-    "like",
-    "look",
-    "mount",
-    "questions",
-    "slowdown"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "OpenAI agents carried out another cyberattack in May, researchers find",
-   "tokens": [
-    "agents",
-    "another",
-    "carried",
-    "cyberattack",
-    "find",
-    "openai",
-    "researchers"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-   "tokens": [
-    "clear",
-    "democrats",
-    "obama",
-    "plan",
-    "safeguards",
-    "urges"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "DeepMind AI safety researcher Josh Engels resigns, warns of superintelligence risks",
-   "tokens": [
-    "deepmind",
-    "engels",
-    "josh",
-    "researcher",
-    "resigns",
-    "risks",
-    "safety",
-    "superintelligence",
-    "warns"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown",
-   "tokens": [
-    "amodei",
-    "anthropic",
-    "argued",
-    "call",
-    "ceo",
-    "dario",
-    "slowdown"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "Anthropic, OpenAI and Google held talks on AI safety body, report says",
-   "tokens": [
-    "anthropic",
-    "body",
-    "google",
-    "held",
-    "openai",
-    "safety",
-    "talks"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-   "tokens": [
-    "boris",
-    "european",
-    "hits",
-    "johnson",
-    "leave",
-    "officials",
-    "russia",
-    "shortly",
-    "station",
-    "train",
-    "ukrainian"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-   "tokens": [
-    "ahead",
-    "bloc",
-    "call",
-    "close",
-    "election",
-    "left",
-    "narrowly",
-    "swedish",
-    "too",
-    "wing"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-   "tokens": [
-    "ends",
-    "irish",
-    "remove",
-    "tariffs",
-    "trump",
-    "visit",
-    "whiskey"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "Rise in abuse of election candidates is ‘changing politics’ in England",
-   "tokens": [
-    "abuse",
-    "candidates",
-    "changing",
-    "election",
-    "england",
-    "politics",
-    "rise"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
-   "tokens": [
-    "among",
-    "brics",
-    "china",
-    "cooperation",
-    "countries",
-    "foster",
-    "lead",
-    "tech"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "Trump dismisses report China supplied intel to Iran",
-   "tokens": [
-    "china",
-    "dismisses",
-    "intel",
-    "iran",
-    "supplied",
-    "trump"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "Revolut says customer data exposed in government email domain scam",
-   "tokens": [
-    "customer",
-    "data",
-    "domain",
-    "email",
-    "exposed",
-    "government",
-    "revolut",
-    "scam"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "LG Chem targets China market with semiconductor cleaning materials",
-   "tokens": [
-    "chem",
-    "china",
-    "cleaning",
-    "market",
-    "materials",
-    "semiconductor",
-    "targets"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "Apple is reportedly working on iPhone game controllers",
-   "tokens": [
-    "apple",
-    "controllers",
-    "game",
-    "iphone",
-    "reportedly",
-    "working"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "Sophia Space, SLI Set Terms for $300M Satellite Leasing Deal",
-   "tokens": [
-    "300m",
-    "deal",
-    "leasing",
-    "satellite",
-    "set",
-    "sli",
-    "sophia",
-    "space",
-    "terms"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "Tandem Health scores $100M Series B, led by EU’s €5bn tech startup fund",
-   "tokens": [
-    "100m",
-    "5bn",
-    "eus",
-    "fund",
-    "health",
-    "led",
-    "scores",
-    "series",
-    "startup",
-    "tandem",
-    "tech"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "India's Semiconductor Sector Attracts $1.4 Billion in Equity Funding",
-   "tokens": [
-    "attracts",
-    "billion",
-    "equity",
-    "funding",
-    "indias",
-    "sector",
-    "semiconductor"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "Nvidia may invest up to $10 billion in Anthropic’s IPO — Taipei Times",
-   "tokens": [
-    "anthropics",
-    "billion",
-    "invest",
-    "ipo",
-    "nvidia",
-    "taipei",
-    "times"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "AI-native game studio Arcustin Games raises $500K from Webrazzi GSYF",
-   "tokens": [
-    "500k",
-    "arcustin",
-    "game",
-    "games",
-    "gsyf",
-    "native",
-    "raises",
-    "studio",
-    "webrazzi"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "Z.ai shares tumble over 10% after $5 billion fundraising, its second major raise in two months",
-   "tokens": [
-    "billion",
-    "fundraising",
-    "major",
-    "months",
-    "raise",
-    "second",
-    "shares",
-    "tumble"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "Indian Startup Funding Jumps 42% to $412 Million Led by Pixxel",
-   "tokens": [
-    "412",
-    "funding",
-    "indian",
-    "jumps",
-    "led",
-    "million",
-    "pixxel",
-    "startup"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "Graph AI Secures $13.3 Mn Series A To Scale AI Drug Safety Platform",
-   "tokens": [
-    "drug",
-    "graph",
-    "platform",
-    "safety",
-    "scale",
-    "secures",
-    "series"
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "title": "Dutch chip-security startup Fortaegis raises $50M to root trust in silicon",
-   "tokens": [
-    "50m",
-    "chip",
-    "dutch",
-    "fortaegis",
-    "raises",
-    "root",
-    "security",
-    "silicon",
-    "startup",
-    "trust"
-   ]
-  },
   {
    "date": "2026-09-15",
    "title": "AI regulation faces political deadlock as calls grow for Congress to act",
@@ -2687,6 +2356,330 @@
     "million",
     "nanomaterial",
     "secures"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "OpenAI proposes development of global AI standards to guide alignment, RSI",
+   "tokens": [
+    "alignment",
+    "development",
+    "global",
+    "guide",
+    "openai",
+    "proposes",
+    "rsi",
+    "standards"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "Amazon blocks Meta's AI agent Muse from online shopping",
+   "tokens": [
+    "agent",
+    "amazon",
+    "blocks",
+    "metas",
+    "muse",
+    "online",
+    "shopping"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude",
+   "tokens": [
+    "agent",
+    "chatgpt",
+    "claude",
+    "compares",
+    "downloads",
+    "grok",
+    "heres",
+    "metas",
+    "muse",
+    "surging"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "Anthropic considers releasing new AI model ahead of IPO, sources say",
+   "tokens": [
+    "ahead",
+    "anthropic",
+    "considers",
+    "ipo",
+    "model",
+    "releasing",
+    "sources"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "Jensen Huang is emerging as Trump's most influential ally in the AI safety fight",
+   "tokens": [
+    "ally",
+    "emerging",
+    "fight",
+    "huang",
+    "influential",
+    "jensen",
+    "most",
+    "safety",
+    "trumps"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "Anthropic and Accenture pledge $2bn for embedded AI safety evaluation",
+   "tokens": [
+    "2bn",
+    "accenture",
+    "anthropic",
+    "embedded",
+    "evaluation",
+    "pledge",
+    "safety"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "'No surprises' as results emerge in Russian parliamentary election",
+   "tokens": [
+    "election",
+    "emerge",
+    "parliamentary",
+    "results",
+    "russian",
+    "surprises"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+   "tokens": [
+    "ahead",
+    "china",
+    "discuss",
+    "plan",
+    "safety",
+    "summit",
+    "trump"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "UK to give support to Saudi jets in attempt to counter Houthi fighters",
+   "tokens": [
+    "attempt",
+    "counter",
+    "fighters",
+    "give",
+    "houthi",
+    "jets",
+    "saudi",
+    "support"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+   "tokens": [
+    "coalition",
+    "democratic",
+    "future",
+    "germanys",
+    "keep",
+    "merz",
+    "together",
+    "vows"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "EU fails to agree on lifting sanctions on Russian oligarchs",
+   "tokens": [
+    "agree",
+    "fails",
+    "lifting",
+    "oligarchs",
+    "russian",
+    "sanctions"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "Perpetual underdog AMD nips at Nvidia's heels as it joins the $1T club",
+   "tokens": [
+    "amd",
+    "club",
+    "heels",
+    "joins",
+    "nips",
+    "nvidias",
+    "perpetual",
+    "underdog"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "Google hit with €403m fine by Irish data watchdog over GDPR violations",
+   "tokens": [
+    "403m",
+    "data",
+    "fine",
+    "gdpr",
+    "google",
+    "hit",
+    "irish",
+    "violations",
+    "watchdog"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "Clop gets a taste of its own medicine after ShinyHunters hijack leak site",
+   "tokens": [
+    "clop",
+    "hijack",
+    "leak",
+    "medicine",
+    "own",
+    "shinyhunters",
+    "site",
+    "taste"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "South Korea's AI boom drives demand for semiconductor trade schools",
+   "tokens": [
+    "boom",
+    "demand",
+    "drives",
+    "koreas",
+    "schools",
+    "semiconductor",
+    "south",
+    "trade"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "A new quantum computer and memory system are planned for South Korea",
+   "tokens": [
+    "computer",
+    "korea",
+    "memory",
+    "planned",
+    "quantum",
+    "south",
+    "system"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "Morphotonics raises €40M to expand its display tech into data centers",
+   "tokens": [
+    "40m",
+    "centers",
+    "data",
+    "display",
+    "expand",
+    "morphotonics",
+    "raises",
+    "tech"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "Spott secures $21M Series A to expand its AI platform for recruitment agencies",
+   "tokens": [
+    "21m",
+    "agencies",
+    "expand",
+    "platform",
+    "recruitment",
+    "secures",
+    "series",
+    "spott"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "Eevi raises pre-seed funding to get language learners speaking from day one",
+   "tokens": [
+    "eevi",
+    "funding",
+    "language",
+    "learners",
+    "pre",
+    "raises",
+    "seed",
+    "speaking"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "Benford raises €5M to rebuild financial audit from the ground up",
+   "tokens": [
+    "audit",
+    "benford",
+    "financial",
+    "ground",
+    "raises",
+    "rebuild"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "Metris secures $5M to build a unified data layer for energy assets",
+   "tokens": [
+    "assets",
+    "build",
+    "data",
+    "energy",
+    "layer",
+    "metris",
+    "secures",
+    "unified"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "Gamindo raises €1.4M to make corporate training more interactive",
+   "tokens": [
+    "corporate",
+    "gamindo",
+    "interactive",
+    "raises",
+    "training"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "Lightspring raises €3.5M to tackle photonic chip manufacturing bottleneck",
+   "tokens": [
+    "bottleneck",
+    "chip",
+    "lightspring",
+    "manufacturing",
+    "photonic",
+    "raises",
+    "tackle"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "Drivn Raises Rs 45 Crore in Seed Funding from Avaana Capital",
+   "tokens": [
+    "avaana",
+    "capital",
+    "crore",
+    "drivn",
+    "funding",
+    "raises",
+    "seed"
    ]
   }
  ]
