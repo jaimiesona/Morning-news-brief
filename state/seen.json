@@ -1,351 +1,6 @@
 {
- "updated": "2026-09-23T06:44:35",
+ "updated": "2026-09-24T06:45:17",
  "stories": [
-  {
-   "date": "2026-09-16",
-   "title": "Anthropic CEO renews call for AI slowdown as Nvidia’s urges acceleration",
-   "tokens": [
-    "acceleration",
-    "anthropic",
-    "call",
-    "ceo",
-    "nvidias",
-    "renews",
-    "slowdown",
-    "urges"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-   "tokens": [
-    "created",
-    "destroy",
-    "humanity",
-    "pioneers",
-    "really",
-    "tech",
-    "weigh"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
-   "tokens": [
-    "cost",
-    "fraction",
-    "gemini",
-    "google",
-    "gpt",
-    "launches",
-    "live",
-    "openais"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-   "tokens": [
-    "everything",
-    "fear",
-    "labs",
-    "model",
-    "nvidias",
-    "reasoning",
-    "salesforce"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms",
-   "tokens": [
-    "bannon",
-    "bernie",
-    "condemn",
-    "demand",
-    "oligarchs",
-    "reforms",
-    "sanders",
-    "steve",
-    "tech"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-   "tokens": [
-    "ais",
-    "convinced",
-    "everyone",
-    "proposed",
-    "really",
-    "safety",
-    "slowdown"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "Denmark says Russian warship fired flares at military helicopter",
-   "tokens": [
-    "denmark",
-    "fired",
-    "flares",
-    "helicopter",
-    "military",
-    "russian",
-    "warship"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "Ukraine and Russia Say There Is No Energy Truce, Despite Trump’s Claims",
-   "tokens": [
-    "claims",
-    "despite",
-    "energy",
-    "russia",
-    "truce",
-    "trumps",
-    "ukraine"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "100% US tariffs over Russia oil buy? How sanctions bill may hit India",
-   "tokens": [
-    "100",
-    "bill",
-    "buy",
-    "hit",
-    "india",
-    "oil",
-    "russia",
-    "sanctions",
-    "tariffs"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "New Zealand Parliament Passes Free Trade Deal With India, Cuts Tariffs",
-   "tokens": [
-    "cuts",
-    "deal",
-    "free",
-    "india",
-    "parliament",
-    "passes",
-    "tariffs",
-    "trade",
-    "zealand"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "Viral Putin, Modi and Xi selfie at BRICS summit is AI-generated",
-   "tokens": [
-    "brics",
-    "generated",
-    "modi",
-    "putin",
-    "selfie",
-    "summit",
-    "viral"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
-   "tokens": [
-    "centerpoint",
-    "confirms",
-    "customer",
-    "cyberattack",
-    "data",
-    "energy",
-    "stolen"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
-   "tokens": [
-    "date",
-    "declares",
-    "launch",
-    "next",
-    "orbit",
-    "ready",
-    "sets",
-    "spacex",
-    "starship"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "News Content Hub - SES completes MEO satellite constellation launches",
-   "tokens": [
-    "completes",
-    "constellation",
-    "content",
-    "hub",
-    "launches",
-    "meo",
-    "news",
-    "satellite",
-    "ses"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "Mitsubishi Electric Invests in OptQC Optical Quantum Computing Startup",
-   "tokens": [
-    "computing",
-    "electric",
-    "invests",
-    "mitsubishi",
-    "optical",
-    "optqc",
-    "quantum",
-    "startup"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "Agility Robotics says its new Digit 5 robot can work next to people without safety fences",
-   "tokens": [
-    "agility",
-    "digit",
-    "fences",
-    "next",
-    "people",
-    "robot",
-    "robotics",
-    "safety",
-    "without",
-    "work"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "Exein raises $270M at $1.7B valuation, claims title of Europe’s most valuable cybersecurity scaleup",
-   "tokens": [
-    "270m",
-    "claims",
-    "cybersecurity",
-    "europes",
-    "exein",
-    "most",
-    "raises",
-    "scaleup",
-    "title",
-    "valuable",
-    "valuation"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "OriginalVoices raises £1M pre-seed round led by Iona Star",
-   "tokens": [
-    "iona",
-    "led",
-    "originalvoices",
-    "pre",
-    "raises",
-    "round",
-    "seed",
-    "star"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "London-based Jack & Jill raises €34.68 million Series A to scale its AI agents for jobseekers and employers",
-   "tokens": [
-    "agents",
-    "based",
-    "employers",
-    "jack",
-    "jill",
-    "jobseekers",
-    "london",
-    "million",
-    "raises",
-    "scale",
-    "series"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-   "tokens": [
-    "180m",
-    "aeo",
-    "hits",
-    "last",
-    "months",
-    "profound",
-    "raises",
-    "round",
-    "series",
-    "startup",
-    "unicorn",
-    "valuation"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "Lithuanian legaltech EnforceShield secures €1.7M for automated IP enforcement",
-   "tokens": [
-    "automated",
-    "enforcement",
-    "enforceshield",
-    "legaltech",
-    "lithuanian",
-    "secures"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "CRM challenger Zero gets backing from Lovable and Langdock founders in $10M raise",
-   "tokens": [
-    "10m",
-    "backing",
-    "challenger",
-    "crm",
-    "founders",
-    "langdock",
-    "lovable",
-    "raise",
-    "zero"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "Quartz launches with £2.75M to build a personal banker for everyone",
-   "tokens": [
-    "75m",
-    "banker",
-    "build",
-    "everyone",
-    "launches",
-    "personal",
-    "quartz"
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "title": "Brighteye Ventures lands $72M first close to back the future of learning and work",
-   "tokens": [
-    "72m",
-    "back",
-    "brighteye",
-    "close",
-    "future",
-    "lands",
-    "learning",
-    "ventures",
-    "work"
-   ]
-  },
   {
    "date": "2026-09-17",
    "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
@@ -2646,6 +2301,330 @@
     "swedish",
     "tech",
     "terasi"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+   "tokens": [
+    "agent",
+    "australian",
+    "government",
+    "infiltrated",
+    "openai",
+    "website"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "America’s A.I. Leaders Warn U.N. of Possible Peril Absent a Global Response",
+   "tokens": [
+    "absent",
+    "americas",
+    "global",
+    "leaders",
+    "peril",
+    "possible",
+    "response",
+    "warn"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "What’s next for cybersecurity, according to Index Ventures’ Shardul Shah",
+   "tokens": [
+    "according",
+    "cybersecurity",
+    "index",
+    "next",
+    "shah",
+    "shardul",
+    "ventures",
+    "whats"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Meta Unveils 3 Smart Glasses With Built-In A.I.",
+   "tokens": [
+    "built",
+    "glasses",
+    "meta",
+    "smart",
+    "unveils"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+   "tokens": [
+    "agent",
+    "like",
+    "made",
+    "meta",
+    "muse",
+    "tamagotchi",
+    "wearable"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "White House Calls for an ‘AI Force’ as Debate Over AI Safety Intensifies",
+   "tokens": [
+    "calls",
+    "debate",
+    "force",
+    "house",
+    "intensifies",
+    "safety",
+    "white"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Iran's president tells Trump it will never 'bend the knee'",
+   "tokens": [
+    "bend",
+    "irans",
+    "knee",
+    "never",
+    "president",
+    "tells",
+    "trump"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "A red carpet and military flyover - How Trump welcomed Xi",
+   "tokens": [
+    "carpet",
+    "flyover",
+    "military",
+    "red",
+    "trump",
+    "welcomed"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "China’s Xi visits US as Trump bets on stabilising global relations",
+   "tokens": [
+    "bets",
+    "chinas",
+    "global",
+    "relations",
+    "stabilising",
+    "trump",
+    "visits"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Turkiye agrees to gradual handover of Bashiqa base to Iraq",
+   "tokens": [
+    "agrees",
+    "base",
+    "bashiqa",
+    "gradual",
+    "handover",
+    "iraq",
+    "turkiye"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Poland accuses Russian military helicopter of violating its airspace",
+   "tokens": [
+    "accuses",
+    "airspace",
+    "helicopter",
+    "military",
+    "poland",
+    "russian",
+    "violating"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "FBI investigates alleged theft of ‘very sensitive’ employee data",
+   "tokens": [
+    "alleged",
+    "data",
+    "employee",
+    "fbi",
+    "investigates",
+    "sensitive",
+    "theft",
+    "very"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Qualcomm buys robotics software firm PickNik to push into physical AI",
+   "tokens": [
+    "buys",
+    "firm",
+    "physical",
+    "picknik",
+    "push",
+    "qualcomm",
+    "robotics",
+    "software"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "How Satellite Communications Services Market Are Transforming Connectivity",
+   "tokens": [
+    "communications",
+    "connectivity",
+    "market",
+    "satellite",
+    "services",
+    "transforming"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Why did Ireland fine Google €403 million over users' location data?",
+   "tokens": [
+    "403",
+    "data",
+    "did",
+    "fine",
+    "google",
+    "ireland",
+    "location",
+    "million",
+    "users"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "FACTBOX-OpenAI data breach latest in long list of hacks in Australia",
+   "tokens": [
+    "australia",
+    "breach",
+    "data",
+    "factbox",
+    "hacks",
+    "latest",
+    "list",
+    "long",
+    "openai"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Palma.ai raises $1.8M to bring governed AI agents to more enterprises",
+   "tokens": [
+    "agents",
+    "bring",
+    "enterprises",
+    "governed",
+    "palma",
+    "raises"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Anees Health raises seed funding to scale integrated in-home care model",
+   "tokens": [
+    "anees",
+    "care",
+    "funding",
+    "health",
+    "home",
+    "integrated",
+    "model",
+    "raises",
+    "scale",
+    "seed"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "AI coding startup ByteAsk raises $1 million from YC, Entrepreneur First",
+   "tokens": [
+    "byteask",
+    "coding",
+    "entrepreneur",
+    "million",
+    "raises",
+    "startup"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "TEKEVER raises $580M Series D at $6.4B valuation",
+   "tokens": [
+    "580m",
+    "raises",
+    "series",
+    "tekever",
+    "valuation"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Anthropic and Nvidia back Basecamp Research in $140M Series C",
+   "tokens": [
+    "140m",
+    "anthropic",
+    "back",
+    "basecamp",
+    "nvidia",
+    "research",
+    "series"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "German AI startup mika raises €6M to simplify accounting and tax for SMEs",
+   "tokens": [
+    "accounting",
+    "german",
+    "mika",
+    "raises",
+    "simplify",
+    "smes",
+    "startup",
+    "tax"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Cologne-based Metycle secures €131.7 million credit facility to scale secondary copper and aluminium supply",
+   "tokens": [
+    "131",
+    "aluminium",
+    "based",
+    "cologne",
+    "copper",
+    "credit",
+    "facility",
+    "metycle",
+    "million",
+    "scale",
+    "secondary",
+    "secures",
+    "supply"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Crux Analytics raises €1.9M to help banks win and retain small business customers",
+   "tokens": [
+    "analytics",
+    "banks",
+    "business",
+    "crux",
+    "customers",
+    "help",
+    "raises",
+    "retain",
+    "small",
+    "win"
    ]
   }
  ]
