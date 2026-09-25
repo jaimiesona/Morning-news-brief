@@ -1,327 +1,6 @@
 {
- "updated": "2026-09-24T06:45:17",
+ "updated": "2026-09-25T06:46:35",
  "stories": [
-  {
-   "date": "2026-09-17",
-   "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-   "tokens": [
-    "afraid",
-    "boss",
-    "firms",
-    "openai",
-    "right",
-    "trust",
-    "world"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "OpenAI Discloses Six New Incidents of ‘Concerning' A.I. Behavior",
-   "tokens": [
-    "behavior",
-    "concerning",
-    "discloses",
-    "incidents",
-    "openai",
-    "six"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
-   "tokens": [
-    "aim",
-    "anthropic",
-    "debate",
-    "mark",
-    "slowdown",
-    "zuckerberg"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "Microsoft AI chief calls out Anthropic's approach to AI consciousness",
-   "tokens": [
-    "anthropics",
-    "approach",
-    "calls",
-    "chief",
-    "consciousness",
-    "microsoft"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "Claude comes for Gemini with its own take on Docs and Slides",
-   "tokens": [
-    "claude",
-    "comes",
-    "docs",
-    "gemini",
-    "own",
-    "slides"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-   "tokens": [
-    "anthropic",
-    "embed",
-    "evaluators",
-    "independent",
-    "openai",
-    "really",
-    "safety",
-    "want"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "Congress passes sweeping US sanctions bill targeting Russia",
-   "tokens": [
-    "bill",
-    "congress",
-    "passes",
-    "russia",
-    "sanctions",
-    "sweeping",
-    "targeting"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "EU chief backs plan for Canada to become 'associate member'",
-   "tokens": [
-    "associate",
-    "backs",
-    "become",
-    "canada",
-    "chief",
-    "member",
-    "plan"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "State Department Extends Visa Ban on Abbas, Other Palestinian Officials",
-   "tokens": [
-    "abbas",
-    "ban",
-    "department",
-    "extends",
-    "officials",
-    "other",
-    "palestinian",
-    "state",
-    "visa"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "US interest rates raised for first time in three years",
-   "tokens": [
-    "interest",
-    "raised",
-    "rates",
-    "three"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "Putin urges Russians to vote in parliamentary election as show of support for Ukraine war",
-   "tokens": [
-    "election",
-    "parliamentary",
-    "putin",
-    "russians",
-    "show",
-    "support",
-    "ukraine",
-    "urges",
-    "vote",
-    "war"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "Google Pixel phones pwned in zero-click attacks",
-   "tokens": [
-    "attacks",
-    "click",
-    "google",
-    "phones",
-    "pixel",
-    "pwned",
-    "zero"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
-   "tokens": [
-    "backer",
-    "giving",
-    "investors",
-    "long",
-    "musks",
-    "spacex",
-    "stock"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "Fujifilm To Invest ₹800 Crore In India Semiconductor Materials Plant",
-   "tokens": [
-    "800",
-    "crore",
-    "fujifilm",
-    "india",
-    "invest",
-    "materials",
-    "plant",
-    "semiconductor"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "Coast Guard investigating cyberattack on tanker bound for Galveston",
-   "tokens": [
-    "bound",
-    "coast",
-    "cyberattack",
-    "galveston",
-    "guard",
-    "investigating",
-    "tanker"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "PM Modi opens Semicon 2026, says India's semiconductor ecosystem is on the rise",
-   "tokens": [
-    "2026",
-    "ecosystem",
-    "indias",
-    "modi",
-    "opens",
-    "rise",
-    "semicon",
-    "semiconductor"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "Veridion lands $20M to take business intelligence beyond static data",
-   "tokens": [
-    "20m",
-    "beyond",
-    "business",
-    "data",
-    "intelligence",
-    "lands",
-    "static",
-    "veridion"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "VerifAIX raises $5 mn seed funding led by Bluehill VC, Endiya Partners",
-   "tokens": [
-    "bluehill",
-    "endiya",
-    "funding",
-    "led",
-    "partners",
-    "raises",
-    "seed",
-    "verifaix"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "Opio raises €4M to automate the grunt work of financial due diligence",
-   "tokens": [
-    "automate",
-    "diligence",
-    "due",
-    "financial",
-    "grunt",
-    "opio",
-    "raises",
-    "work"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "Integral lands €18M Series A for AI-native accounting and tax services",
-   "tokens": [
-    "18m",
-    "accounting",
-    "integral",
-    "lands",
-    "native",
-    "series",
-    "services",
-    "tax"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "AcouBatt raises £1.1M to improve battery manufacturing safety and reliability",
-   "tokens": [
-    "acoubatt",
-    "battery",
-    "improve",
-    "manufacturing",
-    "raises",
-    "reliability",
-    "safety"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-   "tokens": [
-    "based",
-    "iceland",
-    "million",
-    "platform",
-    "raises",
-    "simulation",
-    "treble",
-    "voice"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "Creem secures €5M to build financial infrastructure for AI-native startups",
-   "tokens": [
-    "build",
-    "creem",
-    "financial",
-    "infrastructure",
-    "native",
-    "secures",
-    "startups"
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "title": "Barcelona-based Health Force raises €4.2 million to streamline hospital operations with AI agents",
-   "tokens": [
-    "agents",
-    "barcelona",
-    "based",
-    "force",
-    "health",
-    "hospital",
-    "million",
-    "operations",
-    "raises",
-    "streamline"
-   ]
-  },
   {
    "date": "2026-09-18",
    "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
@@ -2625,6 +2304,338 @@
     "retain",
     "small",
     "win"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+   "tokens": [
+    "australias",
+    "did",
+    "future",
+    "hack",
+    "health",
+    "openai",
+    "stopped",
+    "system"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Premier League in joint call for FIFA reform amid Infantino crisis",
+   "tokens": [
+    "call",
+    "crisis",
+    "fifa",
+    "infantino",
+    "joint",
+    "league",
+    "premier",
+    "reform"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door",
+   "tokens": [
+    "agi",
+    "built",
+    "chase",
+    "chief",
+    "deepmind",
+    "door",
+    "gemini",
+    "wants"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Meta puts its AI assistant on a keychain",
+   "tokens": [
+    "assistant",
+    "keychain",
+    "meta",
+    "puts"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Elon Musk says SpaceX could have a Fable or GPT-6 level AI model within months",
+   "tokens": [
+    "elon",
+    "fable",
+    "gpt",
+    "level",
+    "model",
+    "months",
+    "musk",
+    "spacex",
+    "within"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Palo Alto CEO says slowing down AI is ‘unrealistic’, extinction threat ‘extremely small’",
+   "tokens": [
+    "alto",
+    "ceo",
+    "extinction",
+    "extremely",
+    "palo",
+    "slowing",
+    "small",
+    "threat",
+    "unrealistic"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days",
+   "tokens": [
+    "awaiting",
+    "hormuz",
+    "iran",
+    "open",
+    "proposal",
+    "response",
+    "six",
+    "strait",
+    "trump"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Saudi Arabia Downs Houthi Missiles Targeting Kingdom, Official Says",
+   "tokens": [
+    "arabia",
+    "downs",
+    "houthi",
+    "kingdom",
+    "missiles",
+    "official",
+    "saudi",
+    "targeting"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+   "tokens": [
+    "action",
+    "defends",
+    "delegates",
+    "israeli",
+    "military",
+    "netanyahu",
+    "speech",
+    "walk"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Mamdani Accuses Netanyahu of Spreading ‘Baseless Lies’ After U.N. Speech",
+   "tokens": [
+    "accuses",
+    "baseless",
+    "lies",
+    "mamdani",
+    "netanyahu",
+    "speech",
+    "spreading"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting",
+   "tokens": [
+    "chiefs",
+    "fighting",
+    "pakistani",
+    "plan",
+    "saudi",
+    "talks",
+    "turkish",
+    "urgent",
+    "yemen"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Google Is Sending an A.I. Data Center to Outer Space",
+   "tokens": [
+    "center",
+    "data",
+    "google",
+    "outer",
+    "sending",
+    "space"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Google's first Suncatcher orbital data center test launches October 1",
+   "tokens": [
+    "center",
+    "data",
+    "googles",
+    "launches",
+    "october",
+    "orbital",
+    "suncatcher",
+    "test"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Exclusive: Revolut customers hit by fresh security breach",
+   "tokens": [
+    "breach",
+    "customers",
+    "fresh",
+    "hit",
+    "revolut",
+    "security"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Google hit with €403M privacy fine over handling of user location data",
+   "tokens": [
+    "403m",
+    "data",
+    "fine",
+    "google",
+    "handling",
+    "hit",
+    "location",
+    "privacy",
+    "user"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Iridium Stockholders Approve Acquisition by Rocket Lab – Company Announcement",
+   "tokens": [
+    "acquisition",
+    "announcement",
+    "approve",
+    "company",
+    "iridium",
+    "lab",
+    "rocket",
+    "stockholders"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Clastix bags €2.9M to tackle the complexity of Kubernetes at scale",
+   "tokens": [
+    "bags",
+    "clastix",
+    "complexity",
+    "kubernetes",
+    "scale",
+    "tackle"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "AI platform Reply Next secures €400K pre-seed funding",
+   "tokens": [
+    "400k",
+    "funding",
+    "next",
+    "platform",
+    "pre",
+    "reply",
+    "secures",
+    "seed"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "50skills raises $6M to scale its AI operating system for people workflows",
+   "tokens": [
+    "50skills",
+    "operating",
+    "people",
+    "raises",
+    "scale",
+    "system",
+    "workflows"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Europeans in Japan raise $1.2M to put modular humanoid robots to work",
+   "tokens": [
+    "europeans",
+    "humanoid",
+    "japan",
+    "modular",
+    "put",
+    "raise",
+    "robots",
+    "work"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Duqu raises €1.5M to give businesses faster access to working capital",
+   "tokens": [
+    "access",
+    "businesses",
+    "capital",
+    "duqu",
+    "faster",
+    "give",
+    "raises",
+    "working"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Enterprise AI startup Ema raises $77M in Series B round led by Creaegis",
+   "tokens": [
+    "77m",
+    "creaegis",
+    "ema",
+    "enterprise",
+    "led",
+    "raises",
+    "round",
+    "series",
+    "startup"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Basecamp Research Closes $140M Series C to Advance AI-Designed Therapeutics",
+   "tokens": [
+    "140m",
+    "advance",
+    "basecamp",
+    "closes",
+    "designed",
+    "research",
+    "series",
+    "therapeutics"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "DTCP closes €455M defence fund to scale Europe’s strategic tech capabilities",
+   "tokens": [
+    "455m",
+    "capabilities",
+    "closes",
+    "defence",
+    "dtcp",
+    "europes",
+    "fund",
+    "scale",
+    "strategic",
+    "tech"
    ]
   }
  ]
