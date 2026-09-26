@@ -1,340 +1,6 @@
 {
- "updated": "2026-09-25T06:46:35",
+ "updated": "2026-09-26T06:44:09",
  "stories": [
-  {
-   "date": "2026-09-18",
-   "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
-   "tokens": [
-    "agent",
-    "covert",
-    "details",
-    "incidents",
-    "megalomania",
-    "misaligned",
-    "openai",
-    "uploads"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
-   "tokens": [
-    "anthropic",
-    "charles",
-    "king",
-    "leaders",
-    "nvidia",
-    "openai",
-    "press",
-    "safety",
-    "summit"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-   "tokens": [
-    "2027",
-    "chip",
-    "huawei",
-    "launch",
-    "nvidia",
-    "plans"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-   "tokens": [
-    "anthropic",
-    "centers",
-    "data",
-    "emerald",
-    "find",
-    "google",
-    "grid",
-    "nvidia",
-    "space",
-    "want"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
-   "tokens": [
-    "anthropic",
-    "companies",
-    "development",
-    "help",
-    "metrics",
-    "monitor",
-    "pace",
-    "shares"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
-   "tokens": [
-    "chips",
-    "huang",
-    "jensen",
-    "many",
-    "next",
-    "nvidia",
-    "sell",
-    "twice"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "India faces 100% tariff threat over Russian oil after US House vote",
-   "tokens": [
-    "100",
-    "faces",
-    "house",
-    "india",
-    "oil",
-    "russian",
-    "tariff",
-    "threat",
-    "vote"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "India vows to protect energy security after new US tariffs over Russian oil",
-   "tokens": [
-    "energy",
-    "india",
-    "oil",
-    "protect",
-    "russian",
-    "security",
-    "tariffs",
-    "vows"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "Swedish PM Kristersson resigns after election loss",
-   "tokens": [
-    "election",
-    "kristersson",
-    "loss",
-    "resigns",
-    "swedish"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "Russia’s parliamentary election: Who’s on the ballot, and why it matters",
-   "tokens": [
-    "ballot",
-    "election",
-    "matters",
-    "parliamentary",
-    "russias",
-    "whos"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "Rejecting Trump, South Korean Leader Says He Will Not Send Troops to Iran",
-   "tokens": [
-    "iran",
-    "korean",
-    "leader",
-    "rejecting",
-    "send",
-    "south",
-    "troops",
-    "trump"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "Israel and Morocco are redrawing the strategic map of North Africa",
-   "tokens": [
-    "africa",
-    "israel",
-    "map",
-    "morocco",
-    "north",
-    "redrawing",
-    "strategic"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "Cisco drops another exploited zero-day, this time a perfect 10",
-   "tokens": [
-    "another",
-    "cisco",
-    "drops",
-    "exploited",
-    "perfect",
-    "zero"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "Hackers Demand $3 Million Monero Ransom From Revolut After Data Breach",
-   "tokens": [
-    "breach",
-    "data",
-    "demand",
-    "hackers",
-    "million",
-    "monero",
-    "ransom",
-    "revolut"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "America’s AI chip talent crisis — why The U.S. needs 157,000 more workers",
-   "tokens": [
-    "000",
-    "157",
-    "americas",
-    "chip",
-    "crisis",
-    "needs",
-    "talent",
-    "workers"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "Judge Will Privately Review Apple Agreement in Musk Antitrust Case",
-   "tokens": [
-    "agreement",
-    "antitrust",
-    "apple",
-    "case",
-    "judge",
-    "musk",
-    "privately",
-    "review"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
-   "tokens": [
-    "agentic",
-    "comp",
-    "compliance",
-    "continuously",
-    "eyes",
-    "future",
-    "security",
-    "sets"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "DheyaTech Raises ₹43 Crore in Pre-Series A Round Led by Avaana Capital",
-   "tokens": [
-    "avaana",
-    "capital",
-    "crore",
-    "dheyatech",
-    "led",
-    "pre",
-    "raises",
-    "round",
-    "series"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "UK FinTech startup Ryft secures €23 million to accelerate European expansion",
-   "tokens": [
-    "accelerate",
-    "european",
-    "expansion",
-    "fintech",
-    "million",
-    "ryft",
-    "secures",
-    "startup"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "DeepMind researcher’s new AI lab nears $4bn valuation, reports say",
-   "tokens": [
-    "4bn",
-    "deepmind",
-    "lab",
-    "nears",
-    "researchers",
-    "valuation"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "Magentic raises $18M to automate industrial operations with AI agents",
-   "tokens": [
-    "18m",
-    "agents",
-    "automate",
-    "industrial",
-    "magentic",
-    "operations",
-    "raises"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "Antwerp-based TUSK IC secures €15 million to move its Ka-band satellite chips into mass production",
-   "tokens": [
-    "antwerp",
-    "band",
-    "based",
-    "chips",
-    "mass",
-    "million",
-    "move",
-    "production",
-    "satellite",
-    "secures",
-    "tusk"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
-   "tokens": [
-    "135m",
-    "backed",
-    "deeper",
-    "drill",
-    "energy",
-    "geothermal",
-    "hot",
-    "khosla",
-    "mazama",
-    "raised",
-    "rock",
-    "super"
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "title": "Treble raises $18M to scale acoustic simulation for physical AI",
-   "tokens": [
-    "18m",
-    "acoustic",
-    "physical",
-    "raises",
-    "scale",
-    "simulation",
-    "treble"
-   ]
-  },
   {
    "date": "2026-09-19",
    "title": "Google's Gemini AI hacked three companies in security test",
@@ -2636,6 +2302,338 @@
     "scale",
     "strategic",
     "tech"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+   "tokens": [
+    "anthropic",
+    "blacklist",
+    "claude",
+    "court",
+    "enable",
+    "features",
+    "refusing",
+    "rules",
+    "trump"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+   "tokens": [
+    "agents",
+    "images",
+    "internet",
+    "knowledge",
+    "labs",
+    "openai",
+    "posted",
+    "unsecured",
+    "user",
+    "without"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "Torrez calls for federal AI regulation in wake of reported UNM breach",
+   "tokens": [
+    "breach",
+    "calls",
+    "federal",
+    "regulation",
+    "torrez",
+    "unm",
+    "wake"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "OpenAI, Google, and Anthropic planning an independent AI safety group",
+   "tokens": [
+    "anthropic",
+    "google",
+    "group",
+    "independent",
+    "openai",
+    "planning",
+    "safety"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "Pocock calls for AI safety act after Medicare breach – as it happened",
+   "tokens": [
+    "act",
+    "breach",
+    "calls",
+    "happened",
+    "medicare",
+    "pocock",
+    "safety"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+   "tokens": [
+    "agents",
+    "details",
+    "face",
+    "hacked",
+    "hugging",
+    "openai",
+    "revealing"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+   "tokens": [
+    "deal",
+    "hormuz",
+    "iran",
+    "offers",
+    "reopen",
+    "seven",
+    "strait"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "No general election before 2029, Andy Burnham says",
+   "tokens": [
+    "2029",
+    "andy",
+    "burnham",
+    "election",
+    "general"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "EU releases €6.6 billion for members arming Ukraine as seven killed in Kyiv",
+   "tokens": [
+    "arming",
+    "billion",
+    "killed",
+    "kyiv",
+    "members",
+    "releases",
+    "seven",
+    "ukraine"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "U.S. military lays groundwork for potential action around Cuba",
+   "tokens": [
+    "action",
+    "around",
+    "cuba",
+    "groundwork",
+    "lays",
+    "military",
+    "potential"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "Brazil's President Lula bans online betting ahead of presidential election",
+   "tokens": [
+    "ahead",
+    "bans",
+    "betting",
+    "brazils",
+    "election",
+    "lula",
+    "online",
+    "president",
+    "presidential"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "Google launches Project Suncatcher satellite to test AI chips in space",
+   "tokens": [
+    "chips",
+    "google",
+    "launches",
+    "project",
+    "satellite",
+    "space",
+    "suncatcher",
+    "test"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "Dyfed-Powys Police cops to cyberattack, staff data potentially nicked",
+   "tokens": [
+    "cops",
+    "cyberattack",
+    "data",
+    "dyfed",
+    "nicked",
+    "police",
+    "potentially",
+    "powys",
+    "staff"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "Siemens and TSMC Advance AI-Powered Semiconductor Design Automation",
+   "tokens": [
+    "advance",
+    "automation",
+    "design",
+    "powered",
+    "semiconductor",
+    "siemens",
+    "tsmc"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
+   "tokens": [
+    "customers",
+    "cyberattack",
+    "imminent",
+    "kiteworks",
+    "servers",
+    "shut",
+    "threat",
+    "urges"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "Build a Rocket Boy Enters Administration As Shutdown Rumors Persist",
+   "tokens": [
+    "administration",
+    "boy",
+    "build",
+    "enters",
+    "persist",
+    "rocket",
+    "rumors",
+    "shutdown"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "Reply Next raises €400,000 in pre-seed round led by 4Founders Capital",
+   "tokens": [
+    "000",
+    "400",
+    "4founders",
+    "capital",
+    "led",
+    "next",
+    "pre",
+    "raises",
+    "reply",
+    "round",
+    "seed"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Sept. 21 – Sept. 25)",
+   "tokens": [
+    "european",
+    "funding",
+    "round",
+    "rounds",
+    "sept",
+    "startup",
+    "tracked",
+    "weekly"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+   "tokens": [
+    "36b",
+    "ahead",
+    "british",
+    "convertible",
+    "financing",
+    "ipo",
+    "neocloud",
+    "nscale",
+    "secures"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "Drone-Powered Rainmaker Raises $100M Series B to Scale Cloud Seeding",
+   "tokens": [
+    "100m",
+    "cloud",
+    "drone",
+    "powered",
+    "rainmaker",
+    "raises",
+    "scale",
+    "seeding",
+    "series"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "Backed by NVIDIA, Basecamp bags $140M to advance AI-designed drugs",
+   "tokens": [
+    "140m",
+    "advance",
+    "backed",
+    "bags",
+    "basecamp",
+    "designed",
+    "drugs",
+    "nvidia"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "Europe’s leading pre-seed investors in 2026",
+   "tokens": [
+    "2026",
+    "europes",
+    "investors",
+    "leading",
+    "pre",
+    "seed"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "Dextr AI Raises $6.7 Mn To Build AI Agents For Hospitality Industry",
+   "tokens": [
+    "agents",
+    "build",
+    "dextr",
+    "hospitality",
+    "industry",
+    "raises"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "title": "Sanyark Space raises $2M pre-seed for navigation-communication satellites",
+   "tokens": [
+    "communication",
+    "navigation",
+    "pre",
+    "raises",
+    "sanyark",
+    "satellites",
+    "seed",
+    "space"
    ]
   }
  ]
