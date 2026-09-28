@@ -1,334 +1,6 @@
 {
- "updated": "2026-09-27T06:44:57",
+ "updated": "2026-09-28T06:49:03",
  "stories": [
-  {
-   "date": "2026-09-20",
-   "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-   "tokens": [
-    "appoint",
-    "artificial",
-    "force",
-    "form",
-    "intelligence",
-    "trump",
-    "tsar"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "Medvedev Calls for Military Deterrence in Response to New US Sanctions",
-   "tokens": [
-    "calls",
-    "deterrence",
-    "medvedev",
-    "military",
-    "response",
-    "sanctions"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "Anthropic considers new AI model launch to counter OpenAI’s GPT-6 Astra",
-   "tokens": [
-    "anthropic",
-    "astra",
-    "considers",
-    "counter",
-    "gpt",
-    "launch",
-    "model",
-    "openais"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "Anthropic picks Accenture for third-party AI safety evaluations",
-   "tokens": [
-    "accenture",
-    "anthropic",
-    "evaluations",
-    "party",
-    "picks",
-    "safety",
-    "third"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "Albanese backs stronger AI regulation after meeting with Apple’s Tim Cook",
-   "tokens": [
-    "albanese",
-    "apples",
-    "backs",
-    "cook",
-    "meeting",
-    "regulation",
-    "stronger",
-    "tim"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "Why China is pushing back on US warnings over rapid AI development",
-   "tokens": [
-    "back",
-    "china",
-    "development",
-    "pushing",
-    "rapid",
-    "warnings"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "Hundreds of drones target Moscow on last day of voting in Russia’s parliamentary election",
-   "tokens": [
-    "drones",
-    "election",
-    "hundreds",
-    "last",
-    "moscow",
-    "parliamentary",
-    "russias",
-    "target",
-    "voting"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts",
-   "tokens": [
-    "efforts",
-    "harm",
-    "law",
-    "peace",
-    "russia",
-    "sanctions",
-    "trumps",
-    "warns"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-   "tokens": [
-    "control",
-    "deal",
-    "give",
-    "greenland",
-    "nato",
-    "permanent",
-    "security",
-    "trump",
-    "welcomes"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
-   "tokens": [
-    "attack",
-    "drone",
-    "killed",
-    "massive",
-    "moscow",
-    "region",
-    "russia",
-    "ukrainian"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "Germany’s top general to lead NATO’s highest military authority",
-   "tokens": [
-    "authority",
-    "general",
-    "germanys",
-    "highest",
-    "lead",
-    "military",
-    "natos"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "SpaceX launches Falcon 9 rocket from Vandenberg Space Force Base Saturday",
-   "tokens": [
-    "base",
-    "falcon",
-    "force",
-    "launches",
-    "rocket",
-    "saturday",
-    "space",
-    "spacex",
-    "vandenberg"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "India semiconductor market seen at USD 200 billion by 2035: EY-IESA",
-   "tokens": [
-    "200",
-    "2035",
-    "billion",
-    "iesa",
-    "india",
-    "market",
-    "seen",
-    "semiconductor",
-    "usd"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "Semiconductor bonuses drive South Korea’s 3.1% wage rise in first half - CHOSUNBIZ",
-   "tokens": [
-    "bonuses",
-    "chosunbiz",
-    "drive",
-    "half",
-    "koreas",
-    "rise",
-    "semiconductor",
-    "south",
-    "wage"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
-   "tokens": [
-    "clop",
-    "extort",
-    "gang",
-    "hacks",
-    "leak",
-    "ransomware",
-    "shinyhunters",
-    "site",
-    "threatens"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "Jammertest: Arctic exercise to counter satellite jamming",
-   "tokens": [
-    "arctic",
-    "counter",
-    "exercise",
-    "jammertest",
-    "jamming",
-    "satellite"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "Dutch AI chip startup Euclyd raises US$231 million with Samsung backing",
-   "tokens": [
-    "231",
-    "backing",
-    "chip",
-    "dutch",
-    "euclyd",
-    "million",
-    "raises",
-    "samsung",
-    "startup"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "KnowledgeHook raises £14M Series A to expand math platform globally",
-   "tokens": [
-    "14m",
-    "expand",
-    "globally",
-    "knowledgehook",
-    "math",
-    "platform",
-    "raises",
-    "series"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "Vals raises $40 million for AI model evaluation — TechCrunch",
-   "tokens": [
-    "evaluation",
-    "million",
-    "model",
-    "raises",
-    "techcrunch",
-    "vals"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "Pakistani Entrepreneur Secures $20M for Remittance Startup",
-   "tokens": [
-    "20m",
-    "entrepreneur",
-    "pakistani",
-    "remittance",
-    "secures",
-    "startup"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "NRB entrepreneur's fintech startup raises $20 million seed round",
-   "tokens": [
-    "entrepreneurs",
-    "fintech",
-    "million",
-    "nrb",
-    "raises",
-    "round",
-    "seed",
-    "startup"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "Manchester Fintech Ryft Raises £20M for Global Expansion",
-   "tokens": [
-    "20m",
-    "expansion",
-    "fintech",
-    "global",
-    "manchester",
-    "raises",
-    "ryft"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "Sequenza launches financial data platform for researchers, raises €1.3M seed",
-   "tokens": [
-    "data",
-    "financial",
-    "launches",
-    "platform",
-    "raises",
-    "researchers",
-    "seed",
-    "sequenza"
-   ]
-  },
-  {
-   "date": "2026-09-20",
-   "title": "Indian startups raise $61.8 million and Flam secures $40 million Series B",
-   "tokens": [
-    "flam",
-    "indian",
-    "million",
-    "raise",
-    "secures",
-    "series",
-    "startups"
-   ]
-  },
   {
    "date": "2026-09-21",
    "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
@@ -2640,6 +2312,339 @@
     "tinder",
     "where",
     "your"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "Dario Amodei of Anthropic to Dine With Trump at White House",
+   "tokens": [
+    "amodei",
+    "anthropic",
+    "dario",
+    "dine",
+    "house",
+    "trump",
+    "white"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "AI Safety Regulation Debate Grows as OpenAI, Anthropic Seek Oversight",
+   "tokens": [
+    "anthropic",
+    "debate",
+    "grows",
+    "openai",
+    "oversight",
+    "regulation",
+    "safety",
+    "seek"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "OpenAI & Anthropic flag AI safety and seek to shape how it’s controlled",
+   "tokens": [
+    "anthropic",
+    "controlled",
+    "flag",
+    "openai",
+    "safety",
+    "seek",
+    "shape"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry",
+   "tokens": [
+    "anthropic",
+    "appear",
+    "australia",
+    "ceos",
+    "inquiry",
+    "openai",
+    "summons"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "OpenAI’s AI Agents Tried Hacking 4 Websites Without Being Prompted",
+   "tokens": [
+    "agents",
+    "hacking",
+    "openais",
+    "prompted",
+    "tried",
+    "websites",
+    "without"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "China mulls allowing ByteDance, Alibaba to buy new Nvidia chips: Report",
+   "tokens": [
+    "alibaba",
+    "allowing",
+    "buy",
+    "bytedance",
+    "china",
+    "chips",
+    "mulls",
+    "nvidia"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+   "tokens": [
+    "conflict",
+    "deal",
+    "end",
+    "hormuz",
+    "iranian",
+    "minister",
+    "negotiation",
+    "only",
+    "rejects",
+    "trump"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "Switzerland rejects stricter interpretation of its neutrality",
+   "tokens": [
+    "interpretation",
+    "neutrality",
+    "rejects",
+    "stricter",
+    "switzerland"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "Embattled Serbian president resigns, paving way for early elections",
+   "tokens": [
+    "early",
+    "elections",
+    "embattled",
+    "paving",
+    "president",
+    "resigns",
+    "serbian",
+    "way"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "Tariffs are reshaping trade. Are Australians paying more for imports?",
+   "tokens": [
+    "australians",
+    "imports",
+    "paying",
+    "reshaping",
+    "tariffs",
+    "trade"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war",
+   "tokens": [
+    "ambassador",
+    "end",
+    "faith",
+    "good",
+    "iran",
+    "negotiating",
+    "waltz",
+    "war"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+   "tokens": [
+    "attacks",
+    "citrix",
+    "confirms",
+    "exploited",
+    "netscaler",
+    "rce",
+    "zero"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "Personal information of over 23,500 Simba customers leaked in data breach",
+   "tokens": [
+    "500",
+    "breach",
+    "customers",
+    "data",
+    "information",
+    "leaked",
+    "personal",
+    "simba"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "India's TakeMe2Space to Launch Orbital Computing Satellite on SpaceX",
+   "tokens": [
+    "computing",
+    "indias",
+    "launch",
+    "orbital",
+    "satellite",
+    "spacex",
+    "takeme2space"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "SpaceX prepares to send Starship rocket to orbit for first time",
+   "tokens": [
+    "orbit",
+    "prepares",
+    "rocket",
+    "send",
+    "spacex",
+    "starship"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "VSMC Celebrates the Grand Opening of Its First 300mm Fab in Singapore",
+   "tokens": [
+    "300mm",
+    "celebrates",
+    "fab",
+    "grand",
+    "opening",
+    "singapore",
+    "vsmc"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "Estonia’s bilt.me raises €615k with backing from Bolt and Lightyear founders to scale its AI-native mobile app builder",
+   "tokens": [
+    "615k",
+    "app",
+    "backing",
+    "bilt",
+    "bolt",
+    "builder",
+    "estonias",
+    "founders",
+    "lightyear",
+    "mobile",
+    "native",
+    "raises",
+    "scale"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "Beauty and wellness startup Amaani raises $5 Mn led by BECO Capital",
+   "tokens": [
+    "amaani",
+    "beauty",
+    "beco",
+    "capital",
+    "led",
+    "raises",
+    "startup",
+    "wellness"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "LG Electronics Joins NVIDIA Partner Network for AI Data Center Cooling",
+   "tokens": [
+    "center",
+    "cooling",
+    "data",
+    "electronics",
+    "joins",
+    "network",
+    "nvidia",
+    "partner"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "Dige Robotics Secures $400M Series C Financing, With Linear Capital Increasing Stake for 7 Consecutive Rounds",
+   "tokens": [
+    "400m",
+    "capital",
+    "consecutive",
+    "dige",
+    "financing",
+    "increasing",
+    "linear",
+    "robotics",
+    "rounds",
+    "secures",
+    "series",
+    "stake"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "Flexigrid Energy raises €750,000 seed for grid-management tech",
+   "tokens": [
+    "000",
+    "750",
+    "energy",
+    "flexigrid",
+    "grid",
+    "management",
+    "raises",
+    "seed",
+    "tech"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "Agricultural machinery company Balwaan Krishi raises Rs 100 Cr in Series B",
+   "tokens": [
+    "100",
+    "agricultural",
+    "balwaan",
+    "company",
+    "krishi",
+    "machinery",
+    "raises",
+    "series"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "Humanos raises $3.2M to score the risk of AI agents in real time",
+   "tokens": [
+    "agents",
+    "humanos",
+    "raises",
+    "real",
+    "risk",
+    "score"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "title": "Korea's Nexcera raises $15M Series B for eye-drop macular treatment",
+   "tokens": [
+    "15m",
+    "drop",
+    "eye",
+    "koreas",
+    "macular",
+    "nexcera",
+    "raises",
+    "series",
+    "treatment"
    ]
   }
  ]
