@@ -1,345 +1,6 @@
 {
- "updated": "2026-09-28T06:49:03",
+ "updated": "2026-09-29T06:47:26",
  "stories": [
-  {
-   "date": "2026-09-21",
-   "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-   "tokens": [
-    "fears",
-    "huang",
-    "jensen",
-    "nvidias",
-    "overblown",
-    "surprised",
-    "thinks"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "Beyond Cowork and ChatGPT Work: What Meta Muse Is and How It Actually Runs",
-   "tokens": [
-    "actually",
-    "beyond",
-    "chatgpt",
-    "cowork",
-    "meta",
-    "muse",
-    "runs",
-    "work"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "\"Anthropic Weighs Early Release of New Model Amid Astra's Rapid Rise\"",
-   "tokens": [
-    "anthropic",
-    "astras",
-    "early",
-    "model",
-    "rapid",
-    "release",
-    "rise",
-    "weighs"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI, Google made illegal AI deal",
-   "tokens": [
-    "anthropic",
-    "deal",
-    "google",
-    "illegal",
-    "lawsuit",
-    "made",
-    "openai",
-    "spacexai"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "US proposes AI safety notification mechanism in talks with China",
-   "tokens": [
-    "china",
-    "mechanism",
-    "notification",
-    "proposes",
-    "safety",
-    "talks"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "Trump Announces ‘AI Force’ and AI Czar Amid Growing Safety Concerns",
-   "tokens": [
-    "announces",
-    "concerns",
-    "czar",
-    "force",
-    "growing",
-    "safety",
-    "trump"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-   "tokens": [
-    "attack",
-    "drones",
-    "fire",
-    "hundreds",
-    "largest",
-    "mayor",
-    "moscow",
-    "sees",
-    "ukraine"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
-   "tokens": [
-    "announce",
-    "canada",
-    "carney",
-    "closer",
-    "france",
-    "macron",
-    "tensions",
-    "ties",
-    "trump"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-   "tokens": [
-    "calls",
-    "chancellor",
-    "disaster",
-    "election",
-    "german",
-    "merz",
-    "party",
-    "state",
-    "stay",
-    "vows"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "Trump administration readies sweeping sanctions against ICC, reports say",
-   "tokens": [
-    "administration",
-    "icc",
-    "readies",
-    "sanctions",
-    "sweeping",
-    "trump"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "Trump tariffs hit Canada’s dairy farmers as US sales stall",
-   "tokens": [
-    "canadas",
-    "dairy",
-    "farmers",
-    "hit",
-    "sales",
-    "stall",
-    "tariffs",
-    "trump"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "ASML Begins India Operations, Links Expansion to Tata Electronics Fab",
-   "tokens": [
-    "asml",
-    "begins",
-    "electronics",
-    "expansion",
-    "fab",
-    "india",
-    "links",
-    "operations",
-    "tata"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "Delta Electronics Opens New Automation & Robotics Center in Stuttgart, Germany",
-   "tokens": [
-    "automation",
-    "center",
-    "delta",
-    "electronics",
-    "germany",
-    "opens",
-    "robotics",
-    "stuttgart"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "Rocket League Pros Playtesting Unreal Engine 6 Build Ahead Of 2027 Release",
-   "tokens": [
-    "2027",
-    "ahead",
-    "build",
-    "engine",
-    "league",
-    "playtesting",
-    "pros",
-    "release",
-    "rocket",
-    "unreal"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "Chinese memory-maker CXMT claims DRAM production breakthrough",
-   "tokens": [
-    "breakthrough",
-    "chinese",
-    "claims",
-    "cxmt",
-    "dram",
-    "maker",
-    "memory",
-    "production"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "Eagle Mountain internet service goes down again amid cyberattack",
-   "tokens": [
-    "again",
-    "cyberattack",
-    "eagle",
-    "goes",
-    "internet",
-    "mountain",
-    "service"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "Unit1 Studio raises £20M to scale avatar concert technology",
-   "tokens": [
-    "20m",
-    "avatar",
-    "concert",
-    "raises",
-    "scale",
-    "studio",
-    "technology",
-    "unit1"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "South Korea’s exports surge 78% on strong semiconductor shipments",
-   "tokens": [
-    "exports",
-    "koreas",
-    "semiconductor",
-    "shipments",
-    "south",
-    "strong",
-    "surge"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "UCANACT raises €800,000 for brain-computer communication",
-   "tokens": [
-    "000",
-    "800",
-    "brain",
-    "communication",
-    "computer",
-    "raises",
-    "ucanact"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "UK's unit1 raises £15M to stage concerts with digital avatars of musicians",
-   "tokens": [
-    "15m",
-    "avatars",
-    "concerts",
-    "digital",
-    "musicians",
-    "raises",
-    "stage",
-    "uks",
-    "unit1"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "Paymob raises $35M pre-Series C co-led by Mubadala and EBRD as GCC nears half of revenue",
-   "tokens": [
-    "35m",
-    "ebrd",
-    "gcc",
-    "half",
-    "led",
-    "mubadala",
-    "nears",
-    "paymob",
-    "pre",
-    "raises",
-    "revenue",
-    "series"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "Big Picture Bio Secures €2.55M for AI Cancer Therapy",
-   "tokens": [
-    "55m",
-    "bio",
-    "cancer",
-    "picture",
-    "secures",
-    "therapy"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "Chinese Chipmaker D-Robotics Bags $400M as Humanoid Robot Race Heats Up",
-   "tokens": [
-    "400m",
-    "bags",
-    "chinese",
-    "chipmaker",
-    "heats",
-    "humanoid",
-    "race",
-    "robot",
-    "robotics"
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "title": "iGii secures £22.7 million to accelerate commercialization of graphene-like carbon nanomaterial",
-   "tokens": [
-    "accelerate",
-    "carbon",
-    "commercialization",
-    "graphene",
-    "igii",
-    "like",
-    "million",
-    "nanomaterial",
-    "secures"
-   ]
-  },
   {
    "date": "2026-09-22",
    "title": "OpenAI proposes development of global AI standards to guide alignment, RSI",
@@ -2645,6 +2306,346 @@
     "raises",
     "series",
     "treatment"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "OpenAI scraps rollout of new model over safety concerns",
+   "tokens": [
+    "concerns",
+    "model",
+    "openai",
+    "rollout",
+    "safety",
+    "scraps"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",
+   "tokens": [
+    "150",
+    "adds",
+    "billion",
+    "buyback",
+    "ever",
+    "largest",
+    "massive",
+    "nvidia",
+    "stock"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "Nvidia launches new platform for reining in rogue AI agents",
+   "tokens": [
+    "agents",
+    "launches",
+    "nvidia",
+    "platform",
+    "reining",
+    "rogue"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "Pope Leo says AI risk concerns not ‘fake news’",
+   "tokens": [
+    "concerns",
+    "fake",
+    "leo",
+    "news",
+    "pope",
+    "risk"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "‘New kind of cyber incident’: OpenAI apologises for Medicare hack and reveals extent of attack",
+   "tokens": [
+    "apologises",
+    "attack",
+    "cyber",
+    "extent",
+    "hack",
+    "incident",
+    "kind",
+    "medicare",
+    "openai",
+    "reveals"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "Pope Leo challenges Nvidia CEO Jensen Huang over AI safety and regulation",
+   "tokens": [
+    "ceo",
+    "challenges",
+    "huang",
+    "jensen",
+    "leo",
+    "nvidia",
+    "pope",
+    "regulation",
+    "safety"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks",
+   "tokens": [
+    "araghchi",
+    "calls",
+    "irans",
+    "mediators",
+    "meets",
+    "nuclear",
+    "qatari",
+    "talks"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "Marine Le Pen hails RN senate surge as ‘milestone’ towards French presidency",
+   "tokens": [
+    "french",
+    "hails",
+    "marine",
+    "milestone",
+    "pen",
+    "presidency",
+    "senate",
+    "surge",
+    "towards"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "‘Myanmar junta must be held accountable,’ APHR condemns Kyauktaw airstrike",
+   "tokens": [
+    "accountable",
+    "airstrike",
+    "aphr",
+    "condemns",
+    "held",
+    "junta",
+    "kyauktaw",
+    "must",
+    "myanmar"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "Trump says Canada wants trade deal, accuses it of treating US 'very unfairly'",
+   "tokens": [
+    "accuses",
+    "canada",
+    "deal",
+    "trade",
+    "treating",
+    "trump",
+    "unfairly",
+    "very",
+    "wants"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "India-US trade deal can put ties on \"better\" track, says Jaishankar",
+   "tokens": [
+    "better",
+    "deal",
+    "india",
+    "jaishankar",
+    "put",
+    "ties",
+    "track",
+    "trade"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
+   "tokens": [
+    "deploying",
+    "gen",
+    "goes",
+    "next",
+    "orbital",
+    "spacexs",
+    "starlinks",
+    "starship"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+   "tokens": [
+    "acquiring",
+    "amd",
+    "billion",
+    "company",
+    "deal",
+    "labs",
+    "world",
+    "worth"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "After FBI, hackers steal Pentagon records of 3 million military personnel",
+   "tokens": [
+    "fbi",
+    "hackers",
+    "military",
+    "million",
+    "pentagon",
+    "personnel",
+    "records",
+    "steal"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "Hanmi Semiconductor wins $5.8mn equipment order from UTAC Thailand",
+   "tokens": [
+    "8mn",
+    "equipment",
+    "hanmi",
+    "order",
+    "semiconductor",
+    "thailand",
+    "utac",
+    "wins"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+   "tokens": [
+    "arrest",
+    "dutch",
+    "hacker",
+    "hunters",
+    "investigation",
+    "police",
+    "reformed",
+    "shiny"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "Complaion raises €13.5M to simplify compliance for European SMEs",
+   "tokens": [
+    "complaion",
+    "compliance",
+    "european",
+    "raises",
+    "simplify",
+    "smes"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "‘Shopify of mobile apps’ bilt.me raises $700K to turn ideas into mobile businesses",
+   "tokens": [
+    "700k",
+    "apps",
+    "bilt",
+    "businesses",
+    "ideas",
+    "mobile",
+    "raises",
+    "shopify",
+    "turn"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+   "tokens": [
+    "ceiling",
+    "cohort",
+    "investment",
+    "peak",
+    "seed",
+    "startup",
+    "surge",
+    "unveils",
+    "ups"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "Helsingborg’s conversation AI startup Klang raises €1.32 million and releases open speech-to-text model for Swedish",
+   "tokens": [
+    "conversation",
+    "helsingborgs",
+    "klang",
+    "million",
+    "model",
+    "open",
+    "raises",
+    "releases",
+    "speech",
+    "startup",
+    "swedish",
+    "text"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "Abu Dhabi’s Presight, Shorooq back $100mln investment for Maven Robotics",
+   "tokens": [
+    "100mln",
+    "abu",
+    "back",
+    "dhabis",
+    "investment",
+    "maven",
+    "presight",
+    "robotics",
+    "shorooq"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "Sofinnova Partners closes oversubscribed €82M Sofinnova MD Start IV fund",
+   "tokens": [
+    "82m",
+    "closes",
+    "fund",
+    "oversubscribed",
+    "partners",
+    "sofinnova",
+    "start"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "Granite raises €4M to bring its agentic cloud infrastructure to market",
+   "tokens": [
+    "agentic",
+    "bring",
+    "cloud",
+    "granite",
+    "infrastructure",
+    "market",
+    "raises"
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "title": "Reverion Raises $175 Million Series B for Fuel Cell Megafactory",
+   "tokens": [
+    "175",
+    "cell",
+    "fuel",
+    "megafactory",
+    "million",
+    "raises",
+    "reverion",
+    "series"
    ]
   }
  ]
