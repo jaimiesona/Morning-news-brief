@@ -1,331 +1,6 @@
 {
- "updated": "2026-09-30T06:48:03",
+ "updated": "2026-10-01T06:49:14",
  "stories": [
-  {
-   "date": "2026-09-23",
-   "title": "Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate",
-   "tokens": [
-    "anthropic",
-    "debate",
-    "model",
-    "opus",
-    "releases",
-    "safety"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
-   "tokens": [
-    "anthropic",
-    "call",
-    "cheaper",
-    "models",
-    "openai",
-    "release",
-    "roll",
-    "since",
-    "slowdown"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "OpenAI calls for international standards on AI that could improve itself",
-   "tokens": [
-    "calls",
-    "improve",
-    "international",
-    "itself",
-    "openai",
-    "standards"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "Burnham expects to find 'common ground' with Trump in first meeting",
-   "tokens": [
-    "burnham",
-    "common",
-    "expects",
-    "find",
-    "ground",
-    "meeting",
-    "trump"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
-   "tokens": [
-    "intelligence",
-    "officially",
-    "renaming",
-    "super",
-    "trump"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "Meta patches Muse exploit that let attackers control the AI agent",
-   "tokens": [
-    "agent",
-    "attackers",
-    "control",
-    "exploit",
-    "let",
-    "meta",
-    "muse",
-    "patches"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-   "tokens": [
-    "anger",
-    "list",
-    "oligarchs",
-    "removes",
-    "russian",
-    "sanctions",
-    "ukraine"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "Trump rallies Shield of the Americas coalition against drug cartels",
-   "tokens": [
-    "americas",
-    "cartels",
-    "coalition",
-    "drug",
-    "rallies",
-    "shield",
-    "trump"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "Zelenskyy says Ukraine ready for energy truce with Russia after Trump talks",
-   "tokens": [
-    "energy",
-    "ready",
-    "russia",
-    "talks",
-    "truce",
-    "trump",
-    "ukraine",
-    "zelenskyy"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "US to build two military bases in Greenland under new deal with Denmark",
-   "tokens": [
-    "bases",
-    "build",
-    "deal",
-    "denmark",
-    "greenland",
-    "military",
-    "under"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "Macron Criticizes Israel and Russia in Final U.N. Speech as France’s President",
-   "tokens": [
-    "criticizes",
-    "final",
-    "frances",
-    "israel",
-    "macron",
-    "president",
-    "russia",
-    "speech"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
-   "tokens": [
-    "agents",
-    "applicants",
-    "breached",
-    "claims",
-    "data",
-    "fbi",
-    "group",
-    "hacking",
-    "shinyhunters",
-    "stole"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "Tessco Data Breach Exposes Sensitive Personal Information of Minors",
-   "tokens": [
-    "breach",
-    "data",
-    "exposes",
-    "information",
-    "minors",
-    "personal",
-    "sensitive",
-    "tessco"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "Check Point warns of Management Server zero-day exploited in attacks",
-   "tokens": [
-    "attacks",
-    "check",
-    "exploited",
-    "management",
-    "point",
-    "server",
-    "warns",
-    "zero"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "Amazon Leo is bringing Elon-free satellite internet to Uzbekistan",
-   "tokens": [
-    "amazon",
-    "bringing",
-    "elon",
-    "free",
-    "internet",
-    "leo",
-    "satellite",
-    "uzbekistan"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "Sean Gunn Says His Rocket Raccoon Days Are Over, Blames His Ankles Not His Knees",
-   "tokens": [
-    "ankles",
-    "blames",
-    "gunn",
-    "knees",
-    "raccoon",
-    "rocket",
-    "sean"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "Verda raises $189M to advance its AI cloud and expand compute capacity",
-   "tokens": [
-    "189m",
-    "advance",
-    "capacity",
-    "cloud",
-    "compute",
-    "expand",
-    "raises",
-    "verda"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "Primo raises $8M to bring autonomous AI agents to IT operations",
-   "tokens": [
-    "agents",
-    "autonomous",
-    "bring",
-    "operations",
-    "primo",
-    "raises"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-   "tokens": [
-    "academy",
-    "andreessen",
-    "google",
-    "homework",
-    "horowitz",
-    "launching",
-    "meta",
-    "palantir",
-    "partnerships"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "Biolevate lands €30M Series A to scale life sciences AI",
-   "tokens": [
-    "30m",
-    "biolevate",
-    "lands",
-    "life",
-    "scale",
-    "sciences",
-    "series"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "Noxtua raises more than €100M as C.H.BECK takes majority stake German legaltech",
-   "tokens": [
-    "100m",
-    "beck",
-    "german",
-    "legaltech",
-    "majority",
-    "noxtua",
-    "raises",
-    "stake"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "CIOC Energy secures €3M for solar and battery optimisation",
-   "tokens": [
-    "battery",
-    "cioc",
-    "energy",
-    "optimisation",
-    "secures",
-    "solar"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "Thinktank linked to Reform UK calls for abolition of state pension",
-   "tokens": [
-    "abolition",
-    "calls",
-    "linked",
-    "pension",
-    "reform",
-    "state",
-    "thinktank"
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "title": "NATO Innovation Fund co-leads €11M investment in Swedish defence tech outfit Terasi",
-   "tokens": [
-    "11m",
-    "defence",
-    "fund",
-    "innovation",
-    "investment",
-    "leads",
-    "nato",
-    "outfit",
-    "swedish",
-    "tech",
-    "terasi"
-   ]
-  },
   {
    "date": "2026-09-24",
    "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
@@ -2656,6 +2331,342 @@
     "raises",
     "sofa",
     "vacuum"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms",
+   "tokens": [
+    "anthropic",
+    "consumer",
+    "harms",
+    "investigates",
+    "openai",
+    "potential"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+   "tokens": [
+    "assistant",
+    "delay",
+    "dots",
+    "model",
+    "openai",
+    "safety",
+    "unveils",
+    "worries"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+   "tokens": [
+    "deal",
+    "heres",
+    "leaders",
+    "police",
+    "safety",
+    "self",
+    "tech",
+    "trumps",
+    "under"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+   "tokens": [
+    "announces",
+    "argon",
+    "cant",
+    "gemini",
+    "google",
+    "model",
+    "use",
+    "yet"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "Inside Zuckerberg, Huang’s push for White House AI pact",
+   "tokens": [
+    "house",
+    "huangs",
+    "inside",
+    "pact",
+    "push",
+    "white",
+    "zuckerberg"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "CoreWeave makes Nvidia Vera Rubin NVL72 available, Cognition is early customer",
+   "tokens": [
+    "available",
+    "cognition",
+    "coreweave",
+    "customer",
+    "early",
+    "nvidia",
+    "nvl72",
+    "rubin",
+    "vera"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "Plummeting Israel flight like 'rollercoaster', says passenger",
+   "tokens": [
+    "flight",
+    "israel",
+    "like",
+    "passenger",
+    "plummeting",
+    "rollercoaster"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "Trump faces bipartisan pushback over possible Russia sanctions relief",
+   "tokens": [
+    "bipartisan",
+    "faces",
+    "possible",
+    "pushback",
+    "relief",
+    "russia",
+    "sanctions",
+    "trump"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+   "tokens": [
+    "anti",
+    "ends",
+    "iraq",
+    "islamic",
+    "last",
+    "leave",
+    "mission",
+    "state",
+    "troops"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "PM Modi and President Trump Review Strategic Ties, Focus on Global Peace",
+   "tokens": [
+    "focus",
+    "global",
+    "modi",
+    "peace",
+    "president",
+    "review",
+    "strategic",
+    "ties",
+    "trump"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "U.S. attorney defends Trump’s forced labor tariffs before trade court",
+   "tokens": [
+    "attorney",
+    "court",
+    "defends",
+    "forced",
+    "labor",
+    "tariffs",
+    "trade",
+    "trumps"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "South Korea’s exports hit record high on AI boom",
+   "tokens": [
+    "boom",
+    "exports",
+    "high",
+    "hit",
+    "koreas",
+    "record",
+    "south"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "Hackers stole millions of US military personnel records during months-long data breach",
+   "tokens": [
+    "breach",
+    "data",
+    "during",
+    "hackers",
+    "long",
+    "military",
+    "millions",
+    "months",
+    "personnel",
+    "records",
+    "stole"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "Infineon opens Thailand plant as country ramps up semiconductor push",
+   "tokens": [
+    "country",
+    "infineon",
+    "opens",
+    "plant",
+    "push",
+    "ramps",
+    "semiconductor",
+    "thailand"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "Apple Likely To Unveil iPhone 18 Pro Sept. 9, Pushing Pre-Orders Back",
+   "tokens": [
+    "apple",
+    "back",
+    "iphone",
+    "likely",
+    "orders",
+    "pre",
+    "pro",
+    "pushing",
+    "sept",
+    "unveil"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "SES and Sky Extend Satellite Capacity Agreement for UK and Ireland",
+   "tokens": [
+    "agreement",
+    "capacity",
+    "extend",
+    "ireland",
+    "satellite",
+    "ses",
+    "sky"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "Simple Energy Raises ₹1750 Crore in Series C -Third-Largest Round Ever!",
+   "tokens": [
+    "1750",
+    "crore",
+    "energy",
+    "ever",
+    "largest",
+    "raises",
+    "round",
+    "series",
+    "simple",
+    "third"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "Berlin-based Restate raises $20M",
+   "tokens": [
+    "20m",
+    "based",
+    "berlin",
+    "raises",
+    "restate"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "ElevenLabs' valuation doubles to $22BN, as completes $300M employee tender offer",
+   "tokens": [
+    "22bn",
+    "300m",
+    "completes",
+    "doubles",
+    "elevenlabs",
+    "employee",
+    "offer",
+    "tender",
+    "valuation"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "FRANK raises €2.9M to cut paperwork for insurance brokers",
+   "tokens": [
+    "brokers",
+    "cut",
+    "frank",
+    "insurance",
+    "paperwork",
+    "raises"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "CScale raises $145 million for AI networking, with backing from Nvidia and Intel",
+   "tokens": [
+    "145",
+    "backing",
+    "cscale",
+    "intel",
+    "million",
+    "networking",
+    "nvidia",
+    "raises"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "Exclusive: Dig Ventures raises $120m to back Europe’s AI infrastructure startups",
+   "tokens": [
+    "120m",
+    "back",
+    "dig",
+    "europes",
+    "infrastructure",
+    "raises",
+    "startups",
+    "ventures"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "Blackswan Space raises €2.5M to take autonomous spacecraft navigation into orbit",
+   "tokens": [
+    "autonomous",
+    "blackswan",
+    "navigation",
+    "orbit",
+    "raises",
+    "space",
+    "spacecraft"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "title": "Inbolt raises €11M to bring real-time vision and intelligence to industrial robots",
+   "tokens": [
+    "11m",
+    "bring",
+    "inbolt",
+    "industrial",
+    "intelligence",
+    "raises",
+    "real",
+    "robots",
+    "vision"
    ]
   }
  ]
