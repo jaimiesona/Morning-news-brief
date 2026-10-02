@@ -1,330 +1,6 @@
 {
- "updated": "2026-10-01T06:49:14",
+ "updated": "2026-10-02T06:48:59",
  "stories": [
-  {
-   "date": "2026-09-24",
-   "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-   "tokens": [
-    "agent",
-    "australian",
-    "government",
-    "infiltrated",
-    "openai",
-    "website"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "America’s A.I. Leaders Warn U.N. of Possible Peril Absent a Global Response",
-   "tokens": [
-    "absent",
-    "americas",
-    "global",
-    "leaders",
-    "peril",
-    "possible",
-    "response",
-    "warn"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "What’s next for cybersecurity, according to Index Ventures’ Shardul Shah",
-   "tokens": [
-    "according",
-    "cybersecurity",
-    "index",
-    "next",
-    "shah",
-    "shardul",
-    "ventures",
-    "whats"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "Meta Unveils 3 Smart Glasses With Built-In A.I.",
-   "tokens": [
-    "built",
-    "glasses",
-    "meta",
-    "smart",
-    "unveils"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-   "tokens": [
-    "agent",
-    "like",
-    "made",
-    "meta",
-    "muse",
-    "tamagotchi",
-    "wearable"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "White House Calls for an ‘AI Force’ as Debate Over AI Safety Intensifies",
-   "tokens": [
-    "calls",
-    "debate",
-    "force",
-    "house",
-    "intensifies",
-    "safety",
-    "white"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "Iran's president tells Trump it will never 'bend the knee'",
-   "tokens": [
-    "bend",
-    "irans",
-    "knee",
-    "never",
-    "president",
-    "tells",
-    "trump"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "A red carpet and military flyover - How Trump welcomed Xi",
-   "tokens": [
-    "carpet",
-    "flyover",
-    "military",
-    "red",
-    "trump",
-    "welcomed"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "China’s Xi visits US as Trump bets on stabilising global relations",
-   "tokens": [
-    "bets",
-    "chinas",
-    "global",
-    "relations",
-    "stabilising",
-    "trump",
-    "visits"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "Turkiye agrees to gradual handover of Bashiqa base to Iraq",
-   "tokens": [
-    "agrees",
-    "base",
-    "bashiqa",
-    "gradual",
-    "handover",
-    "iraq",
-    "turkiye"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "Poland accuses Russian military helicopter of violating its airspace",
-   "tokens": [
-    "accuses",
-    "airspace",
-    "helicopter",
-    "military",
-    "poland",
-    "russian",
-    "violating"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "FBI investigates alleged theft of ‘very sensitive’ employee data",
-   "tokens": [
-    "alleged",
-    "data",
-    "employee",
-    "fbi",
-    "investigates",
-    "sensitive",
-    "theft",
-    "very"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "Qualcomm buys robotics software firm PickNik to push into physical AI",
-   "tokens": [
-    "buys",
-    "firm",
-    "physical",
-    "picknik",
-    "push",
-    "qualcomm",
-    "robotics",
-    "software"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "How Satellite Communications Services Market Are Transforming Connectivity",
-   "tokens": [
-    "communications",
-    "connectivity",
-    "market",
-    "satellite",
-    "services",
-    "transforming"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "Why did Ireland fine Google €403 million over users' location data?",
-   "tokens": [
-    "403",
-    "data",
-    "did",
-    "fine",
-    "google",
-    "ireland",
-    "location",
-    "million",
-    "users"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "FACTBOX-OpenAI data breach latest in long list of hacks in Australia",
-   "tokens": [
-    "australia",
-    "breach",
-    "data",
-    "factbox",
-    "hacks",
-    "latest",
-    "list",
-    "long",
-    "openai"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "Palma.ai raises $1.8M to bring governed AI agents to more enterprises",
-   "tokens": [
-    "agents",
-    "bring",
-    "enterprises",
-    "governed",
-    "palma",
-    "raises"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "Anees Health raises seed funding to scale integrated in-home care model",
-   "tokens": [
-    "anees",
-    "care",
-    "funding",
-    "health",
-    "home",
-    "integrated",
-    "model",
-    "raises",
-    "scale",
-    "seed"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "AI coding startup ByteAsk raises $1 million from YC, Entrepreneur First",
-   "tokens": [
-    "byteask",
-    "coding",
-    "entrepreneur",
-    "million",
-    "raises",
-    "startup"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "TEKEVER raises $580M Series D at $6.4B valuation",
-   "tokens": [
-    "580m",
-    "raises",
-    "series",
-    "tekever",
-    "valuation"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "Anthropic and Nvidia back Basecamp Research in $140M Series C",
-   "tokens": [
-    "140m",
-    "anthropic",
-    "back",
-    "basecamp",
-    "nvidia",
-    "research",
-    "series"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "German AI startup mika raises €6M to simplify accounting and tax for SMEs",
-   "tokens": [
-    "accounting",
-    "german",
-    "mika",
-    "raises",
-    "simplify",
-    "smes",
-    "startup",
-    "tax"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "Cologne-based Metycle secures €131.7 million credit facility to scale secondary copper and aluminium supply",
-   "tokens": [
-    "131",
-    "aluminium",
-    "based",
-    "cologne",
-    "copper",
-    "credit",
-    "facility",
-    "metycle",
-    "million",
-    "scale",
-    "secondary",
-    "secures",
-    "supply"
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "title": "Crux Analytics raises €1.9M to help banks win and retain small business customers",
-   "tokens": [
-    "analytics",
-    "banks",
-    "business",
-    "crux",
-    "customers",
-    "help",
-    "raises",
-    "retain",
-    "small",
-    "win"
-   ]
-  },
   {
    "date": "2026-09-25",
    "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
@@ -2667,6 +2343,339 @@
     "real",
     "robots",
     "vision"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "OpenAI fires workers for mishandling 'sensitive information'",
+   "tokens": [
+    "fires",
+    "information",
+    "mishandling",
+    "openai",
+    "sensitive",
+    "workers"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "Alphabet Unveils Gemini 4 Argon AI Model for Advanced Professional Tasks",
+   "tokens": [
+    "advanced",
+    "alphabet",
+    "argon",
+    "gemini",
+    "model",
+    "professional",
+    "tasks",
+    "unveils"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "Could a bad regulatory week for OpenAI be agentic AI turning point?",
+   "tokens": [
+    "agentic",
+    "bad",
+    "openai",
+    "point",
+    "regulatory",
+    "turning"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "OpenAI alerts more than 100 organisations after rogue AI agent incidents",
+   "tokens": [
+    "100",
+    "agent",
+    "alerts",
+    "incidents",
+    "openai",
+    "organisations",
+    "rogue"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "FTC reportedly launches probe into Anthropic, OpenAI over AI safety",
+   "tokens": [
+    "anthropic",
+    "ftc",
+    "launches",
+    "openai",
+    "probe",
+    "reportedly",
+    "safety"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+   "tokens": [
+    "advanced",
+    "argon",
+    "gemini",
+    "google",
+    "model",
+    "most",
+    "rolls"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "One Issue Hanging Over Brazil’s Presidential Election: Online Gambling and Record-High Debts",
+   "tokens": [
+    "brazils",
+    "debts",
+    "election",
+    "gambling",
+    "hanging",
+    "high",
+    "issue",
+    "online",
+    "presidential",
+    "record"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "Fires break out at French schools as students protest nationwide",
+   "tokens": [
+    "break",
+    "fires",
+    "french",
+    "nationwide",
+    "protest",
+    "schools",
+    "students"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "US sanctions Iran’s largest automakers, major rail companies: Treasury",
+   "tokens": [
+    "automakers",
+    "companies",
+    "irans",
+    "largest",
+    "major",
+    "rail",
+    "sanctions",
+    "treasury"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "UK imposes fresh sanctions targeting Russian ships and entities",
+   "tokens": [
+    "entities",
+    "fresh",
+    "imposes",
+    "russian",
+    "sanctions",
+    "ships",
+    "targeting"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "India-US trade deal talks near end, but no immediate breakthrough: Greer",
+   "tokens": [
+    "breakthrough",
+    "deal",
+    "end",
+    "greer",
+    "immediate",
+    "india",
+    "near",
+    "talks",
+    "trade"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "SpaceX launches crew to ISS",
+   "tokens": [
+    "crew",
+    "iss",
+    "launches",
+    "spacex"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
+   "tokens": [
+    "based",
+    "centers",
+    "chips",
+    "data",
+    "google",
+    "launches",
+    "orbit",
+    "push",
+    "space",
+    "spacex",
+    "toward"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+   "tokens": [
+    "antitrust",
+    "chegg",
+    "dismisses",
+    "google",
+    "judge",
+    "lawsuits",
+    "penske",
+    "search",
+    "targeting"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+   "tokens": [
+    "allegedly",
+    "dismantle",
+    "gang",
+    "killsec",
+    "led",
+    "old",
+    "police",
+    "ransomware"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "QCi Scales Quantum Computing Inc. To Nearly 10,000 Variables With Dirac-3S",
+   "tokens": [
+    "000",
+    "computing",
+    "dirac",
+    "inc",
+    "nearly",
+    "qci",
+    "quantum",
+    "scales",
+    "variables"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "Zaperon Raises Rs 7 Crore Seed Funding to Build AI Security Frameworks",
+   "tokens": [
+    "build",
+    "crore",
+    "frameworks",
+    "funding",
+    "raises",
+    "security",
+    "seed",
+    "zaperon"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "Mistral and Black Forest Labs backer Headline closes $400M European fund",
+   "tokens": [
+    "400m",
+    "backer",
+    "black",
+    "closes",
+    "european",
+    "forest",
+    "fund",
+    "headline",
+    "labs",
+    "mistral"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "Foundational secures £8.2M pre-seed as it emerges from stealth",
+   "tokens": [
+    "emerges",
+    "foundational",
+    "pre",
+    "secures",
+    "seed",
+    "stealth"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "AI sales startup Revnu raises €2.6 million to build team and accelerate international growth",
+   "tokens": [
+    "accelerate",
+    "build",
+    "growth",
+    "international",
+    "million",
+    "raises",
+    "revnu",
+    "sales",
+    "startup",
+    "team"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "Preventive Healthcare Startup Vytalyou Raises Rs 9 Cr In Series A Round",
+   "tokens": [
+    "healthcare",
+    "preventive",
+    "raises",
+    "round",
+    "series",
+    "startup",
+    "vytalyou"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "Hostile threat warning startup Osavul raises €8.5M",
+   "tokens": [
+    "hostile",
+    "osavul",
+    "raises",
+    "startup",
+    "threat",
+    "warning"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+   "tokens": [
+    "255",
+    "agent",
+    "armadin",
+    "kevin",
+    "mandias",
+    "raises",
+    "security",
+    "startup",
+    "swarm",
+    "valuation"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "title": "Would a gambling tax rise in the budget really shut shops and cost jobs?",
+   "tokens": [
+    "budget",
+    "cost",
+    "gambling",
+    "jobs",
+    "really",
+    "rise",
+    "shops",
+    "shut",
+    "tax"
    ]
   }
  ]
