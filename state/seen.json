@@ -1,338 +1,6 @@
 {
- "updated": "2026-10-02T06:48:59",
+ "updated": "2026-10-03T06:57:37",
  "stories": [
-  {
-   "date": "2026-09-25",
-   "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
-   "tokens": [
-    "australias",
-    "did",
-    "future",
-    "hack",
-    "health",
-    "openai",
-    "stopped",
-    "system"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "Premier League in joint call for FIFA reform amid Infantino crisis",
-   "tokens": [
-    "call",
-    "crisis",
-    "fifa",
-    "infantino",
-    "joint",
-    "league",
-    "premier",
-    "reform"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door",
-   "tokens": [
-    "agi",
-    "built",
-    "chase",
-    "chief",
-    "deepmind",
-    "door",
-    "gemini",
-    "wants"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "Meta puts its AI assistant on a keychain",
-   "tokens": [
-    "assistant",
-    "keychain",
-    "meta",
-    "puts"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "Elon Musk says SpaceX could have a Fable or GPT-6 level AI model within months",
-   "tokens": [
-    "elon",
-    "fable",
-    "gpt",
-    "level",
-    "model",
-    "months",
-    "musk",
-    "spacex",
-    "within"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "Palo Alto CEO says slowing down AI is ‘unrealistic’, extinction threat ‘extremely small’",
-   "tokens": [
-    "alto",
-    "ceo",
-    "extinction",
-    "extremely",
-    "palo",
-    "slowing",
-    "small",
-    "threat",
-    "unrealistic"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days",
-   "tokens": [
-    "awaiting",
-    "hormuz",
-    "iran",
-    "open",
-    "proposal",
-    "response",
-    "six",
-    "strait",
-    "trump"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "Saudi Arabia Downs Houthi Missiles Targeting Kingdom, Official Says",
-   "tokens": [
-    "arabia",
-    "downs",
-    "houthi",
-    "kingdom",
-    "missiles",
-    "official",
-    "saudi",
-    "targeting"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-   "tokens": [
-    "action",
-    "defends",
-    "delegates",
-    "israeli",
-    "military",
-    "netanyahu",
-    "speech",
-    "walk"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "Mamdani Accuses Netanyahu of Spreading ‘Baseless Lies’ After U.N. Speech",
-   "tokens": [
-    "accuses",
-    "baseless",
-    "lies",
-    "mamdani",
-    "netanyahu",
-    "speech",
-    "spreading"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting",
-   "tokens": [
-    "chiefs",
-    "fighting",
-    "pakistani",
-    "plan",
-    "saudi",
-    "talks",
-    "turkish",
-    "urgent",
-    "yemen"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "Google Is Sending an A.I. Data Center to Outer Space",
-   "tokens": [
-    "center",
-    "data",
-    "google",
-    "outer",
-    "sending",
-    "space"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "Google's first Suncatcher orbital data center test launches October 1",
-   "tokens": [
-    "center",
-    "data",
-    "googles",
-    "launches",
-    "october",
-    "orbital",
-    "suncatcher",
-    "test"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "Exclusive: Revolut customers hit by fresh security breach",
-   "tokens": [
-    "breach",
-    "customers",
-    "fresh",
-    "hit",
-    "revolut",
-    "security"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "Google hit with €403M privacy fine over handling of user location data",
-   "tokens": [
-    "403m",
-    "data",
-    "fine",
-    "google",
-    "handling",
-    "hit",
-    "location",
-    "privacy",
-    "user"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "Iridium Stockholders Approve Acquisition by Rocket Lab – Company Announcement",
-   "tokens": [
-    "acquisition",
-    "announcement",
-    "approve",
-    "company",
-    "iridium",
-    "lab",
-    "rocket",
-    "stockholders"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "Clastix bags €2.9M to tackle the complexity of Kubernetes at scale",
-   "tokens": [
-    "bags",
-    "clastix",
-    "complexity",
-    "kubernetes",
-    "scale",
-    "tackle"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "AI platform Reply Next secures €400K pre-seed funding",
-   "tokens": [
-    "400k",
-    "funding",
-    "next",
-    "platform",
-    "pre",
-    "reply",
-    "secures",
-    "seed"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "50skills raises $6M to scale its AI operating system for people workflows",
-   "tokens": [
-    "50skills",
-    "operating",
-    "people",
-    "raises",
-    "scale",
-    "system",
-    "workflows"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "Europeans in Japan raise $1.2M to put modular humanoid robots to work",
-   "tokens": [
-    "europeans",
-    "humanoid",
-    "japan",
-    "modular",
-    "put",
-    "raise",
-    "robots",
-    "work"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "Duqu raises €1.5M to give businesses faster access to working capital",
-   "tokens": [
-    "access",
-    "businesses",
-    "capital",
-    "duqu",
-    "faster",
-    "give",
-    "raises",
-    "working"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "Enterprise AI startup Ema raises $77M in Series B round led by Creaegis",
-   "tokens": [
-    "77m",
-    "creaegis",
-    "ema",
-    "enterprise",
-    "led",
-    "raises",
-    "round",
-    "series",
-    "startup"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "Basecamp Research Closes $140M Series C to Advance AI-Designed Therapeutics",
-   "tokens": [
-    "140m",
-    "advance",
-    "basecamp",
-    "closes",
-    "designed",
-    "research",
-    "series",
-    "therapeutics"
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "title": "DTCP closes €455M defence fund to scale Europe’s strategic tech capabilities",
-   "tokens": [
-    "455m",
-    "capabilities",
-    "closes",
-    "defence",
-    "dtcp",
-    "europes",
-    "fund",
-    "scale",
-    "strategic",
-    "tech"
-   ]
-  },
   {
    "date": "2026-09-26",
    "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
@@ -2676,6 +2344,361 @@
     "shops",
     "shut",
     "tax"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day",
+   "tokens": [
+    "000",
+    "500",
+    "australian",
+    "costing",
+    "government",
+    "hacks",
+    "including",
+    "openai",
+    "review",
+    "sites"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+   "tokens": [
+    "buying",
+    "call",
+    "consumers",
+    "intelligence",
+    "only",
+    "super"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memory crunch",
+   "tokens": [
+    "999",
+    "crunch",
+    "debuts",
+    "dgx",
+    "half",
+    "memory",
+    "nvidia",
+    "ram",
+    "spark",
+    "storage"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "Anthropic to invest $100 million to train AI engineer talent",
+   "tokens": [
+    "100",
+    "anthropic",
+    "engineer",
+    "invest",
+    "million",
+    "talent",
+    "train"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "Nvidia breaks through to new record highs. Plus, more good news for Boeing",
+   "tokens": [
+    "boeing",
+    "breaks",
+    "good",
+    "highs",
+    "news",
+    "nvidia",
+    "plus",
+    "record",
+    "through"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "Meta open sources code to let you make Muse AI gadgets",
+   "tokens": [
+    "code",
+    "gadgets",
+    "let",
+    "meta",
+    "muse",
+    "open",
+    "sources"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+   "tokens": [
+    "barrels",
+    "diesel",
+    "millions",
+    "oil",
+    "release",
+    "threat",
+    "trump"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+   "tokens": [
+    "crisis",
+    "eviction",
+    "housing",
+    "key",
+    "loses",
+    "nchez",
+    "spanish",
+    "vote",
+    "woman"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "U.S. Suspends Consular Services in Brazil on Eve of Elections",
+   "tokens": [
+    "brazil",
+    "consular",
+    "elections",
+    "eve",
+    "services",
+    "suspends"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "Federal judge halts Big Bend border wall construction in blow to Trump agenda",
+   "tokens": [
+    "agenda",
+    "bend",
+    "blow",
+    "border",
+    "construction",
+    "federal",
+    "halts",
+    "judge",
+    "trump",
+    "wall"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "North Korea launches ballistic missile after Seoul demands apology over wounded soldiers",
+   "tokens": [
+    "apology",
+    "ballistic",
+    "demands",
+    "korea",
+    "launches",
+    "missile",
+    "north",
+    "seoul",
+    "soldiers",
+    "wounded"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "Google launches satellite with four AI chips into orbit — The National",
+   "tokens": [
+    "chips",
+    "four",
+    "google",
+    "launches",
+    "national",
+    "orbit",
+    "satellite"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "Teen suspected of running KillSec ransomware group as cops seize servers, arrest three",
+   "tokens": [
+    "arrest",
+    "cops",
+    "group",
+    "killsec",
+    "ransomware",
+    "running",
+    "seize",
+    "servers",
+    "suspected",
+    "teen",
+    "three"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "Fortinet sounds the alarm over actively exploited FortiMail zero-day",
+   "tokens": [
+    "actively",
+    "alarm",
+    "exploited",
+    "fortimail",
+    "fortinet",
+    "sounds",
+    "zero"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "Rheinmetall and Argotec launch their first satellite into space with SpaceX",
+   "tokens": [
+    "argotec",
+    "launch",
+    "rheinmetall",
+    "satellite",
+    "space",
+    "spacex"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+   "tokens": [
+    "attacks",
+    "breach",
+    "operator",
+    "ransomware",
+    "sharepoint",
+    "telecom",
+    "warlock",
+    "water"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "Denmark’s Breye Therapeutics raises €67.5 million to advance oral therapies for early treatment of retinal diseases",
+   "tokens": [
+    "advance",
+    "breye",
+    "denmarks",
+    "diseases",
+    "early",
+    "million",
+    "oral",
+    "raises",
+    "retinal",
+    "therapeutics",
+    "therapies",
+    "treatment"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "Walapay Raises $4.6M Seed Round to Put Global Payments on Local Terms",
+   "tokens": [
+    "global",
+    "local",
+    "payments",
+    "put",
+    "raises",
+    "round",
+    "seed",
+    "terms",
+    "walapay"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "Copenhagen’s Good Tape raises €600k and becomes independent from Zetland; Zendesk co-founder joins board",
+   "tokens": [
+    "600k",
+    "becomes",
+    "board",
+    "copenhagens",
+    "founder",
+    "good",
+    "independent",
+    "joins",
+    "raises",
+    "tape",
+    "zendesk",
+    "zetland"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "Headline closes $400M fund, Oura delays IPO, and Fedorov launches Army of Robots",
+   "tokens": [
+    "400m",
+    "army",
+    "closes",
+    "delays",
+    "fedorov",
+    "fund",
+    "headline",
+    "ipo",
+    "launches",
+    "oura",
+    "robots"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "Sweden’s Omnio raises €2.9 million to advance its plasminogen-based therapy for hard-to-heal chronic wounds",
+   "tokens": [
+    "advance",
+    "based",
+    "chronic",
+    "hard",
+    "heal",
+    "million",
+    "omnio",
+    "plasminogen",
+    "raises",
+    "swedens",
+    "therapy",
+    "wounds"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "Robot software startup FieldAI is set to raise $700M at a $10B valuation",
+   "tokens": [
+    "10b",
+    "700m",
+    "fieldai",
+    "raise",
+    "robot",
+    "set",
+    "software",
+    "startup",
+    "valuation"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "NOX Raises €3 Million to Connect Home Clean Energy Devices to the Grid",
+   "tokens": [
+    "clean",
+    "connect",
+    "devices",
+    "energy",
+    "grid",
+    "home",
+    "million",
+    "nox",
+    "raises"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "title": "Will the backlash against AI data centres hit quantum computing too?",
+   "tokens": [
+    "backlash",
+    "centres",
+    "computing",
+    "data",
+    "hit",
+    "quantum",
+    "too"
    ]
   }
  ]
