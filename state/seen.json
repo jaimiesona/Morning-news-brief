@@ -1,338 +1,6 @@
 {
- "updated": "2026-10-03T06:57:37",
+ "updated": "2026-10-04T14:17:00",
  "stories": [
-  {
-   "date": "2026-09-26",
-   "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
-   "tokens": [
-    "anthropic",
-    "blacklist",
-    "claude",
-    "court",
-    "enable",
-    "features",
-    "refusing",
-    "rules",
-    "trump"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-   "tokens": [
-    "agents",
-    "images",
-    "internet",
-    "knowledge",
-    "labs",
-    "openai",
-    "posted",
-    "unsecured",
-    "user",
-    "without"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "Torrez calls for federal AI regulation in wake of reported UNM breach",
-   "tokens": [
-    "breach",
-    "calls",
-    "federal",
-    "regulation",
-    "torrez",
-    "unm",
-    "wake"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "OpenAI, Google, and Anthropic planning an independent AI safety group",
-   "tokens": [
-    "anthropic",
-    "google",
-    "group",
-    "independent",
-    "openai",
-    "planning",
-    "safety"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "Pocock calls for AI safety act after Medicare breach – as it happened",
-   "tokens": [
-    "act",
-    "breach",
-    "calls",
-    "happened",
-    "medicare",
-    "pocock",
-    "safety"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-   "tokens": [
-    "agents",
-    "details",
-    "face",
-    "hacked",
-    "hugging",
-    "openai",
-    "revealing"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-   "tokens": [
-    "deal",
-    "hormuz",
-    "iran",
-    "offers",
-    "reopen",
-    "seven",
-    "strait"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "No general election before 2029, Andy Burnham says",
-   "tokens": [
-    "2029",
-    "andy",
-    "burnham",
-    "election",
-    "general"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "EU releases €6.6 billion for members arming Ukraine as seven killed in Kyiv",
-   "tokens": [
-    "arming",
-    "billion",
-    "killed",
-    "kyiv",
-    "members",
-    "releases",
-    "seven",
-    "ukraine"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "U.S. military lays groundwork for potential action around Cuba",
-   "tokens": [
-    "action",
-    "around",
-    "cuba",
-    "groundwork",
-    "lays",
-    "military",
-    "potential"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "Brazil's President Lula bans online betting ahead of presidential election",
-   "tokens": [
-    "ahead",
-    "bans",
-    "betting",
-    "brazils",
-    "election",
-    "lula",
-    "online",
-    "president",
-    "presidential"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "Google launches Project Suncatcher satellite to test AI chips in space",
-   "tokens": [
-    "chips",
-    "google",
-    "launches",
-    "project",
-    "satellite",
-    "space",
-    "suncatcher",
-    "test"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "Dyfed-Powys Police cops to cyberattack, staff data potentially nicked",
-   "tokens": [
-    "cops",
-    "cyberattack",
-    "data",
-    "dyfed",
-    "nicked",
-    "police",
-    "potentially",
-    "powys",
-    "staff"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "Siemens and TSMC Advance AI-Powered Semiconductor Design Automation",
-   "tokens": [
-    "advance",
-    "automation",
-    "design",
-    "powered",
-    "semiconductor",
-    "siemens",
-    "tsmc"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
-   "tokens": [
-    "customers",
-    "cyberattack",
-    "imminent",
-    "kiteworks",
-    "servers",
-    "shut",
-    "threat",
-    "urges"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "Build a Rocket Boy Enters Administration As Shutdown Rumors Persist",
-   "tokens": [
-    "administration",
-    "boy",
-    "build",
-    "enters",
-    "persist",
-    "rocket",
-    "rumors",
-    "shutdown"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "Reply Next raises €400,000 in pre-seed round led by 4Founders Capital",
-   "tokens": [
-    "000",
-    "400",
-    "4founders",
-    "capital",
-    "led",
-    "next",
-    "pre",
-    "raises",
-    "reply",
-    "round",
-    "seed"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Sept. 21 – Sept. 25)",
-   "tokens": [
-    "european",
-    "funding",
-    "round",
-    "rounds",
-    "sept",
-    "startup",
-    "tracked",
-    "weekly"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-   "tokens": [
-    "36b",
-    "ahead",
-    "british",
-    "convertible",
-    "financing",
-    "ipo",
-    "neocloud",
-    "nscale",
-    "secures"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "Drone-Powered Rainmaker Raises $100M Series B to Scale Cloud Seeding",
-   "tokens": [
-    "100m",
-    "cloud",
-    "drone",
-    "powered",
-    "rainmaker",
-    "raises",
-    "scale",
-    "seeding",
-    "series"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "Backed by NVIDIA, Basecamp bags $140M to advance AI-designed drugs",
-   "tokens": [
-    "140m",
-    "advance",
-    "backed",
-    "bags",
-    "basecamp",
-    "designed",
-    "drugs",
-    "nvidia"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "Europe’s leading pre-seed investors in 2026",
-   "tokens": [
-    "2026",
-    "europes",
-    "investors",
-    "leading",
-    "pre",
-    "seed"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "Dextr AI Raises $6.7 Mn To Build AI Agents For Hospitality Industry",
-   "tokens": [
-    "agents",
-    "build",
-    "dextr",
-    "hospitality",
-    "industry",
-    "raises"
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "title": "Sanyark Space raises $2M pre-seed for navigation-communication satellites",
-   "tokens": [
-    "communication",
-    "navigation",
-    "pre",
-    "raises",
-    "sanyark",
-    "satellites",
-    "seed",
-    "space"
-   ]
-  },
   {
    "date": "2026-09-27",
    "title": "China, US agree to set up channel for AI safety incidents",
@@ -2699,6 +2367,348 @@
     "hit",
     "quantum",
     "too"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+   "tokens": [
+    "broken",
+    "claiming",
+    "companys",
+    "culture",
+    "employee",
+    "openai",
+    "resigns",
+    "safety"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "AI giants 'not being nearly careful enough,' warns outgoing OpenAI safety engineer",
+   "tokens": [
+    "careful",
+    "engineer",
+    "enough",
+    "giants",
+    "nearly",
+    "openai",
+    "outgoing",
+    "safety",
+    "warns"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "Trump names intelligence chief Jay Clayton as new White House AI czar",
+   "tokens": [
+    "chief",
+    "clayton",
+    "czar",
+    "house",
+    "intelligence",
+    "jay",
+    "names",
+    "trump",
+    "white"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings",
+   "tokens": [
+    "adds",
+    "another",
+    "departure",
+    "leaving",
+    "openai",
+    "pattern",
+    "public",
+    "researchers",
+    "safety",
+    "warnings"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "North Korea reported using artificial intelligence during a missile test",
+   "tokens": [
+    "artificial",
+    "during",
+    "intelligence",
+    "korea",
+    "missile",
+    "north",
+    "test",
+    "using"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro",
+   "tokens": [
+    "cut",
+    "free",
+    "gemini",
+    "googles",
+    "lock",
+    "model",
+    "pro",
+    "subscribers",
+    "tiers",
+    "users",
+    "weakest"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "Latvian PM’s election win boosts chances for pro-Ukraine coalition",
+   "tokens": [
+    "boosts",
+    "chances",
+    "coalition",
+    "election",
+    "latvian",
+    "pms",
+    "pro",
+    "ukraine",
+    "win"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+   "tokens": [
+    "attack",
+    "bridge",
+    "chancellor",
+    "drone",
+    "further",
+    "german",
+    "hit",
+    "kyiv",
+    "russian",
+    "surprise",
+    "visit"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "Why has Brazil accused the US of election interference?",
+   "tokens": [
+    "accused",
+    "brazil",
+    "election",
+    "interference"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "Lula or Bolsonaro? Some Brazilian voters say they don't want either",
+   "tokens": [
+    "bolsonaro",
+    "brazilian",
+    "dont",
+    "either",
+    "lula",
+    "voters",
+    "want"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
+   "tokens": [
+    "bolsonaro",
+    "brazil",
+    "deeply",
+    "election",
+    "lula",
+    "pitting",
+    "polarised",
+    "votes"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "GitLab warns of critical AI Gateway vulnerability allowing command execution",
+   "tokens": [
+    "allowing",
+    "command",
+    "critical",
+    "execution",
+    "gateway",
+    "gitlab",
+    "vulnerability",
+    "warns"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "Canon to Bring Semiconductor Technology and Service Centres to India",
+   "tokens": [
+    "bring",
+    "canon",
+    "centres",
+    "india",
+    "semiconductor",
+    "service",
+    "technology"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "Angelina Jolie Shares Satellite Images Showing Gaza’s Devastation",
+   "tokens": [
+    "angelina",
+    "devastation",
+    "gazas",
+    "images",
+    "jolie",
+    "satellite",
+    "shares",
+    "showing"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "Danish university DTU breach exposes data of up to 200,000 people",
+   "tokens": [
+    "000",
+    "200",
+    "breach",
+    "danish",
+    "data",
+    "dtu",
+    "exposes",
+    "people",
+    "university"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+   "tokens": [
+    "deploy",
+    "disable",
+    "exploits",
+    "flaws",
+    "ransomware",
+    "security",
+    "sharepoint",
+    "tools",
+    "warlock"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+   "tokens": [
+    "100",
+    "got",
+    "hike",
+    "nvidia",
+    "old",
+    "price",
+    "shield"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "More than £2,000 raised as community comes together for 24-hour charity rowathon",
+   "tokens": [
+    "000",
+    "charity",
+    "comes",
+    "community",
+    "hour",
+    "raised",
+    "rowathon",
+    "together"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "Danish geothermal startup backed by investment group founders seeks at least EUR 25m",
+   "tokens": [
+    "25m",
+    "backed",
+    "danish",
+    "eur",
+    "founders",
+    "geothermal",
+    "group",
+    "investment",
+    "least",
+    "seeks",
+    "startup"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "Mallow raises €11M seed for screen-free AI device for kids",
+   "tokens": [
+    "11m",
+    "device",
+    "free",
+    "kids",
+    "mallow",
+    "raises",
+    "screen",
+    "seed"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "Paymob raises $35m pre-Series C round",
+   "tokens": [
+    "35m",
+    "paymob",
+    "pre",
+    "raises",
+    "round",
+    "series"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "Google's Pixel 10a gets $100 more expensive - GSMArena.com news",
+   "tokens": [
+    "100",
+    "10a",
+    "com",
+    "expensive",
+    "googles",
+    "gsmarena",
+    "news",
+    "pixel"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "SpaceX stock has only once closed above $200; f...",
+   "tokens": [
+    "200",
+    "above",
+    "closed",
+    "once",
+    "only",
+    "spacex",
+    "stock"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "title": "AMD stock closes at a record $633.91 as its Nvidia challenge gets real",
+   "tokens": [
+    "633",
+    "amd",
+    "challenge",
+    "closes",
+    "nvidia",
+    "real",
+    "record",
+    "stock"
    ]
   }
  ]
