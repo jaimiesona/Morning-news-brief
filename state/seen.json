@@ -1,343 +1,6 @@
 {
- "updated": "2026-10-04T14:17:00",
+ "updated": "2026-10-05T06:54:14",
  "stories": [
-  {
-   "date": "2026-09-27",
-   "title": "China, US agree to set up channel for AI safety incidents",
-   "tokens": [
-    "agree",
-    "channel",
-    "china",
-    "incidents",
-    "safety",
-    "set"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
-   "tokens": [
-    "agent",
-    "behavior",
-    "emerge",
-    "expands",
-    "incidents",
-    "model",
-    "openai",
-    "review",
-    "rogue"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "OpenAI pauses training of its ‘most capable models’",
-   "tokens": [
-    "capable",
-    "models",
-    "most",
-    "openai",
-    "pauses",
-    "training"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "OpenAI tools post user images from ChatGPT online",
-   "tokens": [
-    "chatgpt",
-    "images",
-    "online",
-    "openai",
-    "post",
-    "tools",
-    "user"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "OpenAI models accessed US government data and 'tried to hack another site'",
-   "tokens": [
-    "accessed",
-    "another",
-    "data",
-    "government",
-    "hack",
-    "models",
-    "openai",
-    "site",
-    "tried"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-   "tokens": [
-    "agents",
-    "going",
-    "halts",
-    "latest",
-    "models",
-    "mount",
-    "openai",
-    "rogue",
-    "training"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "US and China reach new trade deal, tariffs on $30 billion in goods reduced",
-   "tokens": [
-    "billion",
-    "china",
-    "deal",
-    "goods",
-    "reach",
-    "reduced",
-    "tariffs",
-    "trade"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "Putin says Russia not preparing for 'any kind' of conflict with Europe",
-   "tokens": [
-    "conflict",
-    "europe",
-    "kind",
-    "preparing",
-    "putin",
-    "russia"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "Evicted 87-Year-Old Woman Urges Spaniards to ‘Fight’ to Avoid Same Fate",
-   "tokens": [
-    "avoid",
-    "evicted",
-    "fate",
-    "fight",
-    "old",
-    "same",
-    "spaniards",
-    "urges",
-    "woman"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "Christine Jardine announces she will stand down as MP at next election",
-   "tokens": [
-    "announces",
-    "christine",
-    "election",
-    "jardine",
-    "next",
-    "stand"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "Election Commission announces a slew of SIR decisions for voter rolls",
-   "tokens": [
-    "announces",
-    "commission",
-    "decisions",
-    "election",
-    "rolls",
-    "sir",
-    "slew",
-    "voter"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "Victim says Arizona court cyberattack has left her feeling ‘vulnerable’",
-   "tokens": [
-    "arizona",
-    "court",
-    "cyberattack",
-    "feeling",
-    "left",
-    "victim",
-    "vulnerable"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "Investigation launched as NHS trust apologises for Noah Woods data breach",
-   "tokens": [
-    "apologises",
-    "breach",
-    "data",
-    "investigation",
-    "launched",
-    "nhs",
-    "noah",
-    "trust",
-    "woods"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "UP set to become tech, semiconductor hub: Jitin Prasada",
-   "tokens": [
-    "become",
-    "hub",
-    "jitin",
-    "prasada",
-    "semiconductor",
-    "set",
-    "tech"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "Samsung to Disclose Semiconductor Division Bonus Criteria This Week",
-   "tokens": [
-    "bonus",
-    "criteria",
-    "disclose",
-    "division",
-    "samsung",
-    "semiconductor"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "Will SpaceX's Starship finally make it to orbit? We're about to find out",
-   "tokens": [
-    "finally",
-    "find",
-    "orbit",
-    "spacexs",
-    "starship"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "CharterUP raises $60 million Series A led by Tritium Partners",
-   "tokens": [
-    "charterup",
-    "led",
-    "million",
-    "partners",
-    "raises",
-    "series",
-    "tritium"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "Masters Union Student’s Space Tech Startup Raises $2 Mn",
-   "tokens": [
-    "masters",
-    "raises",
-    "space",
-    "startup",
-    "students",
-    "tech",
-    "union"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "Confido raises $55 million to build AI infrastructure for CPG operations",
-   "tokens": [
-    "build",
-    "confido",
-    "cpg",
-    "infrastructure",
-    "million",
-    "operations",
-    "raises"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "Midcentury Emerges From Stealth With $15M Seed for Physical AI Training Data",
-   "tokens": [
-    "15m",
-    "data",
-    "emerges",
-    "midcentury",
-    "physical",
-    "seed",
-    "stealth",
-    "training"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "Primary healthcare startup MyRx raises seed funding led by SteerX VC to expand doctor network",
-   "tokens": [
-    "doctor",
-    "expand",
-    "funding",
-    "healthcare",
-    "led",
-    "myrx",
-    "network",
-    "primary",
-    "raises",
-    "seed",
-    "startup",
-    "steerx"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "Trebellar Secures $18M Series A to Replace Spreadsheets with AI Real Estate Software",
-   "tokens": [
-    "18m",
-    "estate",
-    "real",
-    "replace",
-    "secures",
-    "series",
-    "software",
-    "spreadsheets",
-    "trebellar"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "Rio Health raises $4.5 million to expand 20-30 minute medicine delivery across Delhi-NCR",
-   "tokens": [
-    "across",
-    "delhi",
-    "delivery",
-    "expand",
-    "health",
-    "medicine",
-    "million",
-    "minute",
-    "ncr",
-    "raises",
-    "rio"
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "title": "Ex-Tinder exec Taru Kapoor raises $10.5 million for Rivet, a dating app where people help find your match",
-   "tokens": [
-    "app",
-    "dating",
-    "exec",
-    "find",
-    "help",
-    "kapoor",
-    "match",
-    "million",
-    "people",
-    "raises",
-    "rivet",
-    "taru",
-    "tinder",
-    "where",
-    "your"
-   ]
-  },
   {
    "date": "2026-09-28",
    "title": "Dario Amodei of Anthropic to Dine With Trump at White House",
@@ -2709,6 +2372,354 @@
     "real",
     "record",
     "stock"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+   "tokens": [
+    "force",
+    "intelligence",
+    "oversee",
+    "policy",
+    "super",
+    "trump",
+    "unveils"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "OpenAI’s Sam Altman Says World Should Accept ‘Some Bad Things’ From AI",
+   "tokens": [
+    "accept",
+    "altman",
+    "bad",
+    "openais",
+    "sam",
+    "things",
+    "world"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "Industry experts call for India-specific AI safety rules, not US model",
+   "tokens": [
+    "call",
+    "experts",
+    "india",
+    "industry",
+    "model",
+    "rules",
+    "safety",
+    "specific"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "SoftBank's Masayoshi Son flags need for AI safety amid rapid growth",
+   "tokens": [
+    "flags",
+    "growth",
+    "masayoshi",
+    "need",
+    "rapid",
+    "safety",
+    "softbanks",
+    "son"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "Nvidia-backed Reflection AI prepares first open-weight model launch",
+   "tokens": [
+    "backed",
+    "launch",
+    "model",
+    "nvidia",
+    "open",
+    "prepares",
+    "reflection",
+    "weight"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "OpenAI Safety Leader David Robinson Quits, Says AI Firm’s Culture Is ‘Broken’",
+   "tokens": [
+    "broken",
+    "culture",
+    "david",
+    "firms",
+    "leader",
+    "openai",
+    "quits",
+    "robinson",
+    "safety"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+   "tokens": [
+    "bolsonaro",
+    "brazil",
+    "election",
+    "goes",
+    "right",
+    "round",
+    "run",
+    "vio",
+    "wing",
+    "wins"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+   "tokens": [
+    "announces",
+    "government",
+    "houthis",
+    "land",
+    "reclaim",
+    "war",
+    "yemens"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "Iran says no military solution to war as peace talks with US stall",
+   "tokens": [
+    "iran",
+    "military",
+    "peace",
+    "solution",
+    "stall",
+    "talks",
+    "war"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "Bosnian Serb nationalist Dodik declares party victory in Bosnia election",
+   "tokens": [
+    "bosnia",
+    "bosnian",
+    "declares",
+    "dodik",
+    "election",
+    "nationalist",
+    "party",
+    "serb",
+    "victory"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "India-US trade talks have reached a plateau, says FM Nirmala Sitharaman",
+   "tokens": [
+    "india",
+    "nirmala",
+    "plateau",
+    "reached",
+    "sitharaman",
+    "talks",
+    "trade"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "SpaceX plans early morning Monday rocket launch. Track liftoff in CA",
+   "tokens": [
+    "early",
+    "launch",
+    "liftoff",
+    "monday",
+    "morning",
+    "plans",
+    "rocket",
+    "spacex",
+    "track"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "Zelenskyy says Ukraine is developing satellite system similar to Starlink",
+   "tokens": [
+    "developing",
+    "satellite",
+    "similar",
+    "starlink",
+    "system",
+    "ukraine",
+    "zelenskyy"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+   "tokens": [
+    "bounty",
+    "bug",
+    "due",
+    "froze",
+    "google",
+    "open",
+    "program",
+    "rise",
+    "significant",
+    "source",
+    "submissions"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "Frontline Education data breach exposes employee Social Security numbers",
+   "tokens": [
+    "breach",
+    "data",
+    "education",
+    "employee",
+    "exposes",
+    "frontline",
+    "numbers",
+    "security",
+    "social"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "Shinhan Bank Data Breach Points to AI Agents Hacking Korean Banks",
+   "tokens": [
+    "agents",
+    "bank",
+    "banks",
+    "breach",
+    "data",
+    "hacking",
+    "korean",
+    "points",
+    "shinhan"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "Copenhagen’s Pandektes raises €13.5 million to build the data infrastructure for AI-powered legal research",
+   "tokens": [
+    "build",
+    "copenhagens",
+    "data",
+    "infrastructure",
+    "legal",
+    "million",
+    "pandektes",
+    "powered",
+    "raises",
+    "research"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "Fleuret AI raises €4M to put AI agents to work on pentesting",
+   "tokens": [
+    "agents",
+    "fleuret",
+    "pentesting",
+    "put",
+    "raises",
+    "work"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "Jungle Ventures Leads Singapore AI Startup OneByZero's $20M Series A",
+   "tokens": [
+    "20m",
+    "jungle",
+    "leads",
+    "onebyzeros",
+    "series",
+    "singapore",
+    "startup",
+    "ventures"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "UK commits £2.3 billion to military satellite communications and plans unified procurement led by the Ministry of Defence",
+   "tokens": [
+    "billion",
+    "commits",
+    "communications",
+    "defence",
+    "led",
+    "military",
+    "ministry",
+    "plans",
+    "procurement",
+    "satellite",
+    "unified"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "8 pre-seed rounds led by Tier 1 US investors in AI-native companies",
+   "tokens": [
+    "companies",
+    "investors",
+    "led",
+    "native",
+    "pre",
+    "rounds",
+    "seed",
+    "tier"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "Supabase raises another $150M to build the backend for AI coding from Singapore",
+   "tokens": [
+    "150m",
+    "another",
+    "backend",
+    "build",
+    "coding",
+    "raises",
+    "singapore",
+    "supabase"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "Miami Startup doxx.net Raises $38M to Give AI Agents Their Own Private Networks",
+   "tokens": [
+    "38m",
+    "agents",
+    "doxx",
+    "give",
+    "miami",
+    "net",
+    "networks",
+    "own",
+    "private",
+    "raises",
+    "startup"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "title": "Cambridge AI startup Zenithon raises $10m for physics models | ETIH EdTech News",
+   "tokens": [
+    "10m",
+    "cambridge",
+    "edtech",
+    "etih",
+    "models",
+    "news",
+    "physics",
+    "raises",
+    "startup",
+    "zenithon"
    ]
   }
  ]
