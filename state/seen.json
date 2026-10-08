@@ -1,340 +1,6 @@
 {
- "updated": "2026-10-07T06:49:45",
+ "updated": "2026-10-08T13:51:58",
  "stories": [
-  {
-   "date": "2026-09-30",
-   "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-   "tokens": [
-    "gpt",
-    "insecure",
-    "openai",
-    "planned",
-    "release",
-    "too"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "OpenAI Unveils Dots, New A.I. Agents to Rival Meta’s Muse",
-   "tokens": [
-    "agents",
-    "dots",
-    "metas",
-    "muse",
-    "openai",
-    "rival",
-    "unveils"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "Trump backs AI self-regulation at tech summit but is it enough?",
-   "tokens": [
-    "backs",
-    "enough",
-    "regulation",
-    "self",
-    "summit",
-    "tech",
-    "trump"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "Zuckerberg, Amodei among tech executives set to meet Trump Tuesday",
-   "tokens": [
-    "amodei",
-    "among",
-    "executives",
-    "meet",
-    "set",
-    "tech",
-    "trump",
-    "tuesday",
-    "zuckerberg"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "Anthropic’s IPO pitch includes a warning about human extinction",
-   "tokens": [
-    "anthropics",
-    "extinction",
-    "human",
-    "includes",
-    "ipo",
-    "pitch",
-    "warning"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "Trump, tech bosses sign voluntary pact pledging ‘robust’ AI safeguards",
-   "tokens": [
-    "bosses",
-    "pact",
-    "pledging",
-    "robust",
-    "safeguards",
-    "sign",
-    "tech",
-    "trump",
-    "voluntary"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "Prime Minister Andy Burnham Lays Out Plan to Change UK in Emotional Speech at Labour Conference",
-   "tokens": [
-    "andy",
-    "burnham",
-    "change",
-    "conference",
-    "emotional",
-    "labour",
-    "lays",
-    "minister",
-    "plan",
-    "prime",
-    "speech"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "First female prime minister named in Morocco after winning elections",
-   "tokens": [
-    "elections",
-    "female",
-    "minister",
-    "morocco",
-    "named",
-    "prime",
-    "winning"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "Accusations of Antisemitism Hit a Star of the French Far Right",
-   "tokens": [
-    "accusations",
-    "antisemitism",
-    "far",
-    "french",
-    "hit",
-    "right",
-    "star"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "Israel’s Lapid accuses Netanyahu of ‘fear-mongering’ over attack warning",
-   "tokens": [
-    "accuses",
-    "attack",
-    "fear",
-    "israels",
-    "lapid",
-    "mongering",
-    "netanyahu",
-    "warning"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "Oil climbs after Trump denies he is willing to ease sanctions on Iran",
-   "tokens": [
-    "climbs",
-    "denies",
-    "ease",
-    "iran",
-    "oil",
-    "sanctions",
-    "trump",
-    "willing"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "Dutch police arrest suspected member of group that claimed FBI hack",
-   "tokens": [
-    "arrest",
-    "claimed",
-    "dutch",
-    "fbi",
-    "group",
-    "hack",
-    "member",
-    "police",
-    "suspected"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "Azure Standard Data Breach Exposes Financial Information of Customers",
-   "tokens": [
-    "azure",
-    "breach",
-    "customers",
-    "data",
-    "exposes",
-    "financial",
-    "information",
-    "standard"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "Arizona court cyberattack exposed records involving foster children",
-   "tokens": [
-    "arizona",
-    "children",
-    "court",
-    "cyberattack",
-    "exposed",
-    "foster",
-    "involving",
-    "records"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "U.S. stocks close lower amid AI safety concerns, poor economic data",
-   "tokens": [
-    "close",
-    "concerns",
-    "data",
-    "economic",
-    "lower",
-    "poor",
-    "safety",
-    "stocks"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "Apple patches CoreGraphics zero-day already exploited in targeted attacks",
-   "tokens": [
-    "already",
-    "apple",
-    "attacks",
-    "coregraphics",
-    "exploited",
-    "patches",
-    "targeted",
-    "zero"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "Rayon raises €10M Series A to expand AI-powered interior design platform",
-   "tokens": [
-    "10m",
-    "design",
-    "expand",
-    "interior",
-    "platform",
-    "powered",
-    "raises",
-    "rayon",
-    "series"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
-   "tokens": [
-    "350m",
-    "a16z",
-    "backed",
-    "doubles",
-    "eliseai",
-    "raises",
-    "valuation"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "Ukraine’s DOD Solution raises $2.1 million in pre-seed funding",
-   "tokens": [
-    "dod",
-    "funding",
-    "million",
-    "pre",
-    "raises",
-    "seed",
-    "solution",
-    "ukraines"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "Ahron raises €2.2M to automate HR processes with AI",
-   "tokens": [
-    "ahron",
-    "automate",
-    "processes",
-    "raises"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "Romania’s Kyndred raises €500K from Early Game Ventures to build AI companions",
-   "tokens": [
-    "500k",
-    "build",
-    "companions",
-    "early",
-    "game",
-    "kyndred",
-    "raises",
-    "romanias",
-    "ventures"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-   "tokens": [
-    "acquires",
-    "amd",
-    "ante",
-    "labs",
-    "nvidia",
-    "startup",
-    "upping",
-    "world"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "Belgian construction tech Spotable raises €4M for international expansion",
-   "tokens": [
-    "belgian",
-    "construction",
-    "expansion",
-    "international",
-    "raises",
-    "spotable",
-    "tech"
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "title": "Helsinki-based KHOY raises €2 million to take its vacuum-packed sofa beds across Europe and the US",
-   "tokens": [
-    "across",
-    "based",
-    "beds",
-    "europe",
-    "helsinki",
-    "khoy",
-    "million",
-    "packed",
-    "raises",
-    "sofa",
-    "vacuum"
-   ]
-  },
   {
    "date": "2026-10-01",
    "title": "F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms",
@@ -2721,6 +2387,334 @@
     "targeting",
     "use",
     "ventures"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "Google rolls out improved SynthID AI content detector, now available globally",
+   "tokens": [
+    "available",
+    "content",
+    "detector",
+    "globally",
+    "google",
+    "improved",
+    "rolls",
+    "synthid"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "AI chip boom pushes Samsung profits to record $80bn",
+   "tokens": [
+    "80bn",
+    "boom",
+    "chip",
+    "profits",
+    "pushes",
+    "record",
+    "samsung"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+   "tokens": [
+    "chip",
+    "microsoft",
+    "nvidia",
+    "pcs",
+    "releases",
+    "revamped",
+    "windows"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "Google experiments with an AI-powered gaming platform",
+   "tokens": [
+    "experiments",
+    "gaming",
+    "google",
+    "platform",
+    "powered"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "Sam Altman delays OpenAI IPO to 2027, citing AI safety risks",
+   "tokens": [
+    "2027",
+    "altman",
+    "citing",
+    "delays",
+    "ipo",
+    "openai",
+    "risks",
+    "safety",
+    "sam"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "Italy Weighs Controversial Law Giving Bonus Seats to Election Winners",
+   "tokens": [
+    "bonus",
+    "controversial",
+    "election",
+    "giving",
+    "italy",
+    "law",
+    "seats",
+    "weighs",
+    "winners"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+   "tokens": [
+    "airports",
+    "arabia",
+    "attacks",
+    "houthi",
+    "killed",
+    "officials",
+    "people",
+    "saudi",
+    "three"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
+   "tokens": [
+    "dies",
+    "eviction",
+    "nationwide",
+    "pensioner",
+    "protests",
+    "spanish",
+    "sparked",
+    "whose"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "Polls open in Holborn and St Pancras byelection – UK politics live",
+   "tokens": [
+    "byelection",
+    "holborn",
+    "live",
+    "open",
+    "pancras",
+    "politics",
+    "polls"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+   "tokens": [
+    "attacks",
+    "buses",
+    "deadly",
+    "kills",
+    "least",
+    "officials",
+    "russian",
+    "strike",
+    "surge",
+    "ukraine"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "FCC to vote on auctioning 25MHz of 'prime spectrum' in move that could benefit Amazon, SpaceX",
+   "tokens": [
+    "25mhz",
+    "amazon",
+    "auctioning",
+    "benefit",
+    "fcc",
+    "move",
+    "prime",
+    "spacex",
+    "spectrum",
+    "vote"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "ASOS links data breach to social engineering attack, credential theft",
+   "tokens": [
+    "asos",
+    "attack",
+    "breach",
+    "credential",
+    "data",
+    "engineering",
+    "links",
+    "social",
+    "theft"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "Diraq unlocks up to $300M in US defence funding for quantum computing",
+   "tokens": [
+    "300m",
+    "computing",
+    "defence",
+    "diraq",
+    "funding",
+    "quantum",
+    "unlocks"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "Asos hackers took more personal details than first revealed, BBC finds",
+   "tokens": [
+    "asos",
+    "bbc",
+    "details",
+    "finds",
+    "hackers",
+    "personal",
+    "revealed",
+    "took"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+   "tokens": [
+    "atlassian",
+    "critical",
+    "exploit",
+    "flaw",
+    "hackers",
+    "poc",
+    "public",
+    "release"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+   "tokens": [
+    "60m",
+    "data",
+    "mecka",
+    "nabs",
+    "robot",
+    "sequoia",
+    "startup"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "Cambridge biotech startup Neela raises £2.1m to turn waste into aviation fuel",
+   "tokens": [
+    "aviation",
+    "biotech",
+    "cambridge",
+    "fuel",
+    "neela",
+    "raises",
+    "startup",
+    "turn",
+    "waste"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "University of Sussex spinout Universal Quantum raises “record” $100M Series A",
+   "tokens": [
+    "100m",
+    "quantum",
+    "raises",
+    "record",
+    "series",
+    "spinout",
+    "sussex",
+    "universal",
+    "university"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "Zinara Raises ₹3.61 Cr in Pre-Seed Round Led by Inflection Point Ventures",
+   "tokens": [
+    "inflection",
+    "led",
+    "point",
+    "pre",
+    "raises",
+    "round",
+    "seed",
+    "ventures",
+    "zinara"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+   "tokens": [
+    "500m",
+    "chinas",
+    "funding",
+    "manus",
+    "meta",
+    "raises",
+    "round",
+    "since",
+    "split"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "TODAY lands €2.8M to scale its AI platform for financial advisors",
+   "tokens": [
+    "advisors",
+    "financial",
+    "lands",
+    "platform",
+    "scale"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "Limassol-based NeoFleet Capital raises €3.5 million to finance taxi fleets across emerging markets",
+   "tokens": [
+    "across",
+    "based",
+    "capital",
+    "emerging",
+    "finance",
+    "fleets",
+    "limassol",
+    "markets",
+    "million",
+    "neofleet",
+    "raises",
+    "taxi"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+   "tokens": [
+    "agents",
+    "business",
+    "confirms",
+    "hit",
+    "launches",
+    "nous",
+    "research",
+    "users",
+    "valuation"
    ]
   }
  ]
