@@ -1,339 +1,6 @@
 {
- "updated": "2026-10-09T13:36:53",
+ "updated": "2026-10-10T12:53:39",
  "stories": [
-  {
-   "date": "2026-10-02",
-   "title": "OpenAI fires workers for mishandling 'sensitive information'",
-   "tokens": [
-    "fires",
-    "information",
-    "mishandling",
-    "openai",
-    "sensitive",
-    "workers"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "Alphabet Unveils Gemini 4 Argon AI Model for Advanced Professional Tasks",
-   "tokens": [
-    "advanced",
-    "alphabet",
-    "argon",
-    "gemini",
-    "model",
-    "professional",
-    "tasks",
-    "unveils"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "Could a bad regulatory week for OpenAI be agentic AI turning point?",
-   "tokens": [
-    "agentic",
-    "bad",
-    "openai",
-    "point",
-    "regulatory",
-    "turning"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "OpenAI alerts more than 100 organisations after rogue AI agent incidents",
-   "tokens": [
-    "100",
-    "agent",
-    "alerts",
-    "incidents",
-    "openai",
-    "organisations",
-    "rogue"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "FTC reportedly launches probe into Anthropic, OpenAI over AI safety",
-   "tokens": [
-    "anthropic",
-    "ftc",
-    "launches",
-    "openai",
-    "probe",
-    "reportedly",
-    "safety"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
-   "tokens": [
-    "advanced",
-    "argon",
-    "gemini",
-    "google",
-    "model",
-    "most",
-    "rolls"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "One Issue Hanging Over Brazil’s Presidential Election: Online Gambling and Record-High Debts",
-   "tokens": [
-    "brazils",
-    "debts",
-    "election",
-    "gambling",
-    "hanging",
-    "high",
-    "issue",
-    "online",
-    "presidential",
-    "record"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "Fires break out at French schools as students protest nationwide",
-   "tokens": [
-    "break",
-    "fires",
-    "french",
-    "nationwide",
-    "protest",
-    "schools",
-    "students"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "US sanctions Iran’s largest automakers, major rail companies: Treasury",
-   "tokens": [
-    "automakers",
-    "companies",
-    "irans",
-    "largest",
-    "major",
-    "rail",
-    "sanctions",
-    "treasury"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "UK imposes fresh sanctions targeting Russian ships and entities",
-   "tokens": [
-    "entities",
-    "fresh",
-    "imposes",
-    "russian",
-    "sanctions",
-    "ships",
-    "targeting"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "India-US trade deal talks near end, but no immediate breakthrough: Greer",
-   "tokens": [
-    "breakthrough",
-    "deal",
-    "end",
-    "greer",
-    "immediate",
-    "india",
-    "near",
-    "talks",
-    "trade"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "SpaceX launches crew to ISS",
-   "tokens": [
-    "crew",
-    "iss",
-    "launches",
-    "spacex"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
-   "tokens": [
-    "based",
-    "centers",
-    "chips",
-    "data",
-    "google",
-    "launches",
-    "orbit",
-    "push",
-    "space",
-    "spacex",
-    "toward"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-   "tokens": [
-    "antitrust",
-    "chegg",
-    "dismisses",
-    "google",
-    "judge",
-    "lawsuits",
-    "penske",
-    "search",
-    "targeting"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
-   "tokens": [
-    "allegedly",
-    "dismantle",
-    "gang",
-    "killsec",
-    "led",
-    "old",
-    "police",
-    "ransomware"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "QCi Scales Quantum Computing Inc. To Nearly 10,000 Variables With Dirac-3S",
-   "tokens": [
-    "000",
-    "computing",
-    "dirac",
-    "inc",
-    "nearly",
-    "qci",
-    "quantum",
-    "scales",
-    "variables"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "Zaperon Raises Rs 7 Crore Seed Funding to Build AI Security Frameworks",
-   "tokens": [
-    "build",
-    "crore",
-    "frameworks",
-    "funding",
-    "raises",
-    "security",
-    "seed",
-    "zaperon"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "Mistral and Black Forest Labs backer Headline closes $400M European fund",
-   "tokens": [
-    "400m",
-    "backer",
-    "black",
-    "closes",
-    "european",
-    "forest",
-    "fund",
-    "headline",
-    "labs",
-    "mistral"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "Foundational secures £8.2M pre-seed as it emerges from stealth",
-   "tokens": [
-    "emerges",
-    "foundational",
-    "pre",
-    "secures",
-    "seed",
-    "stealth"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "AI sales startup Revnu raises €2.6 million to build team and accelerate international growth",
-   "tokens": [
-    "accelerate",
-    "build",
-    "growth",
-    "international",
-    "million",
-    "raises",
-    "revnu",
-    "sales",
-    "startup",
-    "team"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "Preventive Healthcare Startup Vytalyou Raises Rs 9 Cr In Series A Round",
-   "tokens": [
-    "healthcare",
-    "preventive",
-    "raises",
-    "round",
-    "series",
-    "startup",
-    "vytalyou"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "Hostile threat warning startup Osavul raises €8.5M",
-   "tokens": [
-    "hostile",
-    "osavul",
-    "raises",
-    "startup",
-    "threat",
-    "warning"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-   "tokens": [
-    "255",
-    "agent",
-    "armadin",
-    "kevin",
-    "mandias",
-    "raises",
-    "security",
-    "startup",
-    "swarm",
-    "valuation"
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "title": "Would a gambling tax rise in the budget really shut shops and cost jobs?",
-   "tokens": [
-    "budget",
-    "cost",
-    "gambling",
-    "jobs",
-    "really",
-    "rise",
-    "shops",
-    "shut",
-    "tax"
-   ]
-  },
   {
    "date": "2026-10-03",
    "title": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day",
@@ -2718,6 +2385,335 @@
     "tax",
     "tory",
     "tuc"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+   "tokens": [
+    "agent",
+    "anthropic",
+    "case",
+    "fake",
+    "gave",
+    "murder",
+    "police",
+    "rogue",
+    "tip",
+    "unsolved"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "OpenAI defends firing three AI safety researchers over breach of trust",
+   "tokens": [
+    "breach",
+    "defends",
+    "firing",
+    "openai",
+    "researchers",
+    "safety",
+    "three",
+    "trust"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "Anthropic launches a free AI scanner for open-source projects",
+   "tokens": [
+    "anthropic",
+    "free",
+    "launches",
+    "open",
+    "projects",
+    "scanner",
+    "source"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "Tech chief says EU can fend off rogue AI risk: Report",
+   "tokens": [
+    "chief",
+    "fend",
+    "risk",
+    "rogue",
+    "tech"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "RTX 5090 Discontinued? NVIDIA Reportedly Moves GB202 to RTX PRO",
+   "tokens": [
+    "5090",
+    "discontinued",
+    "gb202",
+    "moves",
+    "nvidia",
+    "pro",
+    "reportedly",
+    "rtx"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+   "tokens": [
+    "accessing",
+    "companies",
+    "everywhere",
+    "gpus",
+    "nvidia",
+    "ways"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+   "tokens": [
+    "announces",
+    "calls",
+    "deal",
+    "diesel",
+    "gift",
+    "putin",
+    "russian",
+    "trump",
+    "zelensky"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+   "tokens": [
+    "among",
+    "cockroach",
+    "delhi",
+    "detained",
+    "group",
+    "hundreds",
+    "leaders",
+    "protest"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "China, EU reach deal to 'moderate' China's car exports to EU",
+   "tokens": [
+    "car",
+    "china",
+    "chinas",
+    "deal",
+    "exports",
+    "moderate",
+    "reach"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
+   "tokens": [
+    "administration",
+    "court",
+    "criminal",
+    "hits",
+    "international",
+    "sanctions",
+    "severe",
+    "trump"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "‘Serious blow’: Guterres condemns new US sanctions on International Criminal Court",
+   "tokens": [
+    "blow",
+    "condemns",
+    "court",
+    "criminal",
+    "guterres",
+    "international",
+    "sanctions",
+    "serious"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "Judge approves $177 million in AT&T data breach settlement funds",
+   "tokens": [
+    "177",
+    "approves",
+    "breach",
+    "data",
+    "funds",
+    "judge",
+    "million",
+    "settlement"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "China's satellite internet sector enters a phase of rapid expansion",
+   "tokens": [
+    "chinas",
+    "enters",
+    "expansion",
+    "internet",
+    "phase",
+    "rapid",
+    "satellite",
+    "sector"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "Chey Tae-won to Start Honam Semiconductor Construction Despite Delays",
+   "tokens": [
+    "chey",
+    "construction",
+    "delays",
+    "despite",
+    "honam",
+    "semiconductor",
+    "start",
+    "tae",
+    "won"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+   "tokens": [
+    "arrests",
+    "fbi",
+    "firm",
+    "founder",
+    "negotiation",
+    "ransomware"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
+   "tokens": [
+    "attacks",
+    "exploited",
+    "flaw",
+    "max",
+    "severity",
+    "sma1000",
+    "sonicwall"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "AI Evaluation Platform Arena Raises $200M Series B at $3.1B Valuation",
+   "tokens": [
+    "200m",
+    "arena",
+    "evaluation",
+    "platform",
+    "raises",
+    "series",
+    "valuation"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "Danu Robotics’ fight to build a better recycling robot",
+   "tokens": [
+    "better",
+    "build",
+    "danu",
+    "fight",
+    "recycling",
+    "robot",
+    "robotics"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+   "tokens": [
+    "jev",
+    "launch",
+    "maker",
+    "model",
+    "non",
+    "text",
+    "valued",
+    "weeks"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "Nat Habit raises Rs 142 Cr in Series C led by Trident Growth Partners",
+   "tokens": [
+    "142",
+    "growth",
+    "habit",
+    "led",
+    "nat",
+    "partners",
+    "raises",
+    "series",
+    "trident"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "Neutral-Atom Quantum Computer Maker Oratomic Raises $475M Series B",
+   "tokens": [
+    "475m",
+    "atom",
+    "computer",
+    "maker",
+    "neutral",
+    "oratomic",
+    "quantum",
+    "raises",
+    "series"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "Kapta Space raises $24 million to expand military radar business",
+   "tokens": [
+    "business",
+    "expand",
+    "kapta",
+    "military",
+    "million",
+    "radar",
+    "raises",
+    "space"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "Sabi Raises $50 Million for a Cap Meant to Read Your Thoughts",
+   "tokens": [
+    "cap",
+    "meant",
+    "million",
+    "raises",
+    "read",
+    "sabi",
+    "thoughts",
+    "your"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "title": "Reclinker Secures £10M to Turn Demolition Waste Into Cement",
+   "tokens": [
+    "10m",
+    "cement",
+    "demolition",
+    "reclinker",
+    "secures",
+    "turn",
+    "waste"
    ]
   }
  ]
