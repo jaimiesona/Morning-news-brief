@@ -1,348 +1,6 @@
 {
- "updated": "2026-10-11T13:17:42",
+ "updated": "2026-10-12T15:53:48",
  "stories": [
-  {
-   "date": "2026-10-04",
-   "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-   "tokens": [
-    "broken",
-    "claiming",
-    "companys",
-    "culture",
-    "employee",
-    "openai",
-    "resigns",
-    "safety"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "AI giants 'not being nearly careful enough,' warns outgoing OpenAI safety engineer",
-   "tokens": [
-    "careful",
-    "engineer",
-    "enough",
-    "giants",
-    "nearly",
-    "openai",
-    "outgoing",
-    "safety",
-    "warns"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "Trump names intelligence chief Jay Clayton as new White House AI czar",
-   "tokens": [
-    "chief",
-    "clayton",
-    "czar",
-    "house",
-    "intelligence",
-    "jay",
-    "names",
-    "trump",
-    "white"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings",
-   "tokens": [
-    "adds",
-    "another",
-    "departure",
-    "leaving",
-    "openai",
-    "pattern",
-    "public",
-    "researchers",
-    "safety",
-    "warnings"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "North Korea reported using artificial intelligence during a missile test",
-   "tokens": [
-    "artificial",
-    "during",
-    "intelligence",
-    "korea",
-    "missile",
-    "north",
-    "test",
-    "using"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro",
-   "tokens": [
-    "cut",
-    "free",
-    "gemini",
-    "googles",
-    "lock",
-    "model",
-    "pro",
-    "subscribers",
-    "tiers",
-    "users",
-    "weakest"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "Latvian PM’s election win boosts chances for pro-Ukraine coalition",
-   "tokens": [
-    "boosts",
-    "chances",
-    "coalition",
-    "election",
-    "latvian",
-    "pms",
-    "pro",
-    "ukraine",
-    "win"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-   "tokens": [
-    "attack",
-    "bridge",
-    "chancellor",
-    "drone",
-    "further",
-    "german",
-    "hit",
-    "kyiv",
-    "russian",
-    "surprise",
-    "visit"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "Why has Brazil accused the US of election interference?",
-   "tokens": [
-    "accused",
-    "brazil",
-    "election",
-    "interference"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "Lula or Bolsonaro? Some Brazilian voters say they don't want either",
-   "tokens": [
-    "bolsonaro",
-    "brazilian",
-    "dont",
-    "either",
-    "lula",
-    "voters",
-    "want"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
-   "tokens": [
-    "bolsonaro",
-    "brazil",
-    "deeply",
-    "election",
-    "lula",
-    "pitting",
-    "polarised",
-    "votes"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "GitLab warns of critical AI Gateway vulnerability allowing command execution",
-   "tokens": [
-    "allowing",
-    "command",
-    "critical",
-    "execution",
-    "gateway",
-    "gitlab",
-    "vulnerability",
-    "warns"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "Canon to Bring Semiconductor Technology and Service Centres to India",
-   "tokens": [
-    "bring",
-    "canon",
-    "centres",
-    "india",
-    "semiconductor",
-    "service",
-    "technology"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "Angelina Jolie Shares Satellite Images Showing Gaza’s Devastation",
-   "tokens": [
-    "angelina",
-    "devastation",
-    "gazas",
-    "images",
-    "jolie",
-    "satellite",
-    "shares",
-    "showing"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "Danish university DTU breach exposes data of up to 200,000 people",
-   "tokens": [
-    "000",
-    "200",
-    "breach",
-    "danish",
-    "data",
-    "dtu",
-    "exposes",
-    "people",
-    "university"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-   "tokens": [
-    "deploy",
-    "disable",
-    "exploits",
-    "flaws",
-    "ransomware",
-    "security",
-    "sharepoint",
-    "tools",
-    "warlock"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-   "tokens": [
-    "100",
-    "got",
-    "hike",
-    "nvidia",
-    "old",
-    "price",
-    "shield"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "More than £2,000 raised as community comes together for 24-hour charity rowathon",
-   "tokens": [
-    "000",
-    "charity",
-    "comes",
-    "community",
-    "hour",
-    "raised",
-    "rowathon",
-    "together"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "Danish geothermal startup backed by investment group founders seeks at least EUR 25m",
-   "tokens": [
-    "25m",
-    "backed",
-    "danish",
-    "eur",
-    "founders",
-    "geothermal",
-    "group",
-    "investment",
-    "least",
-    "seeks",
-    "startup"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "Mallow raises €11M seed for screen-free AI device for kids",
-   "tokens": [
-    "11m",
-    "device",
-    "free",
-    "kids",
-    "mallow",
-    "raises",
-    "screen",
-    "seed"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "Paymob raises $35m pre-Series C round",
-   "tokens": [
-    "35m",
-    "paymob",
-    "pre",
-    "raises",
-    "round",
-    "series"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "Google's Pixel 10a gets $100 more expensive - GSMArena.com news",
-   "tokens": [
-    "100",
-    "10a",
-    "com",
-    "expensive",
-    "googles",
-    "gsmarena",
-    "news",
-    "pixel"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "SpaceX stock has only once closed above $200; f...",
-   "tokens": [
-    "200",
-    "above",
-    "closed",
-    "once",
-    "only",
-    "spacex",
-    "stock"
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "title": "AMD stock closes at a record $633.91 as its Nvidia challenge gets real",
-   "tokens": [
-    "633",
-    "amd",
-    "challenge",
-    "closes",
-    "nvidia",
-    "real",
-    "record",
-    "stock"
-   ]
-  },
   {
    "date": "2026-10-05",
    "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
@@ -2693,6 +2351,344 @@
     "fund",
     "monte",
     "secures"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "White House reverses course and restores UK AI Safety Institute's access to frontier models",
+   "tokens": [
+    "access",
+    "course",
+    "frontier",
+    "house",
+    "institutes",
+    "models",
+    "restores",
+    "reverses",
+    "safety",
+    "white"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "AI is less regulated than milk, says Microsoft president",
+   "tokens": [
+    "less",
+    "microsoft",
+    "milk",
+    "president",
+    "regulated"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "Microsoft plans to scale its own Maia AI chips to gigawatt levels by 2027",
+   "tokens": [
+    "2027",
+    "chips",
+    "gigawatt",
+    "levels",
+    "maia",
+    "microsoft",
+    "own",
+    "plans",
+    "scale"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "Anthropic AI Model Sends False Murder Information to Philadelphia Police",
+   "tokens": [
+    "anthropic",
+    "false",
+    "information",
+    "model",
+    "murder",
+    "philadelphia",
+    "police",
+    "sends"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "Nvidia weighs acquisition or further investment in Reflection AI",
+   "tokens": [
+    "acquisition",
+    "further",
+    "investment",
+    "nvidia",
+    "reflection",
+    "weighs"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "HCLTech Forms Anthropic Business Unit Under Global Premier Partnership",
+   "tokens": [
+    "anthropic",
+    "business",
+    "forms",
+    "global",
+    "hcltech",
+    "partnership",
+    "premier",
+    "under",
+    "unit"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
+   "tokens": [
+    "call",
+    "ditch",
+    "energy",
+    "shrugs",
+    "strikes",
+    "trump",
+    "ukraine",
+    "zelensky"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "EU approves biggest Russia sanctions package since invasion began",
+   "tokens": [
+    "approves",
+    "began",
+    "biggest",
+    "invasion",
+    "package",
+    "russia",
+    "sanctions",
+    "since"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+   "tokens": [
+    "airports",
+    "attacks",
+    "houthi",
+    "minister",
+    "response",
+    "saudi",
+    "serious",
+    "vows"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "Thousands march to Indian Supreme Court to demand election chief resign",
+   "tokens": [
+    "chief",
+    "court",
+    "demand",
+    "election",
+    "indian",
+    "march",
+    "resign",
+    "supreme",
+    "thousands"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "Deadly gold mine air strikes highlight Egypt-Sudan border insecurity",
+   "tokens": [
+    "air",
+    "border",
+    "deadly",
+    "egypt",
+    "gold",
+    "highlight",
+    "insecurity",
+    "mine",
+    "strikes",
+    "sudan"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "Fridges in French supermarkets hit by cyber attack",
+   "tokens": [
+    "attack",
+    "cyber",
+    "french",
+    "fridges",
+    "hit",
+    "supermarkets"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
+   "tokens": [
+    "air",
+    "announces",
+    "between",
+    "edge",
+    "fitbit",
+    "google",
+    "ground",
+    "middle",
+    "pixel",
+    "watch"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "T-Mobile Pushes Back After SpaceX Spectrum Deal Triggers Telecom Selloff",
+   "tokens": [
+    "back",
+    "deal",
+    "mobile",
+    "pushes",
+    "selloff",
+    "spacex",
+    "spectrum",
+    "telecom",
+    "triggers"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "Amazon in talks to buy AI startup Decart for around $7 billion: Report",
+   "tokens": [
+    "amazon",
+    "around",
+    "billion",
+    "buy",
+    "decart",
+    "startup",
+    "talks"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "TikTok CEO sees major scientific breakthroughs from AI within three years",
+   "tokens": [
+    "breakthroughs",
+    "ceo",
+    "major",
+    "scientific",
+    "sees",
+    "three",
+    "tiktok",
+    "within"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "1KOMMA5° reaches $1.35B valuation, plans €100M investment in energy AI",
+   "tokens": [
+    "100m",
+    "1komma5",
+    "35b",
+    "energy",
+    "investment",
+    "plans",
+    "reaches",
+    "valuation"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "Nat Habit raises ₹142 crore in Series C as revenue hits ₹330 Crore",
+   "tokens": [
+    "142",
+    "330",
+    "crore",
+    "habit",
+    "hits",
+    "nat",
+    "raises",
+    "revenue",
+    "series"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "HyLight raises €13 million for its autonomous airships inspecting Europe’s critical infrastructure",
+   "tokens": [
+    "airships",
+    "autonomous",
+    "critical",
+    "europes",
+    "hylight",
+    "infrastructure",
+    "inspecting",
+    "million",
+    "raises"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "Danu Robotics Secures $5 Million to Launch Cutting-Edge Waste Sorting Robot",
+   "tokens": [
+    "cutting",
+    "danu",
+    "edge",
+    "launch",
+    "million",
+    "robot",
+    "robotics",
+    "secures",
+    "sorting",
+    "waste"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "University of Lincoln secures £4.8 million for agri-food robotics hub",
+   "tokens": [
+    "agri",
+    "food",
+    "hub",
+    "lincoln",
+    "million",
+    "robotics",
+    "secures",
+    "university"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "Monopulse raises over €2M to advance electronic warfare-resistant drones",
+   "tokens": [
+    "advance",
+    "drones",
+    "electronic",
+    "monopulse",
+    "raises",
+    "resistant",
+    "warfare"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "{Funding Alert} EV Charging Startup Ionage Raises $1.3 Mn in Funding",
+   "tokens": [
+    "alert",
+    "charging",
+    "funding",
+    "ionage",
+    "raises",
+    "startup"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "title": "Profitable French scale-up Wiremind raises €35 million after 12 years of bootstrapping",
+   "tokens": [
+    "bootstrapping",
+    "french",
+    "million",
+    "profitable",
+    "raises",
+    "scale",
+    "wiremind"
    ]
   }
  ]
