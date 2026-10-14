@@ -1,347 +1,6 @@
 {
- "updated": "2026-10-13T14:28:49",
+ "updated": "2026-10-14T12:14:43",
  "stories": [
-  {
-   "date": "2026-10-06",
-   "title": "Our approach to EU text provenance rules",
-   "tokens": [
-    "approach",
-    "provenance",
-    "rules",
-    "text"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-   "tokens": [
-    "beam",
-    "chinese",
-    "compute",
-    "cost",
-    "debuts",
-    "lower",
-    "model",
-    "models",
-    "open",
-    "reflection",
-    "rival",
-    "weight"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
-   "tokens": [
-    "altman",
-    "bad",
-    "happen",
-    "sam",
-    "things",
-    "totally",
-    "worth"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "Major tech companies to testify at City Council hearing on AI safety",
-   "tokens": [
-    "city",
-    "companies",
-    "council",
-    "hearing",
-    "major",
-    "safety",
-    "tech",
-    "testify"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
-   "tokens": [
-    "bots",
-    "linked",
-    "openais",
-    "operator",
-    "outage",
-    "rogue",
-    "wikipedia"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "Whistleblower warns that humans don’t control AI",
-   "tokens": [
-    "control",
-    "dont",
-    "humans",
-    "warns",
-    "whistleblower"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-   "tokens": [
-    "adding",
-    "canadas",
-    "election",
-    "party",
-    "projected",
-    "quebec",
-    "separatist",
-    "test",
-    "unity",
-    "win"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "Spain’s Leader Calls Early Election After Housing Crisis Roils Government",
-   "tokens": [
-    "calls",
-    "crisis",
-    "early",
-    "election",
-    "government",
-    "housing",
-    "leader",
-    "roils",
-    "spains"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "In a Major Boost for the Right, Another Bolsonaro Nears Brazil’s Presidency",
-   "tokens": [
-    "another",
-    "bolsonaro",
-    "boost",
-    "brazils",
-    "major",
-    "nears",
-    "presidency",
-    "right"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
-   "tokens": [
-    "executed",
-    "firing",
-    "fort",
-    "hood",
-    "military",
-    "shooter",
-    "since",
-    "squad",
-    "war",
-    "world"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "Yemeni military says it has 'secured' Red Sea waterway",
-   "tokens": [
-    "military",
-    "red",
-    "sea",
-    "secured",
-    "waterway",
-    "yemeni"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "Denmark population registry data breach affects 8.8 million people",
-   "tokens": [
-    "affects",
-    "breach",
-    "data",
-    "denmark",
-    "million",
-    "people",
-    "population",
-    "registry"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "Why TSMC’s Talks with Elon Musk Are a Direct Threat to Intel’s Chip Ambitions",
-   "tokens": [
-    "ambitions",
-    "chip",
-    "direct",
-    "elon",
-    "intels",
-    "musk",
-    "talks",
-    "threat",
-    "tsmcs"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "Munich-based RobCo becomes a robotics unicorn as valuation doubles in nine months",
-   "tokens": [
-    "based",
-    "becomes",
-    "doubles",
-    "months",
-    "munich",
-    "nine",
-    "robco",
-    "robotics",
-    "unicorn",
-    "valuation"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "Accenture contractor removed from FBI following damaging data breach: Report",
-   "tokens": [
-    "accenture",
-    "breach",
-    "contractor",
-    "damaging",
-    "data",
-    "fbi",
-    "following",
-    "removed"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
-   "tokens": [
-    "crew",
-    "live",
-    "nasa",
-    "return",
-    "spacex",
-    "splashdown",
-    "stream"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "Cleavr bags €8M to scale AI-powered invoice collection across Europe",
-   "tokens": [
-    "across",
-    "bags",
-    "cleavr",
-    "collection",
-    "europe",
-    "invoice",
-    "powered",
-    "scale"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "Namespace raises $42M Series B, seven months after Series A",
-   "tokens": [
-    "42m",
-    "months",
-    "namespace",
-    "raises",
-    "series",
-    "seven"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "N26 founder-backed Finmid raises €17M Series A extension, strikes Bolt deal",
-   "tokens": [
-    "17m",
-    "backed",
-    "bolt",
-    "deal",
-    "extension",
-    "finmid",
-    "founder",
-    "n26",
-    "raises",
-    "series",
-    "strikes"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "European defencetech hits record $7.4B as investment nearly triples in 2026",
-   "tokens": [
-    "2026",
-    "defencetech",
-    "european",
-    "hits",
-    "investment",
-    "nearly",
-    "record",
-    "triples"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "FashionTech startup Rodinia Generation aims to save 100 billion litres of water annually, secures €4 million",
-   "tokens": [
-    "100",
-    "aims",
-    "annually",
-    "billion",
-    "fashiontech",
-    "generation",
-    "litres",
-    "million",
-    "rodinia",
-    "save",
-    "secures",
-    "startup",
-    "water"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "Finches lands €2M to help food producers spot supply risks earlier",
-   "tokens": [
-    "earlier",
-    "finches",
-    "food",
-    "help",
-    "lands",
-    "producers",
-    "risks",
-    "spot",
-    "supply"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "Celaid Therapeutics Raises $2.6 Million In Series B Second Close",
-   "tokens": [
-    "celaid",
-    "close",
-    "million",
-    "raises",
-    "second",
-    "series",
-    "therapeutics"
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "title": "Edonia raises €12M to scale its microalgae meat alternative",
-   "tokens": [
-    "12m",
-    "alternative",
-    "edonia",
-    "meat",
-    "microalgae",
-    "raises",
-    "scale"
-   ]
-  },
   {
    "date": "2026-10-07",
    "title": "Mistral unveils le Chonk, says \"significantly outperforms” any open-weight models developed in US or Europe",
@@ -2663,6 +2322,342 @@
     "raises",
     "specialist",
     "transport"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+   "tokens": [
+    "antigravity",
+    "app",
+    "argon",
+    "begins",
+    "gemini",
+    "only",
+    "pay",
+    "rolling"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Nvidia to invest in four French startups, makes $250M UK compute donation",
+   "tokens": [
+    "250m",
+    "compute",
+    "donation",
+    "four",
+    "french",
+    "invest",
+    "nvidia",
+    "startups"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Saudi employee charged with planting recording device in OpenAI office",
+   "tokens": [
+    "charged",
+    "device",
+    "employee",
+    "office",
+    "openai",
+    "planting",
+    "recording",
+    "saudi"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Meta Takes on Anthropic, OpenAI With Its First Frontier AI Models",
+   "tokens": [
+    "anthropic",
+    "frontier",
+    "meta",
+    "models",
+    "openai"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+   "tokens": [
+    "anthropic",
+    "devices",
+    "replicating",
+    "self",
+    "smart",
+    "spread",
+    "warns",
+    "your"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Microsoft’s Brad Smith calls for ‘middle ground’ on global AI regulation",
+   "tokens": [
+    "brad",
+    "calls",
+    "global",
+    "ground",
+    "microsofts",
+    "middle",
+    "regulation",
+    "smith"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
+   "tokens": [
+    "bots",
+    "centre",
+    "data",
+    "right",
+    "russian",
+    "strikes",
+    "taken",
+    "zelensky"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Ukrainian soldiers in combat have access to Starlink satellite internet restricted",
+   "tokens": [
+    "access",
+    "combat",
+    "internet",
+    "restricted",
+    "satellite",
+    "soldiers",
+    "starlink",
+    "ukrainian"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "U.K. and Europe Recoil From Trump’s Diesel Deal With Putin",
+   "tokens": [
+    "deal",
+    "diesel",
+    "europe",
+    "putin",
+    "recoil",
+    "trumps"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+   "tokens": [
+    "cancer",
+    "diagnosed",
+    "lung",
+    "pope",
+    "successful",
+    "surgery",
+    "vatican"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
+   "tokens": [
+    "deal",
+    "diesel",
+    "putin",
+    "reverse",
+    "senators",
+    "trump",
+    "urge"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "German robotics unicorn NEURA launches Neuron AI to advance Physical AI and humanoid robotics",
+   "tokens": [
+    "advance",
+    "german",
+    "humanoid",
+    "launches",
+    "neura",
+    "neuron",
+    "physical",
+    "robotics",
+    "unicorn"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Microsoft Patches More Than 1,400 Security Flaws",
+   "tokens": [
+    "400",
+    "flaws",
+    "microsoft",
+    "patches",
+    "security"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
+   "tokens": [
+    "cyberattack",
+    "disrupts",
+    "hobbs",
+    "london",
+    "retailers",
+    "systems",
+    "tfg",
+    "whistles"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "‘Space jellyfish’ lights up the sky above Tampa Bay after SpaceX launch",
+   "tokens": [
+    "above",
+    "bay",
+    "jellyfish",
+    "launch",
+    "lights",
+    "sky",
+    "space",
+    "spacex",
+    "tampa"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+   "tokens": [
+    "attacks",
+    "connect",
+    "exploited",
+    "ivanti",
+    "secure",
+    "warns",
+    "zero"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Causa Prima lands $20M seed just three months after pre-seed round",
+   "tokens": [
+    "20m",
+    "causa",
+    "lands",
+    "months",
+    "pre",
+    "prima",
+    "round",
+    "seed",
+    "three"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Affinity Labs raises $2M to build AI-powered software brands with creators",
+   "tokens": [
+    "affinity",
+    "brands",
+    "build",
+    "creators",
+    "labs",
+    "powered",
+    "raises",
+    "software"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "UK healthtech startup Stride raises £4.6M to expand preventative health platform",
+   "tokens": [
+    "expand",
+    "health",
+    "healthtech",
+    "platform",
+    "preventative",
+    "raises",
+    "startup",
+    "stride"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Circle raises ₹25 crore seed funding led by Nexus Venture Partners",
+   "tokens": [
+    "circle",
+    "crore",
+    "funding",
+    "led",
+    "nexus",
+    "partners",
+    "raises",
+    "seed",
+    "venture"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Spain’s full-stack quantum computing company Qilimanjaro Quantum Tech completes €19.6 million Series A first close",
+   "tokens": [
+    "close",
+    "company",
+    "completes",
+    "computing",
+    "full",
+    "million",
+    "qilimanjaro",
+    "quantum",
+    "series",
+    "spains",
+    "stack",
+    "tech"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Helsinki’s Ambio raises €5.1 million to scale its AI-powered recycled plastics procurement platform",
+   "tokens": [
+    "ambio",
+    "helsinkis",
+    "million",
+    "plastics",
+    "platform",
+    "powered",
+    "procurement",
+    "raises",
+    "recycled",
+    "scale"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Ubitium raises €14M seed to put drone intelligence on a single chip",
+   "tokens": [
+    "14m",
+    "chip",
+    "drone",
+    "intelligence",
+    "put",
+    "raises",
+    "seed",
+    "single",
+    "ubitium"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Czech startup FLÆ Robotics lands over €1M to automate hotel guest services",
+   "tokens": [
+    "automate",
+    "czech",
+    "guest",
+    "hotel",
+    "lands",
+    "robotics",
+    "services",
+    "startup"
    ]
   }
  ]
