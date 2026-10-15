@@ -1,339 +1,6 @@
 {
- "updated": "2026-10-14T12:14:43",
+ "updated": "2026-10-15T11:55:30",
  "stories": [
-  {
-   "date": "2026-10-07",
-   "title": "Mistral unveils le Chonk, says \"significantly outperforms” any open-weight models developed in US or Europe",
-   "tokens": [
-    "chonk",
-    "developed",
-    "europe",
-    "mistral",
-    "models",
-    "open",
-    "outperforms",
-    "significantly",
-    "unveils",
-    "weight"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "OpenAI drops another batch of mathematical breakthroughs",
-   "tokens": [
-    "another",
-    "batch",
-    "breakthroughs",
-    "drops",
-    "mathematical",
-    "openai"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-   "tokens": [
-    "chatgpt",
-    "default",
-    "only",
-    "openai",
-    "outputs",
-    "watermark"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-   "tokens": [
-    "000",
-    "anthropic",
-    "claude",
-    "credits",
-    "free",
-    "giving",
-    "startups",
-    "team"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "OpenAI, Anthropic tell Australia they would welcome data breach rules",
-   "tokens": [
-    "anthropic",
-    "australia",
-    "breach",
-    "data",
-    "openai",
-    "rules",
-    "tell",
-    "welcome"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-   "tokens": [
-    "aims",
-    "closed",
-    "leapfrog",
-    "mistrals",
-    "model",
-    "open",
-    "rivals"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "Germany’s Far Right Claims Its First Statehouse Speaker Since 1945",
-   "tokens": [
-    "1945",
-    "claims",
-    "far",
-    "germanys",
-    "right",
-    "since",
-    "speaker",
-    "statehouse"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
-   "tokens": [
-    "attacks",
-    "destroyed",
-    "grapple",
-    "hamas",
-    "kibbutz",
-    "led",
-    "october",
-    "rebuild",
-    "residents"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
-   "tokens": [
-    "asia",
-    "central",
-    "crisis",
-    "fuel",
-    "given",
-    "iranian",
-    "oil",
-    "opening",
-    "russias"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "Where is Spain headed after the snap election announcement?",
-   "tokens": [
-    "announcement",
-    "election",
-    "headed",
-    "snap",
-    "spain",
-    "where"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "Badenoch says next election is ‘battle for the soul of this nation’",
-   "tokens": [
-    "badenoch",
-    "battle",
-    "election",
-    "nation",
-    "next",
-    "soul"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
-   "tokens": [
-    "app",
-    "asos",
-    "confirms",
-    "hackers",
-    "notification",
-    "sent",
-    "unauthorised",
-    "users"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "KT Cloud to Build 50MW AI Data Center in South Korea's Incheon Cheongna",
-   "tokens": [
-    "50mw",
-    "build",
-    "center",
-    "cheongna",
-    "cloud",
-    "data",
-    "incheon",
-    "koreas",
-    "south"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "South Korean banks hit in cyberattack linked to Chinese AI tool: Report",
-   "tokens": [
-    "banks",
-    "chinese",
-    "cyberattack",
-    "hit",
-    "korean",
-    "linked",
-    "south",
-    "tool"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "EY Data Breach Exposes Goldman Sachs and Man Group Clients' Data",
-   "tokens": [
-    "breach",
-    "clients",
-    "data",
-    "exposes",
-    "goldman",
-    "group",
-    "man",
-    "sachs"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "Satellite images show Israeli forces have erased Gaza towns: Report",
-   "tokens": [
-    "erased",
-    "forces",
-    "gaza",
-    "images",
-    "israeli",
-    "satellite",
-    "show",
-    "towns"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "Comparables.ai secures $6M seed to scale its AI platform for dealmakers",
-   "tokens": [
-    "comparables",
-    "dealmakers",
-    "platform",
-    "scale",
-    "secures",
-    "seed"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "NEA leads Spiko’s $90M Series B to expand access to cash yield",
-   "tokens": [
-    "90m",
-    "access",
-    "cash",
-    "expand",
-    "leads",
-    "nea",
-    "series",
-    "spikos",
-    "yield"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-   "tokens": [
-    "ahead",
-    "computing",
-    "ipo",
-    "lambda",
-    "planned",
-    "raise",
-    "startup"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "Autonomous B2B trade gets a boost as Procuros raises €20M",
-   "tokens": [
-    "20m",
-    "autonomous",
-    "b2b",
-    "boost",
-    "procuros",
-    "raises",
-    "trade"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "SpaceX Seeks $40B Debt to Purchase Nvidia AI Chips Amid 15% Stock Rally",
-   "tokens": [
-    "40b",
-    "chips",
-    "debt",
-    "nvidia",
-    "purchase",
-    "rally",
-    "seeks",
-    "spacex",
-    "stock"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "Hadrian raises $40M to tackle AI-driven cyber threats",
-   "tokens": [
-    "40m",
-    "cyber",
-    "driven",
-    "hadrian",
-    "raises",
-    "tackle",
-    "threats"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "Paris-based WhiteLab Genomics raises €23.2 million to accelerate AI-driven genomic medicine development",
-   "tokens": [
-    "accelerate",
-    "based",
-    "development",
-    "driven",
-    "genomic",
-    "genomics",
-    "medicine",
-    "million",
-    "paris",
-    "raises",
-    "whitelab"
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "title": "NVM Ventures launches with €23.6 million fund targeting dual-use companies",
-   "tokens": [
-    "companies",
-    "dual",
-    "fund",
-    "launches",
-    "million",
-    "nvm",
-    "targeting",
-    "use",
-    "ventures"
-   ]
-  },
   {
    "date": "2026-10-08",
    "title": "Google rolls out improved SynthID AI content detector, now available globally",
@@ -2658,6 +2325,344 @@
     "robotics",
     "services",
     "startup"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Google to provide 200 European scientists access to its frontier models",
+   "tokens": [
+    "200",
+    "access",
+    "european",
+    "frontier",
+    "google",
+    "models",
+    "provide",
+    "scientists"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+   "tokens": [
+    "chatgpt",
+    "eight",
+    "isnt",
+    "kids",
+    "openai",
+    "safe",
+    "saying",
+    "states",
+    "sue"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
+   "tokens": [
+    "anthropic",
+    "billion",
+    "jumped",
+    "quarter",
+    "revenue",
+    "third"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "EU Announces First AI Act Enforcement Actions After AI Agent Incidents",
+   "tokens": [
+    "act",
+    "actions",
+    "agent",
+    "announces",
+    "enforcement",
+    "incidents"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Anthropic opens Singapore office, signs AI safety pact with government",
+   "tokens": [
+    "anthropic",
+    "government",
+    "office",
+    "opens",
+    "pact",
+    "safety",
+    "signs",
+    "singapore"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
+   "tokens": [
+    "ahead",
+    "anthropics",
+    "growth",
+    "hits",
+    "ipo",
+    "november",
+    "planned",
+    "revenue",
+    "slows"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
+   "tokens": [
+    "oil",
+    "refineries",
+    "restart",
+    "russian",
+    "strikes",
+    "ukraine",
+    "zelensky"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "North Korea and China open new bridge after 12-year delay",
+   "tokens": [
+    "bridge",
+    "china",
+    "delay",
+    "korea",
+    "north",
+    "open"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Brazil's Congress approves shorter working week in win for Lula",
+   "tokens": [
+    "approves",
+    "brazils",
+    "congress",
+    "lula",
+    "shorter",
+    "win",
+    "working"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+   "tokens": [
+    "battlefield",
+    "important",
+    "internet",
+    "starlink",
+    "ukraine"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Trump Weighs Easing Shadow Fleet Sanctions to Lower Oil Shipping Costs",
+   "tokens": [
+    "costs",
+    "easing",
+    "fleet",
+    "lower",
+    "oil",
+    "sanctions",
+    "shadow",
+    "shipping",
+    "trump",
+    "weighs"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Cisco make-me-root email bug exploited as a 0-day by unknown crims",
+   "tokens": [
+    "bug",
+    "cisco",
+    "crims",
+    "email",
+    "exploited",
+    "root",
+    "unknown"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "TSMC is in discussions about collaborating with Elon Musk's Terafab pr",
+   "tokens": [
+    "collaborating",
+    "discussions",
+    "elon",
+    "musks",
+    "terafab",
+    "tsmc"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Alibaba AI models cleared for use in Apple Intelligence in China just in time for the iPhone Duo launch",
+   "tokens": [
+    "alibaba",
+    "apple",
+    "china",
+    "cleared",
+    "duo",
+    "intelligence",
+    "iphone",
+    "launch",
+    "models",
+    "use"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
+   "tokens": [
+    "blindsided",
+    "gaps",
+    "intelligence",
+    "restrictions",
+    "starlink",
+    "throttling",
+    "ukraine"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Rocket Lab Delays Neutron Debut Again, Sending Shares Lower After Hours",
+   "tokens": [
+    "again",
+    "debut",
+    "delays",
+    "hours",
+    "lab",
+    "lower",
+    "neutron",
+    "rocket",
+    "sending",
+    "shares"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Solvera raises $6.3M to scale the AI-native engineering firm",
+   "tokens": [
+    "engineering",
+    "firm",
+    "native",
+    "raises",
+    "scale",
+    "solvera"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Matters emerges from stealth with $5M in pre-seed funding to build AI-native consumer bank",
+   "tokens": [
+    "bank",
+    "build",
+    "consumer",
+    "emerges",
+    "funding",
+    "matters",
+    "native",
+    "pre",
+    "seed",
+    "stealth"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Harmonic Security raises $50M to govern how employees use AI tools",
+   "tokens": [
+    "50m",
+    "employees",
+    "govern",
+    "harmonic",
+    "raises",
+    "security",
+    "tools",
+    "use"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Nauta secures €60 million first close for sixth fund to back European software and DeepTech startups",
+   "tokens": [
+    "back",
+    "close",
+    "deeptech",
+    "european",
+    "fund",
+    "million",
+    "nauta",
+    "secures",
+    "sixth",
+    "software",
+    "startups"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Vilnius-based Holo raises €5M to bring AI-powered marketing to small businesses",
+   "tokens": [
+    "based",
+    "bring",
+    "businesses",
+    "holo",
+    "marketing",
+    "powered",
+    "raises",
+    "small",
+    "vilnius"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Polish spacetech KP Labs secures €4.42M from Momentum Capital Partners to scale in-orbit AI data processing",
+   "tokens": [
+    "42m",
+    "capital",
+    "data",
+    "labs",
+    "momentum",
+    "orbit",
+    "partners",
+    "polish",
+    "processing",
+    "scale",
+    "secures",
+    "spacetech"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Profitable French accounting company Dougs raises €50 million to accelerate AI automation",
+   "tokens": [
+    "accelerate",
+    "accounting",
+    "automation",
+    "company",
+    "dougs",
+    "french",
+    "million",
+    "profitable",
+    "raises"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "title": "OQT raises $10.5M pre-Series A for error-tolerant quantum computing",
+   "tokens": [
+    "computing",
+    "error",
+    "oqt",
+    "pre",
+    "quantum",
+    "raises",
+    "series",
+    "tolerant"
    ]
   }
  ]
