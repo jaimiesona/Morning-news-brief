@@ -1,334 +1,6 @@
 {
- "updated": "2026-10-15T11:55:30",
+ "updated": "2026-10-16T11:46:13",
  "stories": [
-  {
-   "date": "2026-10-08",
-   "title": "Google rolls out improved SynthID AI content detector, now available globally",
-   "tokens": [
-    "available",
-    "content",
-    "detector",
-    "globally",
-    "google",
-    "improved",
-    "rolls",
-    "synthid"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "AI chip boom pushes Samsung profits to record $80bn",
-   "tokens": [
-    "80bn",
-    "boom",
-    "chip",
-    "profits",
-    "pushes",
-    "record",
-    "samsung"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-   "tokens": [
-    "chip",
-    "microsoft",
-    "nvidia",
-    "pcs",
-    "releases",
-    "revamped",
-    "windows"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "Google experiments with an AI-powered gaming platform",
-   "tokens": [
-    "experiments",
-    "gaming",
-    "google",
-    "platform",
-    "powered"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "Sam Altman delays OpenAI IPO to 2027, citing AI safety risks",
-   "tokens": [
-    "2027",
-    "altman",
-    "citing",
-    "delays",
-    "ipo",
-    "openai",
-    "risks",
-    "safety",
-    "sam"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "Italy Weighs Controversial Law Giving Bonus Seats to Election Winners",
-   "tokens": [
-    "bonus",
-    "controversial",
-    "election",
-    "giving",
-    "italy",
-    "law",
-    "seats",
-    "weighs",
-    "winners"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
-   "tokens": [
-    "airports",
-    "arabia",
-    "attacks",
-    "houthi",
-    "killed",
-    "officials",
-    "people",
-    "saudi",
-    "three"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
-   "tokens": [
-    "dies",
-    "eviction",
-    "nationwide",
-    "pensioner",
-    "protests",
-    "spanish",
-    "sparked",
-    "whose"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "Polls open in Holborn and St Pancras byelection – UK politics live",
-   "tokens": [
-    "byelection",
-    "holborn",
-    "live",
-    "open",
-    "pancras",
-    "politics",
-    "polls"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-   "tokens": [
-    "attacks",
-    "buses",
-    "deadly",
-    "kills",
-    "least",
-    "officials",
-    "russian",
-    "strike",
-    "surge",
-    "ukraine"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "FCC to vote on auctioning 25MHz of 'prime spectrum' in move that could benefit Amazon, SpaceX",
-   "tokens": [
-    "25mhz",
-    "amazon",
-    "auctioning",
-    "benefit",
-    "fcc",
-    "move",
-    "prime",
-    "spacex",
-    "spectrum",
-    "vote"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "ASOS links data breach to social engineering attack, credential theft",
-   "tokens": [
-    "asos",
-    "attack",
-    "breach",
-    "credential",
-    "data",
-    "engineering",
-    "links",
-    "social",
-    "theft"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "Diraq unlocks up to $300M in US defence funding for quantum computing",
-   "tokens": [
-    "300m",
-    "computing",
-    "defence",
-    "diraq",
-    "funding",
-    "quantum",
-    "unlocks"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "Asos hackers took more personal details than first revealed, BBC finds",
-   "tokens": [
-    "asos",
-    "bbc",
-    "details",
-    "finds",
-    "hackers",
-    "personal",
-    "revealed",
-    "took"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "Hackers exploit critical Atlassian flaw after public PoC release",
-   "tokens": [
-    "atlassian",
-    "critical",
-    "exploit",
-    "flaw",
-    "hackers",
-    "poc",
-    "public",
-    "release"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-   "tokens": [
-    "60m",
-    "data",
-    "mecka",
-    "nabs",
-    "robot",
-    "sequoia",
-    "startup"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "Cambridge biotech startup Neela raises £2.1m to turn waste into aviation fuel",
-   "tokens": [
-    "aviation",
-    "biotech",
-    "cambridge",
-    "fuel",
-    "neela",
-    "raises",
-    "startup",
-    "turn",
-    "waste"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "University of Sussex spinout Universal Quantum raises “record” $100M Series A",
-   "tokens": [
-    "100m",
-    "quantum",
-    "raises",
-    "record",
-    "series",
-    "spinout",
-    "sussex",
-    "universal",
-    "university"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "Zinara Raises ₹3.61 Cr in Pre-Seed Round Led by Inflection Point Ventures",
-   "tokens": [
-    "inflection",
-    "led",
-    "point",
-    "pre",
-    "raises",
-    "round",
-    "seed",
-    "ventures",
-    "zinara"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "China’s Manus raises over $500M in first funding round since split with Meta",
-   "tokens": [
-    "500m",
-    "chinas",
-    "funding",
-    "manus",
-    "meta",
-    "raises",
-    "round",
-    "since",
-    "split"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "TODAY lands €2.8M to scale its AI platform for financial advisors",
-   "tokens": [
-    "advisors",
-    "financial",
-    "lands",
-    "platform",
-    "scale"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "Limassol-based NeoFleet Capital raises €3.5 million to finance taxi fleets across emerging markets",
-   "tokens": [
-    "across",
-    "based",
-    "capital",
-    "emerging",
-    "finance",
-    "fleets",
-    "limassol",
-    "markets",
-    "million",
-    "neofleet",
-    "raises",
-    "taxi"
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-   "tokens": [
-    "agents",
-    "business",
-    "confirms",
-    "hit",
-    "launches",
-    "nous",
-    "research",
-    "users",
-    "valuation"
-   ]
-  },
   {
    "date": "2026-10-09",
    "title": "Google is launching a one-stop Gemini agent for your work tasks",
@@ -2663,6 +2335,358 @@
     "raises",
     "series",
     "tolerant"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+   "tokens": [
+    "apple",
+    "better",
+    "macs",
+    "meta",
+    "models",
+    "muse",
+    "run",
+    "team"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+   "tokens": [
+    "access",
+    "anthropic",
+    "employee",
+    "hood",
+    "letting",
+    "level",
+    "look",
+    "metr",
+    "researchers",
+    "under"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
+   "tokens": [
+    "ceo",
+    "china",
+    "dangerous",
+    "dialogue",
+    "huang",
+    "jensen",
+    "nvidia",
+    "potentially",
+    "urges"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+   "tokens": [
+    "bargains",
+    "building",
+    "china",
+    "chip",
+    "equipment",
+    "exports",
+    "facility",
+    "factory",
+    "hynix",
+    "return"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+   "tokens": [
+    "laptops",
+    "nvidias",
+    "optimized",
+    "rtx",
+    "spark",
+    "windows"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
+   "tokens": [
+    "automated",
+    "bet",
+    "bigger",
+    "driving",
+    "free",
+    "hands",
+    "nvidia",
+    "volvo"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+   "tokens": [
+    "accuses",
+    "attacking",
+    "oil",
+    "refinery",
+    "resume",
+    "russia",
+    "strikes",
+    "ukraine",
+    "zelensky"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+   "tokens": [
+    "believe",
+    "hard",
+    "oregon",
+    "primary",
+    "really",
+    "school",
+    "shooting",
+    "unfolded"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "Are student protests being manipulated ahead of France's presidential election?",
+   "tokens": [
+    "ahead",
+    "election",
+    "frances",
+    "manipulated",
+    "presidential",
+    "protests",
+    "student"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+   "tokens": [
+    "attack",
+    "five",
+    "houthi",
+    "kills",
+    "minister",
+    "missile",
+    "palace",
+    "presidential",
+    "yemeni"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "Letters with 'suspicious substances' sent to US senators and election offices",
+   "tokens": [
+    "election",
+    "letters",
+    "offices",
+    "senators",
+    "sent",
+    "substances",
+    "suspicious"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+   "tokens": [
+    "amazons",
+    "bee",
+    "devices",
+    "launches",
+    "personal",
+    "starting"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "Tesla Debuts 2026 Roadster, an EV Sports Car at Least $200,000",
+   "tokens": [
+    "000",
+    "200",
+    "2026",
+    "car",
+    "debuts",
+    "least",
+    "roadster",
+    "sports",
+    "tesla"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+   "tokens": [
+    "60mph",
+    "drove",
+    "flew",
+    "hit",
+    "roadster",
+    "second",
+    "tesla",
+    "under",
+    "upside"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+   "tokens": [
+    "backdoor",
+    "collabora",
+    "exploit",
+    "flaw",
+    "hackers",
+    "nextcloud",
+    "rce",
+    "servers"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "Tesla's redesigned Roadster has a cold-gas thruster option, but you'll need $250,000 just to reserve it",
+   "tokens": [
+    "000",
+    "250",
+    "cold",
+    "gas",
+    "need",
+    "option",
+    "redesigned",
+    "reserve",
+    "roadster",
+    "teslas",
+    "thruster",
+    "youll"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "Dublin-based LearnUpon secures €44.5 million to scale its agentic learning platform",
+   "tokens": [
+    "agentic",
+    "based",
+    "dublin",
+    "learning",
+    "learnupon",
+    "million",
+    "platform",
+    "scale",
+    "secures"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "Strasbourg-founded Goodweek raises €10.69 million to become the AI Manager for SMBs",
+   "tokens": [
+    "become",
+    "founded",
+    "goodweek",
+    "manager",
+    "million",
+    "raises",
+    "smbs",
+    "strasbourg"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "New treatment for inflammatory bowel disease lands Microbiotica €42 million",
+   "tokens": [
+    "bowel",
+    "disease",
+    "inflammatory",
+    "lands",
+    "microbiotica",
+    "million",
+    "treatment"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "London’s Unravel Health raises €2.96 million to help women track hormones at home with a palm-sized lab",
+   "tokens": [
+    "health",
+    "help",
+    "home",
+    "hormones",
+    "lab",
+    "londons",
+    "million",
+    "palm",
+    "raises",
+    "sized",
+    "track",
+    "unravel",
+    "women"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "Norwegian open banking provider Neonomics secures €3.56 million after cutting operating costs by nearly half",
+   "tokens": [
+    "banking",
+    "costs",
+    "cutting",
+    "half",
+    "million",
+    "nearly",
+    "neonomics",
+    "norwegian",
+    "open",
+    "operating",
+    "provider",
+    "secures"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "Parallel Loop Raises $ 6.6 Mn In Seed Funding Led By 3one4 Capital",
+   "tokens": [
+    "3one4",
+    "capital",
+    "funding",
+    "led",
+    "loop",
+    "parallel",
+    "raises",
+    "seed"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "AdGraam Raises Rs 3 Cr Seed Funding Led By Nitro Commerce Co-Founder",
+   "tokens": [
+    "adgraam",
+    "commerce",
+    "founder",
+    "funding",
+    "led",
+    "nitro",
+    "raises",
+    "seed"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "title": "German AI startup Elevatry secures €3 million to automate procurement workflows",
+   "tokens": [
+    "automate",
+    "elevatry",
+    "german",
+    "million",
+    "procurement",
+    "secures",
+    "startup",
+    "workflows"
    ]
   }
  ]
