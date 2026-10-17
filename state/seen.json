@@ -1,345 +1,6 @@
 {
- "updated": "2026-10-16T11:46:13",
+ "updated": "2026-10-17T11:03:08",
  "stories": [
-  {
-   "date": "2026-10-09",
-   "title": "Google is launching a one-stop Gemini agent for your work tasks",
-   "tokens": [
-    "agent",
-    "gemini",
-    "google",
-    "launching",
-    "stop",
-    "tasks",
-    "work",
-    "your"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-   "tokens": [
-    "decision",
-    "doubles",
-    "fire",
-    "openai",
-    "researchers",
-    "safety",
-    "three"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-   "tokens": [
-    "fired",
-    "let",
-    "openai",
-    "prioritising",
-    "researchers",
-    "safety"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "Anthropic bans users from being 'cruel' to its AI systems",
-   "tokens": [
-    "anthropic",
-    "bans",
-    "cruel",
-    "systems",
-    "users"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "Anthropic changes usage policy to ban model abuse and election interference",
-   "tokens": [
-    "abuse",
-    "anthropic",
-    "ban",
-    "changes",
-    "election",
-    "interference",
-    "model",
-    "policy",
-    "usage"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-   "tokens": [
-    "backed",
-    "centre",
-    "concerns",
-    "data",
-    "deepen",
-    "firm",
-    "ipo",
-    "nvidia",
-    "scraps",
-    "valuation"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "Labour Holds Off Green Party in Election for Starmer’s Former London Seat",
-   "tokens": [
-    "election",
-    "former",
-    "green",
-    "holds",
-    "labour",
-    "london",
-    "party",
-    "seat",
-    "starmers"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "Firing squad execution to be livestreamed, Pentagon says",
-   "tokens": [
-    "execution",
-    "firing",
-    "livestreamed",
-    "pentagon",
-    "squad"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "2 Latvians Arrested after Breaching Perimeter of RAF Molesworth, UK Air Base Used by US",
-   "tokens": [
-    "air",
-    "arrested",
-    "base",
-    "breaching",
-    "latvians",
-    "molesworth",
-    "perimeter",
-    "raf",
-    "used"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-   "tokens": [
-    "icj",
-    "international",
-    "judge",
-    "law",
-    "navi",
-    "nobel",
-    "peace",
-    "pillay",
-    "prize",
-    "promoting",
-    "wins"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "ICE agent shoots man in New York City",
-   "tokens": [
-    "agent",
-    "city",
-    "ice",
-    "man",
-    "shoots",
-    "york"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "SpaceX announces plan to become a ‘major mobile carrier’",
-   "tokens": [
-    "announces",
-    "become",
-    "carrier",
-    "major",
-    "mobile",
-    "plan",
-    "spacex"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "Citrix gives NetScaler admins another critical reason to patch",
-   "tokens": [
-    "admins",
-    "another",
-    "citrix",
-    "critical",
-    "gives",
-    "netscaler",
-    "patch",
-    "reason"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "President Trump unveils $215M quantum computing plan amid crypto fears",
-   "tokens": [
-    "215m",
-    "computing",
-    "crypto",
-    "fears",
-    "plan",
-    "president",
-    "quantum",
-    "trump",
-    "unveils"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "Italy's Foreign Ministry says its website targeted in cyberattack",
-   "tokens": [
-    "cyberattack",
-    "foreign",
-    "italys",
-    "ministry",
-    "targeted",
-    "website"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "DOJ charges ransomware recovery CEO for secretly paying hackers",
-   "tokens": [
-    "ceo",
-    "charges",
-    "doj",
-    "hackers",
-    "paying",
-    "ransomware",
-    "recovery",
-    "secretly"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "Oratomic Raises $775 Million to Develop Fault-Tolerant Quantum Computers",
-   "tokens": [
-    "775",
-    "computers",
-    "develop",
-    "fault",
-    "million",
-    "oratomic",
-    "quantum",
-    "raises",
-    "tolerant"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "Zurich’s Klarent raises €7.13 million to scale its agentic software testing platform and expand into the US",
-   "tokens": [
-    "agentic",
-    "expand",
-    "klarent",
-    "million",
-    "platform",
-    "raises",
-    "scale",
-    "software",
-    "testing",
-    "zurichs"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "Spanish Autentic AI raises €1.5M to accelerate AI-powered market research",
-   "tokens": [
-    "accelerate",
-    "autentic",
-    "market",
-    "powered",
-    "raises",
-    "research",
-    "spanish"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "Bern-based Besso raises €4.29 million to scale its AI-powered trade regulation intelligence platform",
-   "tokens": [
-    "based",
-    "bern",
-    "besso",
-    "intelligence",
-    "million",
-    "platform",
-    "powered",
-    "raises",
-    "regulation",
-    "scale",
-    "trade"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "Hone raises $60 million to build AI agents for business operations",
-   "tokens": [
-    "agents",
-    "build",
-    "business",
-    "hone",
-    "million",
-    "operations",
-    "raises"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "London’s Sava raises €32.08 million and partners with Ascensia to bring its glucose microsensor to Europe",
-   "tokens": [
-    "ascensia",
-    "bring",
-    "europe",
-    "glucose",
-    "londons",
-    "microsensor",
-    "million",
-    "partners",
-    "raises",
-    "sava"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "European startups raise €15.8B in September, nearly five times August's total",
-   "tokens": [
-    "augusts",
-    "european",
-    "five",
-    "nearly",
-    "raise",
-    "september",
-    "startups",
-    "times",
-    "total"
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "title": "Tory tax break for banks has cost UK public purse £6bn, says TUC",
-   "tokens": [
-    "6bn",
-    "banks",
-    "break",
-    "cost",
-    "public",
-    "purse",
-    "tax",
-    "tory",
-    "tuc"
-   ]
-  },
   {
    "date": "2026-10-10",
    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
@@ -2687,6 +2348,336 @@
     "secures",
     "startup",
     "workflows"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "You could have invented transformers from memory",
+   "tokens": [
+    "invented",
+    "memory",
+    "transformers"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "Anthropic Quietly Pitches Its Own AI Safety Bill To Lawmakers: Reports",
+   "tokens": [
+    "anthropic",
+    "bill",
+    "lawmakers",
+    "own",
+    "pitches",
+    "quietly",
+    "safety"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Oct. 12 – Oct. 16)",
+   "tokens": [
+    "european",
+    "funding",
+    "oct",
+    "round",
+    "rounds",
+    "startup",
+    "tracked",
+    "weekly"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
+   "tokens": [
+    "council",
+    "grilled",
+    "grok",
+    "images",
+    "leader",
+    "nyc",
+    "policy",
+    "safety",
+    "sexualized",
+    "spacex"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "Volvo Cars, NVIDIA Expand Partnership On Automated Driving Technology",
+   "tokens": [
+    "automated",
+    "cars",
+    "driving",
+    "expand",
+    "nvidia",
+    "partnership",
+    "technology",
+    "volvo"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+   "tokens": [
+    "accounts",
+    "brazil",
+    "election",
+    "employees",
+    "lulas",
+    "meta",
+    "restricted"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "Zelensky turns to Europe for backing as ties with Trump deteriorate",
+   "tokens": [
+    "backing",
+    "deteriorate",
+    "europe",
+    "ties",
+    "trump",
+    "turns",
+    "zelensky"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+   "tokens": [
+    "amazon",
+    "brazil",
+    "deforestation",
+    "election",
+    "fall",
+    "key",
+    "looms",
+    "record",
+    "sees"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+   "tokens": [
+    "intensifies",
+    "row",
+    "russia",
+    "sanctions",
+    "several",
+    "trump",
+    "waives",
+    "zelensky"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "Pope Asks Putin for a Cease-Fire for a Ukrainian City Under Siege",
+   "tokens": [
+    "asks",
+    "cease",
+    "city",
+    "fire",
+    "pope",
+    "putin",
+    "siege",
+    "ukrainian",
+    "under"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "Trump waives Russia sanctions as rift with Zelenskyy widens",
+   "tokens": [
+    "rift",
+    "russia",
+    "sanctions",
+    "trump",
+    "waives",
+    "widens",
+    "zelenskyy"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’",
+   "tokens": [
+    "230",
+    "car",
+    "exactly",
+    "fly",
+    "heres",
+    "made",
+    "mph",
+    "tesla"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "China Proposes New Export Controls on AI Technologies Amid US Rivalry",
+   "tokens": [
+    "china",
+    "controls",
+    "export",
+    "proposes",
+    "rivalry",
+    "technologies"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "Developers Question Scope of Potential Apple Antitrust Settlement",
+   "tokens": [
+    "antitrust",
+    "apple",
+    "developers",
+    "potential",
+    "question",
+    "scope",
+    "settlement"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "Blue Origin is going all in on the New Glenn rocket",
+   "tokens": [
+    "blue",
+    "glenn",
+    "going",
+    "origin",
+    "rocket"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "Malaysia unveils 6 homegrown chips from its semiconductor design park",
+   "tokens": [
+    "chips",
+    "design",
+    "homegrown",
+    "malaysia",
+    "park",
+    "semiconductor",
+    "unveils"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "Oxford spin-out OMass Therapeutics lands €275 million to bring novel small-molecule therapies closer to patients",
+   "tokens": [
+    "275",
+    "bring",
+    "closer",
+    "lands",
+    "million",
+    "molecule",
+    "novel",
+    "omass",
+    "oxford",
+    "patients",
+    "small",
+    "spin",
+    "therapeutics",
+    "therapies"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "DJ Reinier Zonneveld launches AI music startup GasLab with $1M pre-seed funding",
+   "tokens": [
+    "funding",
+    "gaslab",
+    "launches",
+    "music",
+    "pre",
+    "reinier",
+    "seed",
+    "startup",
+    "zonneveld"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "Consumer appliances start-up Foundry raises pre-seed funding of ₹12 crore",
+   "tokens": [
+    "appliances",
+    "consumer",
+    "crore",
+    "foundry",
+    "funding",
+    "pre",
+    "raises",
+    "seed",
+    "start"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "Frontier reaches $625K settlement with Connecticut after data breach",
+   "tokens": [
+    "625k",
+    "breach",
+    "connecticut",
+    "data",
+    "frontier",
+    "reaches",
+    "settlement"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "RapidCanvas raises $29 million to bring AI execution to mid-market",
+   "tokens": [
+    "bring",
+    "execution",
+    "market",
+    "mid",
+    "million",
+    "raises",
+    "rapidcanvas"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "European Tech and BioTech Startups Secure Major Capital",
+   "tokens": [
+    "biotech",
+    "capital",
+    "european",
+    "major",
+    "secure",
+    "startups",
+    "tech"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "The Guardian view on the banks: too big to fail cannot mean too big to tax | Editorial",
+   "tokens": [
+    "banks",
+    "cannot",
+    "editorial",
+    "fail",
+    "guardian",
+    "mean",
+    "tax",
+    "too",
+    "view"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "American billionaire Jensen Huang’s Nvidia set for AI partnership with Germany",
+   "tokens": [
+    "american",
+    "billionaire",
+    "germany",
+    "huangs",
+    "jensen",
+    "nvidia",
+    "partnership",
+    "set"
    ]
   }
  ]
