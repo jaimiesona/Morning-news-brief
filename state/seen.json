@@ -1,335 +1,6 @@
 {
- "updated": "2026-10-17T11:03:08",
+ "updated": "2026-10-18T11:34:12",
  "stories": [
-  {
-   "date": "2026-10-10",
-   "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-   "tokens": [
-    "agent",
-    "anthropic",
-    "case",
-    "fake",
-    "gave",
-    "murder",
-    "police",
-    "rogue",
-    "tip",
-    "unsolved"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "OpenAI defends firing three AI safety researchers over breach of trust",
-   "tokens": [
-    "breach",
-    "defends",
-    "firing",
-    "openai",
-    "researchers",
-    "safety",
-    "three",
-    "trust"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "Anthropic launches a free AI scanner for open-source projects",
-   "tokens": [
-    "anthropic",
-    "free",
-    "launches",
-    "open",
-    "projects",
-    "scanner",
-    "source"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "Tech chief says EU can fend off rogue AI risk: Report",
-   "tokens": [
-    "chief",
-    "fend",
-    "risk",
-    "rogue",
-    "tech"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "RTX 5090 Discontinued? NVIDIA Reportedly Moves GB202 to RTX PRO",
-   "tokens": [
-    "5090",
-    "discontinued",
-    "gb202",
-    "moves",
-    "nvidia",
-    "pro",
-    "reportedly",
-    "rtx"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
-   "tokens": [
-    "accessing",
-    "companies",
-    "everywhere",
-    "gpus",
-    "nvidia",
-    "ways"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-   "tokens": [
-    "announces",
-    "calls",
-    "deal",
-    "diesel",
-    "gift",
-    "putin",
-    "russian",
-    "trump",
-    "zelensky"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-   "tokens": [
-    "among",
-    "cockroach",
-    "delhi",
-    "detained",
-    "group",
-    "hundreds",
-    "leaders",
-    "protest"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "China, EU reach deal to 'moderate' China's car exports to EU",
-   "tokens": [
-    "car",
-    "china",
-    "chinas",
-    "deal",
-    "exports",
-    "moderate",
-    "reach"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
-   "tokens": [
-    "administration",
-    "court",
-    "criminal",
-    "hits",
-    "international",
-    "sanctions",
-    "severe",
-    "trump"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "‘Serious blow’: Guterres condemns new US sanctions on International Criminal Court",
-   "tokens": [
-    "blow",
-    "condemns",
-    "court",
-    "criminal",
-    "guterres",
-    "international",
-    "sanctions",
-    "serious"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "Judge approves $177 million in AT&T data breach settlement funds",
-   "tokens": [
-    "177",
-    "approves",
-    "breach",
-    "data",
-    "funds",
-    "judge",
-    "million",
-    "settlement"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "China's satellite internet sector enters a phase of rapid expansion",
-   "tokens": [
-    "chinas",
-    "enters",
-    "expansion",
-    "internet",
-    "phase",
-    "rapid",
-    "satellite",
-    "sector"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "Chey Tae-won to Start Honam Semiconductor Construction Despite Delays",
-   "tokens": [
-    "chey",
-    "construction",
-    "delays",
-    "despite",
-    "honam",
-    "semiconductor",
-    "start",
-    "tae",
-    "won"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
-   "tokens": [
-    "arrests",
-    "fbi",
-    "firm",
-    "founder",
-    "negotiation",
-    "ransomware"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
-   "tokens": [
-    "attacks",
-    "exploited",
-    "flaw",
-    "max",
-    "severity",
-    "sma1000",
-    "sonicwall"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "AI Evaluation Platform Arena Raises $200M Series B at $3.1B Valuation",
-   "tokens": [
-    "200m",
-    "arena",
-    "evaluation",
-    "platform",
-    "raises",
-    "series",
-    "valuation"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "Danu Robotics’ fight to build a better recycling robot",
-   "tokens": [
-    "better",
-    "build",
-    "danu",
-    "fight",
-    "recycling",
-    "robot",
-    "robotics"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-   "tokens": [
-    "jev",
-    "launch",
-    "maker",
-    "model",
-    "non",
-    "text",
-    "valued",
-    "weeks"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "Nat Habit raises Rs 142 Cr in Series C led by Trident Growth Partners",
-   "tokens": [
-    "142",
-    "growth",
-    "habit",
-    "led",
-    "nat",
-    "partners",
-    "raises",
-    "series",
-    "trident"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "Neutral-Atom Quantum Computer Maker Oratomic Raises $475M Series B",
-   "tokens": [
-    "475m",
-    "atom",
-    "computer",
-    "maker",
-    "neutral",
-    "oratomic",
-    "quantum",
-    "raises",
-    "series"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "Kapta Space raises $24 million to expand military radar business",
-   "tokens": [
-    "business",
-    "expand",
-    "kapta",
-    "military",
-    "million",
-    "radar",
-    "raises",
-    "space"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "Sabi Raises $50 Million for a Cap Meant to Read Your Thoughts",
-   "tokens": [
-    "cap",
-    "meant",
-    "million",
-    "raises",
-    "read",
-    "sabi",
-    "thoughts",
-    "your"
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "title": "Reclinker Secures £10M to Turn Demolition Waste Into Cement",
-   "tokens": [
-    "10m",
-    "cement",
-    "demolition",
-    "reclinker",
-    "secures",
-    "turn",
-    "waste"
-   ]
-  },
   {
    "date": "2026-10-11",
    "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
@@ -2678,6 +2349,362 @@
     "nvidia",
     "partnership",
     "set"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals",
+   "tokens": [
+    "agents",
+    "anthropic",
+    "consults",
+    "cutting",
+    "deals",
+    "fair",
+    "firms",
+    "law",
+    "negotiation",
+    "norms",
+    "set",
+    "start"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "Anthropic sees AI lifting U.S. GDP to $44 trillion by 2030 in Bangkok",
+   "tokens": [
+    "2030",
+    "anthropic",
+    "bangkok",
+    "gdp",
+    "lifting",
+    "sees",
+    "trillion"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "Anthropic Pitches US Lawmakers on Bill to Block Dangerous AI Models",
+   "tokens": [
+    "anthropic",
+    "bill",
+    "block",
+    "dangerous",
+    "lawmakers",
+    "models",
+    "pitches"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "Anthropic Proposes 'AI Safety Act' to Congress Amid Government Sanctions",
+   "tokens": [
+    "act",
+    "anthropic",
+    "congress",
+    "government",
+    "proposes",
+    "safety",
+    "sanctions"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
+   "tokens": [
+    "1017",
+    "again",
+    "agentic",
+    "beats",
+    "costs",
+    "cutting",
+    "deepseek",
+    "flash",
+    "larger",
+    "massively",
+    "once",
+    "rivals",
+    "task",
+    "tasks"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+   "tokens": [
+    "arrive",
+    "celebration",
+    "global",
+    "ignites",
+    "pcs",
+    "rtx",
+    "spark",
+    "windows"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "Rubio says Trump to 'analyze' global impact of Russia sanctions during pause",
+   "tokens": [
+    "analyze",
+    "during",
+    "global",
+    "impact",
+    "pause",
+    "rubio",
+    "russia",
+    "sanctions",
+    "trump"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "European diplomats attacked by Israeli settlers in West Bank",
+   "tokens": [
+    "attacked",
+    "bank",
+    "diplomats",
+    "european",
+    "israeli",
+    "settlers",
+    "west"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "Several dead or injured in major fire at Canada military base",
+   "tokens": [
+    "base",
+    "canada",
+    "dead",
+    "fire",
+    "injured",
+    "major",
+    "military",
+    "several"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "Trump waives planned 100% tariffs targeting India a day before deadline",
+   "tokens": [
+    "100",
+    "deadline",
+    "india",
+    "planned",
+    "targeting",
+    "tariffs",
+    "trump",
+    "waives"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "Trump slaps 100% tariff on some pharmaceutical drugs via executive order",
+   "tokens": [
+    "100",
+    "drugs",
+    "executive",
+    "order",
+    "pharmaceutical",
+    "slaps",
+    "tariff",
+    "trump",
+    "via"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
+   "tokens": [
+    "musk",
+    "owned",
+    "restricted",
+    "satellite",
+    "system",
+    "ukraine",
+    "zelensky"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "Save-On-Foods reports data breach involving its More Rewards program",
+   "tokens": [
+    "breach",
+    "data",
+    "foods",
+    "involving",
+    "program",
+    "rewards",
+    "save"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "Lee Hyeong-il predicts Korea chip boom will extend into next year - CHOSUNBIZ",
+   "tokens": [
+    "boom",
+    "chip",
+    "chosunbiz",
+    "extend",
+    "hyeong",
+    "korea",
+    "lee",
+    "next",
+    "predicts"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "Starlink restrictions in Ukraine a ‘planned operation’, Zelenskyy says",
+   "tokens": [
+    "operation",
+    "planned",
+    "restrictions",
+    "starlink",
+    "ukraine",
+    "zelenskyy"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+   "tokens": [
+    "50m",
+    "boat",
+    "jong",
+    "kim",
+    "luxury",
+    "near",
+    "photos",
+    "pool",
+    "retreat",
+    "show",
+    "slides",
+    "summer",
+    "uns",
+    "water"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "Tether Invests in AIsa, Extends Seed Round as Strategic Backer",
+   "tokens": [
+    "aisa",
+    "backer",
+    "extends",
+    "invests",
+    "round",
+    "seed",
+    "strategic",
+    "tether"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "RapidCanvas raises $29M Series B led by Vertex Ventures",
+   "tokens": [
+    "29m",
+    "led",
+    "raises",
+    "rapidcanvas",
+    "series",
+    "ventures",
+    "vertex"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "Climate startup Tivano secures $606K to turn Namibia’s invasive bush into carbon credits",
+   "tokens": [
+    "606k",
+    "bush",
+    "carbon",
+    "climate",
+    "credits",
+    "invasive",
+    "namibias",
+    "secures",
+    "startup",
+    "tivano",
+    "turn"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "Matria raises $6.5M seed to connect fragmented hospital data across Latin America",
+   "tokens": [
+    "across",
+    "america",
+    "connect",
+    "data",
+    "fragmented",
+    "hospital",
+    "latin",
+    "matria",
+    "raises",
+    "seed"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "Antithesis raises $105M at $525M valuation as AI code floods the zone",
+   "tokens": [
+    "105m",
+    "525m",
+    "antithesis",
+    "code",
+    "floods",
+    "raises",
+    "valuation",
+    "zone"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "Outro raises $7M to help patients safely quit antidepressants",
+   "tokens": [
+    "antidepressants",
+    "help",
+    "outro",
+    "patients",
+    "quit",
+    "raises",
+    "safely"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "Mobile gaming studio Spill Games raises $10.5 million in funding led by Elevation Capital",
+   "tokens": [
+    "capital",
+    "elevation",
+    "funding",
+    "games",
+    "gaming",
+    "led",
+    "million",
+    "mobile",
+    "raises",
+    "spill",
+    "studio"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title": "IIT Madras alumni-founded AI video creation startup Clueso raises $10 million in funding",
+   "tokens": [
+    "alumni",
+    "clueso",
+    "creation",
+    "founded",
+    "funding",
+    "iit",
+    "madras",
+    "million",
+    "raises",
+    "startup",
+    "video"
    ]
   }
  ]
