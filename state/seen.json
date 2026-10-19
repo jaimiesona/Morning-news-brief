@@ -1,340 +1,6 @@
 {
- "updated": "2026-10-18T11:34:12",
+ "updated": "2026-10-19T13:48:17",
  "stories": [
-  {
-   "date": "2026-10-11",
-   "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
-   "tokens": [
-    "agents",
-    "anthropic",
-    "dept",
-    "fill",
-    "forms",
-    "state",
-    "tried",
-    "visa",
-    "website"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
-   "tokens": [
-    "buy",
-    "further",
-    "invest",
-    "nvidia",
-    "reflection",
-    "talks"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "Nvidia Weighs Deeper Stake or Full Takeover of AI Startup Reflection",
-   "tokens": [
-    "deeper",
-    "full",
-    "nvidia",
-    "reflection",
-    "stake",
-    "startup",
-    "takeover",
-    "weighs"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "Airtel Business CEO Discusses AI Regulation And Productivity Gains",
-   "tokens": [
-    "airtel",
-    "business",
-    "ceo",
-    "discusses",
-    "gains",
-    "productivity",
-    "regulation"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "Microsoft's Nadella bows to Trump's language diktat on \"Super Intelligence\" and uses it to attack OpenAI and Anthropic",
-   "tokens": [
-    "anthropic",
-    "attack",
-    "bows",
-    "diktat",
-    "intelligence",
-    "language",
-    "microsofts",
-    "nadella",
-    "openai",
-    "super",
-    "trumps",
-    "uses"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "A timeline of developments in AI safety since the attack on Hugging Face",
-   "tokens": [
-    "attack",
-    "developments",
-    "face",
-    "hugging",
-    "safety",
-    "since",
-    "timeline"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-   "tokens": [
-    "attack",
-    "bomb",
-    "glide",
-    "kills",
-    "least",
-    "people",
-    "russian",
-    "zaporizhzhia"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
-   "tokens": [
-    "airport",
-    "attack",
-    "houthi",
-    "hundreds",
-    "injured",
-    "killed",
-    "riyadh",
-    "twelve"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "Canada holds more trade talks with US as tariff deadline approaches",
-   "tokens": [
-    "approaches",
-    "canada",
-    "deadline",
-    "holds",
-    "talks",
-    "tariff",
-    "trade"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "President Trump rallies Republican voters in Clarksville ahead of midterm election",
-   "tokens": [
-    "ahead",
-    "clarksville",
-    "election",
-    "midterm",
-    "president",
-    "rallies",
-    "republican",
-    "trump",
-    "voters"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "Spanish PM Sanchez kicks off election campaign amid housing crisis protests",
-   "tokens": [
-    "campaign",
-    "crisis",
-    "election",
-    "housing",
-    "kicks",
-    "protests",
-    "sanchez",
-    "spanish"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
-   "tokens": [
-    "allegedly",
-    "arrested",
-    "case",
-    "cyber",
-    "exec",
-    "hackers",
-    "shinyhunters",
-    "tied"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "Department of War Announces $350 Million in Quantum-Computing Initiatives",
-   "tokens": [
-    "350",
-    "announces",
-    "computing",
-    "department",
-    "initiatives",
-    "million",
-    "quantum",
-    "war"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "Can China match up with Meta’s Muse in race to harness AI agents?",
-   "tokens": [
-    "agents",
-    "china",
-    "harness",
-    "match",
-    "metas",
-    "muse",
-    "race"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "Researchers work out how to control 2D semiconductor growth for future chips",
-   "tokens": [
-    "chips",
-    "control",
-    "future",
-    "growth",
-    "researchers",
-    "semiconductor",
-    "work"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "How you can claim up to $2,500 from Cash App $15,000,000 data breach settlement",
-   "tokens": [
-    "000",
-    "500",
-    "app",
-    "breach",
-    "cash",
-    "claim",
-    "data",
-    "settlement"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "Startup Qatar Offers Tech Companies $5.5 Million to Expand to Qatar",
-   "tokens": [
-    "companies",
-    "expand",
-    "million",
-    "offers",
-    "qatar",
-    "startup",
-    "tech"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "Barcelona Startups Secure €3.1B as Venture Capital Surges",
-   "tokens": [
-    "barcelona",
-    "capital",
-    "secure",
-    "startups",
-    "surges",
-    "venture"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "Why Chinese EVs cost $11,000 less to build than European rivals, and why tariffs won’t close the gap",
-   "tokens": [
-    "000",
-    "build",
-    "chinese",
-    "close",
-    "cost",
-    "european",
-    "evs",
-    "gap",
-    "less",
-    "rivals",
-    "tariffs",
-    "wont"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "Skello's Quitterie Mathelin-Moreaux on the €200M raise, and building with a friend",
-   "tokens": [
-    "200m",
-    "building",
-    "friend",
-    "mathelin",
-    "moreaux",
-    "quitterie",
-    "raise",
-    "skellos"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "W Group Invests $400 Million in AI Data Protection Startup SignSplit",
-   "tokens": [
-    "400",
-    "data",
-    "group",
-    "invests",
-    "million",
-    "protection",
-    "signsplit",
-    "startup"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "hexafarms Raises €4.8M for Crop Sensing",
-   "tokens": [
-    "crop",
-    "hexafarms",
-    "raises",
-    "sensing"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "Saudi auto-parts platform Autobia raises $12M Series A led by Artal Capital",
-   "tokens": [
-    "12m",
-    "artal",
-    "auto",
-    "autobia",
-    "capital",
-    "led",
-    "parts",
-    "platform",
-    "raises",
-    "saudi",
-    "series"
-   ]
-  },
-  {
-   "date": "2026-10-11",
-   "title": "Monte Carlo Capital Secures €13M First Close for Fund II",
-   "tokens": [
-    "13m",
-    "capital",
-    "carlo",
-    "close",
-    "fund",
-    "monte",
-    "secures"
-   ]
-  },
   {
    "date": "2026-10-12",
    "title": "White House reverses course and restores UK AI Safety Institute's access to frontier models",
@@ -2705,6 +2371,338 @@
     "raises",
     "startup",
     "video"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Musk and Anthropic pledge public share giveaways",
+   "tokens": [
+    "anthropic",
+    "giveaways",
+    "musk",
+    "pledge",
+    "public",
+    "share"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Anthropic safety bill limits AI release blocks to $1 billion or 50 deaths",
+   "tokens": [
+    "anthropic",
+    "bill",
+    "billion",
+    "blocks",
+    "deaths",
+    "limits",
+    "release",
+    "safety"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Microsoft abandons UK AI supercomputer as grid struggles to keep up",
+   "tokens": [
+    "abandons",
+    "grid",
+    "keep",
+    "microsoft",
+    "struggles",
+    "supercomputer"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Samsung to use TSMC’s 3nm process for Nvidia memory — Asharq Al-Awsat",
+   "tokens": [
+    "3nm",
+    "asharq",
+    "awsat",
+    "memory",
+    "nvidia",
+    "process",
+    "samsung",
+    "tsmcs",
+    "use"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Volvo expands Nvidia deal after collapse of Luminar lidar partnership",
+   "tokens": [
+    "collapse",
+    "deal",
+    "expands",
+    "lidar",
+    "luminar",
+    "nvidia",
+    "partnership",
+    "volvo"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Microsoft withdraws from £2bn Nscale deal for UK's largest AI data centre",
+   "tokens": [
+    "2bn",
+    "centre",
+    "data",
+    "deal",
+    "largest",
+    "microsoft",
+    "nscale",
+    "uks",
+    "withdraws"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Rubio says there was no US pause in intelligence sharing with Ukraine",
+   "tokens": [
+    "intelligence",
+    "pause",
+    "rubio",
+    "sharing",
+    "ukraine"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+   "tokens": [
+    "going",
+    "keep",
+    "negotiations",
+    "peace",
+    "russia",
+    "sanctions",
+    "suspension",
+    "trump"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "On Iran, Israel’s opposition is even more hawkish than Netanyahu",
+   "tokens": [
+    "even",
+    "hawkish",
+    "iran",
+    "israels",
+    "netanyahu",
+    "opposition"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Will Trump’s Endorsement of Netanyahu Fire Up His Campaign or Fizzle?",
+   "tokens": [
+    "campaign",
+    "endorsement",
+    "fire",
+    "fizzle",
+    "netanyahu",
+    "trumps"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia",
+   "tokens": [
+    "backs",
+    "historic",
+    "mistake",
+    "risks",
+    "russia",
+    "trump",
+    "zelensky"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Waiting for iPhone 18? Apple could launch its standard model in 2027",
+   "tokens": [
+    "2027",
+    "apple",
+    "iphone",
+    "launch",
+    "model",
+    "standard",
+    "waiting"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "China to impose export controls on tunnel boring machines from Nov 18",
+   "tokens": [
+    "boring",
+    "china",
+    "controls",
+    "export",
+    "impose",
+    "machines",
+    "nov",
+    "tunnel"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Europe’s Top Carriers Explore Satellite Group to Fend Off SpaceX",
+   "tokens": [
+    "carriers",
+    "europes",
+    "explore",
+    "fend",
+    "group",
+    "satellite",
+    "spacex"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "BK Japan reports data breach involving 11.18m customer records",
+   "tokens": [
+    "18m",
+    "breach",
+    "customer",
+    "data",
+    "involving",
+    "japan",
+    "records"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+   "tokens": [
+    "amelia",
+    "earharts",
+    "likely",
+    "plane",
+    "possible",
+    "researchers",
+    "trees",
+    "wreckage"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Amsterdam’s Huppa raises €1 million to build an operating system for class-based gyms and studios",
+   "tokens": [
+    "amsterdams",
+    "based",
+    "build",
+    "class",
+    "gyms",
+    "huppa",
+    "million",
+    "operating",
+    "raises",
+    "studios",
+    "system"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+   "tokens": [
+    "challenge",
+    "doubles",
+    "economics",
+    "even",
+    "healthcare",
+    "hospital",
+    "indias",
+    "khosla",
+    "ventures"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "The Pant Project Raises Rs 109 Cr In Series B Round Led By Mirae Asset",
+   "tokens": [
+    "109",
+    "asset",
+    "led",
+    "mirae",
+    "pant",
+    "project",
+    "raises",
+    "round",
+    "series"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Vessla exits stealth with $3.3M to bring AI agents to property management",
+   "tokens": [
+    "agents",
+    "bring",
+    "exits",
+    "management",
+    "property",
+    "stealth",
+    "vessla"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Barcelona-based Enzo Ventures closes €20M Fund II backing Southern European founders",
+   "tokens": [
+    "20m",
+    "backing",
+    "barcelona",
+    "based",
+    "closes",
+    "enzo",
+    "european",
+    "founders",
+    "fund",
+    "southern",
+    "ventures"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Linkener secures €7.5M to expand its energy management platform",
+   "tokens": [
+    "energy",
+    "expand",
+    "linkener",
+    "management",
+    "platform",
+    "secures"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+   "tokens": [
+    "america",
+    "every",
+    "give",
+    "kid",
+    "musk",
+    "pledges",
+    "shares",
+    "spacex"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Switzerland’s Nouscom bags €120 million to bring innovative cancer immunotherapy closer to clinical trials",
+   "tokens": [
+    "120",
+    "bags",
+    "bring",
+    "cancer",
+    "clinical",
+    "closer",
+    "immunotherapy",
+    "innovative",
+    "million",
+    "nouscom",
+    "switzerlands",
+    "trials"
    ]
   }
  ]
