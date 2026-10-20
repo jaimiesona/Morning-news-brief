@@ -1,344 +1,6 @@
 {
- "updated": "2026-10-19T13:48:17",
+ "updated": "2026-10-20T11:57:28",
  "stories": [
-  {
-   "date": "2026-10-12",
-   "title": "White House reverses course and restores UK AI Safety Institute's access to frontier models",
-   "tokens": [
-    "access",
-    "course",
-    "frontier",
-    "house",
-    "institutes",
-    "models",
-    "restores",
-    "reverses",
-    "safety",
-    "white"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "AI is less regulated than milk, says Microsoft president",
-   "tokens": [
-    "less",
-    "microsoft",
-    "milk",
-    "president",
-    "regulated"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "Microsoft plans to scale its own Maia AI chips to gigawatt levels by 2027",
-   "tokens": [
-    "2027",
-    "chips",
-    "gigawatt",
-    "levels",
-    "maia",
-    "microsoft",
-    "own",
-    "plans",
-    "scale"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "Anthropic AI Model Sends False Murder Information to Philadelphia Police",
-   "tokens": [
-    "anthropic",
-    "false",
-    "information",
-    "model",
-    "murder",
-    "philadelphia",
-    "police",
-    "sends"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "Nvidia weighs acquisition or further investment in Reflection AI",
-   "tokens": [
-    "acquisition",
-    "further",
-    "investment",
-    "nvidia",
-    "reflection",
-    "weighs"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "HCLTech Forms Anthropic Business Unit Under Global Premier Partnership",
-   "tokens": [
-    "anthropic",
-    "business",
-    "forms",
-    "global",
-    "hcltech",
-    "partnership",
-    "premier",
-    "under",
-    "unit"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
-   "tokens": [
-    "call",
-    "ditch",
-    "energy",
-    "shrugs",
-    "strikes",
-    "trump",
-    "ukraine",
-    "zelensky"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "EU approves biggest Russia sanctions package since invasion began",
-   "tokens": [
-    "approves",
-    "began",
-    "biggest",
-    "invasion",
-    "package",
-    "russia",
-    "sanctions",
-    "since"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-   "tokens": [
-    "airports",
-    "attacks",
-    "houthi",
-    "minister",
-    "response",
-    "saudi",
-    "serious",
-    "vows"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "Thousands march to Indian Supreme Court to demand election chief resign",
-   "tokens": [
-    "chief",
-    "court",
-    "demand",
-    "election",
-    "indian",
-    "march",
-    "resign",
-    "supreme",
-    "thousands"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "Deadly gold mine air strikes highlight Egypt-Sudan border insecurity",
-   "tokens": [
-    "air",
-    "border",
-    "deadly",
-    "egypt",
-    "gold",
-    "highlight",
-    "insecurity",
-    "mine",
-    "strikes",
-    "sudan"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "Fridges in French supermarkets hit by cyber attack",
-   "tokens": [
-    "attack",
-    "cyber",
-    "french",
-    "fridges",
-    "hit",
-    "supermarkets"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
-   "tokens": [
-    "air",
-    "announces",
-    "between",
-    "edge",
-    "fitbit",
-    "google",
-    "ground",
-    "middle",
-    "pixel",
-    "watch"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "T-Mobile Pushes Back After SpaceX Spectrum Deal Triggers Telecom Selloff",
-   "tokens": [
-    "back",
-    "deal",
-    "mobile",
-    "pushes",
-    "selloff",
-    "spacex",
-    "spectrum",
-    "telecom",
-    "triggers"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "Amazon in talks to buy AI startup Decart for around $7 billion: Report",
-   "tokens": [
-    "amazon",
-    "around",
-    "billion",
-    "buy",
-    "decart",
-    "startup",
-    "talks"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "TikTok CEO sees major scientific breakthroughs from AI within three years",
-   "tokens": [
-    "breakthroughs",
-    "ceo",
-    "major",
-    "scientific",
-    "sees",
-    "three",
-    "tiktok",
-    "within"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "1KOMMA5° reaches $1.35B valuation, plans €100M investment in energy AI",
-   "tokens": [
-    "100m",
-    "1komma5",
-    "35b",
-    "energy",
-    "investment",
-    "plans",
-    "reaches",
-    "valuation"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "Nat Habit raises ₹142 crore in Series C as revenue hits ₹330 Crore",
-   "tokens": [
-    "142",
-    "330",
-    "crore",
-    "habit",
-    "hits",
-    "nat",
-    "raises",
-    "revenue",
-    "series"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "HyLight raises €13 million for its autonomous airships inspecting Europe’s critical infrastructure",
-   "tokens": [
-    "airships",
-    "autonomous",
-    "critical",
-    "europes",
-    "hylight",
-    "infrastructure",
-    "inspecting",
-    "million",
-    "raises"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "Danu Robotics Secures $5 Million to Launch Cutting-Edge Waste Sorting Robot",
-   "tokens": [
-    "cutting",
-    "danu",
-    "edge",
-    "launch",
-    "million",
-    "robot",
-    "robotics",
-    "secures",
-    "sorting",
-    "waste"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "University of Lincoln secures £4.8 million for agri-food robotics hub",
-   "tokens": [
-    "agri",
-    "food",
-    "hub",
-    "lincoln",
-    "million",
-    "robotics",
-    "secures",
-    "university"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "Monopulse raises over €2M to advance electronic warfare-resistant drones",
-   "tokens": [
-    "advance",
-    "drones",
-    "electronic",
-    "monopulse",
-    "raises",
-    "resistant",
-    "warfare"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "{Funding Alert} EV Charging Startup Ionage Raises $1.3 Mn in Funding",
-   "tokens": [
-    "alert",
-    "charging",
-    "funding",
-    "ionage",
-    "raises",
-    "startup"
-   ]
-  },
-  {
-   "date": "2026-10-12",
-   "title": "Profitable French scale-up Wiremind raises €35 million after 12 years of bootstrapping",
-   "tokens": [
-    "bootstrapping",
-    "french",
-    "million",
-    "profitable",
-    "raises",
-    "scale",
-    "wiremind"
-   ]
-  },
   {
    "date": "2026-10-13",
    "title": "Meta releases its first frontier model, Muse Wonder",
@@ -2703,6 +2365,346 @@
     "nouscom",
     "switzerlands",
     "trials"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "Meta's AI spending, Muse assistant adoption in focus for quarterly results",
+   "tokens": [
+    "adoption",
+    "assistant",
+    "focus",
+    "metas",
+    "muse",
+    "quarterly",
+    "results",
+    "spending"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+   "tokens": [
+    "amazon",
+    "biggest",
+    "dev",
+    "nvidia",
+    "shot",
+    "taking",
+    "tool",
+    "torchneuron",
+    "yet"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "Former Google DeepMind top researcher launches London “compute-efficient” AI company",
+   "tokens": [
+    "company",
+    "compute",
+    "deepmind",
+    "efficient",
+    "former",
+    "google",
+    "launches",
+    "london",
+    "researcher"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "ByteDance, Alibaba and Tencent Place $35bn+ of Nvidia Chip Orders",
+   "tokens": [
+    "35bn",
+    "alibaba",
+    "bytedance",
+    "chip",
+    "nvidia",
+    "orders",
+    "place",
+    "tencent"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "How DeepSeek Is Shaping Huawei’s AI Chips in a Growing Challenge to Nvidia",
+   "tokens": [
+    "challenge",
+    "chips",
+    "deepseek",
+    "growing",
+    "huaweis",
+    "nvidia",
+    "shaping"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
+   "tokens": [
+    "announces",
+    "businesses",
+    "chancellor",
+    "doors",
+    "embrace",
+    "german",
+    "investments",
+    "nvidia",
+    "open",
+    "urges",
+    "your"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "Rubio visits India with a trip to the world's largest oil refinery topping the agenda",
+   "tokens": [
+    "agenda",
+    "india",
+    "largest",
+    "oil",
+    "refinery",
+    "rubio",
+    "topping",
+    "trip",
+    "visits",
+    "worlds"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "Alberta voters reject plan for referendum to leave Canada",
+   "tokens": [
+    "alberta",
+    "canada",
+    "leave",
+    "plan",
+    "referendum",
+    "reject",
+    "voters"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
+   "tokens": [
+    "bank",
+    "detain",
+    "israeli",
+    "people",
+    "police",
+    "raid",
+    "rare",
+    "settlers",
+    "west"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+   "tokens": [
+    "attack",
+    "australian",
+    "charged",
+    "family",
+    "father",
+    "friend",
+    "man",
+    "suspects"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them",
+   "tokens": [
+    "attacks",
+    "bank",
+    "casts",
+    "condemn",
+    "doubt",
+    "netanyahu",
+    "officials",
+    "west"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "News - CenterPoint Energy data breach affected over 1.6 million individuals",
+   "tokens": [
+    "affected",
+    "breach",
+    "centerpoint",
+    "data",
+    "energy",
+    "individuals",
+    "million",
+    "news"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "SpaceX launch Tuesday morning could be visible again from Charleston",
+   "tokens": [
+    "again",
+    "charleston",
+    "launch",
+    "morning",
+    "spacex",
+    "tuesday",
+    "visible"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "Quantinuum in Broomfield reports record low quantum computing error rate",
+   "tokens": [
+    "broomfield",
+    "computing",
+    "error",
+    "low",
+    "quantinuum",
+    "quantum",
+    "rate",
+    "record"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "European telecom giants plan joint bid for satellite spectrum",
+   "tokens": [
+    "bid",
+    "european",
+    "giants",
+    "joint",
+    "plan",
+    "satellite",
+    "spectrum",
+    "telecom"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "OpenCode hack exposes API keys amid AI distillation attacks",
+   "tokens": [
+    "api",
+    "attacks",
+    "distillation",
+    "exposes",
+    "hack",
+    "keys",
+    "opencode"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+   "tokens": [
+    "assistant",
+    "launch",
+    "months",
+    "nabs",
+    "startup",
+    "town",
+    "unicorn",
+    "valuation"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "Danish startup Plinto raises €2.9M to streamline financial controls",
+   "tokens": [
+    "controls",
+    "danish",
+    "financial",
+    "plinto",
+    "raises",
+    "startup",
+    "streamline"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "Coherence Quantum raises €2.78M to tackle quantum computer scaling challenges",
+   "tokens": [
+    "78m",
+    "challenges",
+    "coherence",
+    "computer",
+    "quantum",
+    "raises",
+    "scaling",
+    "tackle"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+   "tokens": [
+    "45b",
+    "another",
+    "anthropic",
+    "compute",
+    "deal",
+    "nscale",
+    "reportedly",
+    "talks",
+    "yet"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "Ganiga secures €2.5M to expand its AI-powered food waste technology",
+   "tokens": [
+    "expand",
+    "food",
+    "ganiga",
+    "powered",
+    "secures",
+    "technology",
+    "waste"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "Billionaire Mukesh Ambani launches India’s biggest-ever IPO",
+   "tokens": [
+    "ambani",
+    "biggest",
+    "billionaire",
+    "ever",
+    "indias",
+    "ipo",
+    "launches",
+    "mukesh"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "London’s Emerald secures €1.66 million to scale its preventive healthcare platform",
+   "tokens": [
+    "emerald",
+    "healthcare",
+    "londons",
+    "million",
+    "platform",
+    "preventive",
+    "scale",
+    "secures"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "EU-Startups identifies 20 startups among 77 projects selected for €3.4 billion net-zero funding",
+   "tokens": [
+    "among",
+    "billion",
+    "funding",
+    "identifies",
+    "net",
+    "projects",
+    "selected",
+    "startups",
+    "zero"
    ]
   }
  ]
